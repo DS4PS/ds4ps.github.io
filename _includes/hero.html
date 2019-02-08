@@ -1,0 +1,51 @@
+<div class="uk-section section-hero" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; repeat: true" style="background-color: rgb(51, 122, 183);color:white">
+    <div class="uk-container uk-container-small" >
+        {% if page.hero.image %}
+        <p class="hero-image uk-text-center" style="color:white"><img src="{{ site.post_assets | absolute_url }}{{ page.hero.image }}" alt="Hero"></p>
+        {% endif %}
+        <h1 class="uk-heading-hero uk-text-center uk-margin-remove-top" style="color:white">{{ page.hero.title }}</h1>
+        {% if page.hero.subtitle %}<p class="subtitle uk-text-lead uk-text-center" style="color:white">{{ page.hero.subtitle }}</p>{% endif %}
+        <div class = "icons-home" style="text-align:center;color:white; ">
+        {% for icons in page.courses %}
+        <a aria-label="{{icons.title}}" href="mailto:anon @anon.com" style="color:white" > <i class="{{icons.icon}}"></i></a>
+        {% endfor%}
+        
+        <br>
+        <br>
+        <br>
+       
+        <a role="button" class="down" data-scroll="" href="#posts"><i class="fa fa-angle-down fa-4x" style="color:white;"></i>
+
+</a>
+        </div>
+</div>
+</div>
+{% include news.html %}
+
+        {% if page.hero.search %}
+        <div class="hero-search">
+
+            <!-- Html Elements for Search -->
+            <div class="uk-position-relative">
+                <form class="uk-search uk-search-default uk-width-1-1" name="search-hero" onsubmit="return false;">
+                    <span data-uk-search-icon></span>
+                    <input id="hero-search" class="uk-search-input" type="search" placeholder="Search for answers...">
+                </form>
+                <ul id="hero-search-results" class="uk-position-absolute uk-width-1-1 uk-list"></ul>
+            </div>
+
+            <script>
+            SimpleJekyllSearch({
+                searchInput: document.getElementById('hero-search'),
+                resultsContainer: document.getElementById('hero-search-results'),
+                noResultsText: '<li>No results found</li>',
+                searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+                json: '/search.json'
+            });
+            </script>
+
+        </div>
+        {% endif %}
+
+    </div>
+</div>
