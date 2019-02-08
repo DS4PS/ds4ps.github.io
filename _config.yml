@@ -22,10 +22,7 @@ brand:
     image:          logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
     text:           Docs      # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
-# Default author settings
-author:
-    name:       John Smith
-    github:     PressApps    # Github username for avatar
+
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 
@@ -64,7 +61,7 @@ google_analytics:
 google_maps_api_key:
 
 # Number of posts displayed on blog page
-paginate: 5
+paginate: 7
 
 # Blog path
 paginate_path:      "/news/:num/"
