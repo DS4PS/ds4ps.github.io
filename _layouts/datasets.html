@@ -1,0 +1,72 @@
+---
+layout: default
+title: Datasets
+---
+<html>
+<head>
+   
+</head>
+<body>
+    <div class="uk-section">
+    <div class="uk-container uk-container-xsmall">
+        <h2>Datasets</h2>
+        {% for post in site.posts %}
+        <div class="uk-card card-post uk-inline uk-border-rounded uk-width-1-1 uk-margin">
+            <a class="uk-position-cover" href="{{ post.url | relative_url }}"></a>
+            <div class="uk-card-header">
+                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                    <div class="uk-width-expand">
+                        <h3 class="uk-card-title uk-margin-remove-bottom">{{ post.name_of_dataset }}</h3>
+            
+                    </div>
+                </div>
+            </div>
+            <div class="uk-card-body">
+              <table>
+                {% if post.topic_keywords %}
+                <tr>
+                  <td> Type of Data : {{ post.topic_keywords }} </td>
+                </tr>
+                {% endif %}
+                {% if post.geography %}
+                <tr>
+                  <td> Geography : {{ post.geography }} </td>
+                </tr>
+                {% endif %}
+                {% if post.number_of_rows %}
+                <tr>
+                  <td> Number Of Rows : {{ post.number_of_rows }} </td>
+                </tr>
+                {% endif %}
+                {% if post.number_of_columns %}
+                <tr>
+                  <td> Number Of Coloumns : {{ post.number_of_columns }} </td>
+                </tr>
+                {% endif %}
+                {% if post.panel %}
+                <tr>
+                  <td> Panel : {{ post.panel }} </td>
+                </tr>
+                {% endif %}
+                {% if post.time_periods %}
+                <tr>
+                  <td> Time Periods : {{ post.time_periods }} </td>
+                </tr>
+                {% endif %} 
+              </table>
+            </div>
+            <div class="uk-card-footer">
+                <button id="dataset" onclick="location.href='{{ post.link_to_dataset }}'" type="button"> <i id="general" class="fas fa-external-link-alt"></i>Download Dataset </button>
+                <br>
+                <br>
+                <span class="uk-button uk-button-text">Read more &rarr;</span>
+            </div>
+        </div>
+        {% endfor %}
+
+        {% include paginate-blog.html %}
+
+    </div>
+</div>
+</body>
+</html>

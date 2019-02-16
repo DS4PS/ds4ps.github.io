@@ -1,68 +1,177 @@
-# Docs is a premium documentation Jekyll theme
+# course-template
+Fork this template to set up a new class landing page, syllabus, etc.
 
-Desk was developed by [Ivan Chromjak](https://ivanchromjak.com) for [jekyll.plus](https://jekyll.plus/), theme [live demo](https://docs.jekyll.plus/) available.
+# This is a custom course website theme based on Jekyll-Docs template
+
+Developed by Hasitha Chikkala, Shachi K Shah under the guidance of Jesse Lecy for the DS4PS organization and available as a github pages theme that can be forked and used to build a new course website with ease.
 
 ## Features
 
-* Contact form
-* Live Search
-* Responsive videos
-* Image lightbox
-* Google maps
-* Github avatar
-* Changelog page
-* Contact form (FormSpree)
-* Pre-built pages
-* Disqus comments for posts
-* Configurable home page header images
-* Optimised for [GitHub](https://pages.github.com/) pages
-* RSS feed
-* SEO tags
-* Google Analytics
+* Course Info 
+* Syllabus Timeline (Section-wise)
+* Print Overall Syllabus
+* Datasets Info
+* Datasets Catalog
+* Discussions built from Issues 
+* Separate Course Content from website
+* Git access to edit
 
 
-## Installation
+## Setting up a Course Website
 
-Install the dependencies with [Bundler](http://bundler.io/):
+Fork this repository and update the `_config.yaml` file with your github info, baseurl and other details, also set up another repository for the content either by forking our sample repo or creating a similar one. 
 
-```bash
-bundle install
-```
+`_config.yml` - This is the principal data file used to configure the website's skeleton and then markdown files are used to add content to each of the pages in the website.
 
-Run the following to generate your site:
-```bash
-bundle exec jekyll serve
-```
+For each of these pages mentioned, there is a markdown file and a html layout associated, wherein the html decides the generalized layout for each page while the markdown is used to input custom website content. This can be mapped easily as follows:
 
-You can find more on [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+* Course Landing page    <-   index.md     +    index.html
+* Syllabus Overview page <-  syllabus.md   +   syllabus.html
+* Resources Page         <- resources.md   +  resources.html
+* Datasets Page          <-  datasets.md   +   datasets.html   
+* GetHelp Page           <- discussions.md +  discussions.html
+* Posts page             <- year-month-day-title.md + post.html
 
-## Setup
+All of these layouts are present in the layouts folder. 
+Also, the config.yml has the information for the websites navigation, the baseurl to launch the website and content properly, the author details, the header and footer details, social media links, github repo names and the url for launching github pages. The following section explains each of these data fields in detail. 
 
-### Site and author details
-Add your site and author details in `_config.yml`:
+
+### Config file - basic setup of the website
+
+The data fields in this file can be divided into the certain sections: 
+* Setup Info
 ```yaml
-# Site title and description
-title:              Docs - Documentation Jekyll Theme
-description:        Documentation Jekyll theme.
+# Site subpath, e.g. /blog
+baseurl:            "/course_website"
+
+permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "https://docs.jekyll.plus"
-
-# Site logo, image or text
-brand:
-    image:          logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
-    text:           Docs      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+url :               "https://hasi96.github.io"
 
 # Default author settings
 author:
-    name:       John Smith
-    github:     PressApps    # Github username for avatar
+    name:       Hasitha
+    github:     hasi96   # Github username for avatar
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
     peter:
         name:       Peter Brown
         github:     PressApps    # Github username for avatar
+
+# Github repository details
+github_info:
+    username:       hasi96 # Github username for avatar
+    branch:       master
+    website-repo:      course_website
+    course-repo:        Data-Science-Class
+
+```
+* Website basic Info
+```yaml
+# Site logo, image or text
+brand:
+    image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
+    text:           Foundations of Data Science      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+
+# Site title and description
+title:              DS4PS
+description:        Website for the MS in Program Eval and Data Analytics Program, ASU
+
+
+index:
+    title: Data Science
+    subtitle: This course aims at empowering students especially from a non-computerscience background to learn easy tools that can be used for data analysis
+    image: imac.svg
+
+```
+* Website Navigation 
+```yaml
+
+header:
+- title: Course Syllabus
+  url: syllabus/
+
+- title: Textbook
+  url: https://bookdown.org/yihui/bookdown-demo/ 
+
+- title: Datasets
+  url: datasets/
+
+- title: Resources
+  url: resources/
+
+- title: GetHelp
+  url: discussions/
+
+footer:
+- title: Home
+  url: /
+
+- title: Datasets
+  url: /datasets/
+
+- title: Textbook
+  url:  https://bookdown.org/yihui/bookdown-demo/
+
+- title: Course Timeline
+  url: /syllabus/
+
+
+```
+* Home Page Info
+```yaml
+
+info: 
+ program_title: Data Science for Public Sector
+ program_website: 
+ course_title:
+ course_number:
+ course_level:
+ course_website:
+ course_start_end_dates:
+ course_prerequisites:
+ class_meets_when:
+ class_meets_where:
+
+instructor:
+-  name: Jesse 
+   title: Professor
+   email:
+   phone:
+   website_url:
+   office_hours_times:
+   office_hours_location:
+   office_hours_app_url:
+   github_url: 
+   twitter_url:
+   scholar_url:
+   linked_in_url:
+-  name: Hasitha
+   title:
+   email:
+   phone: 
+   website_url:
+   office_hours_times:
+   office_hours_location:
+   office_hours_app_url:
+   github_url:
+   twitter_url:
+   scholar_url:
+   linked_in_url:
+
+
+textbooks:
+- title: Intro to Data Science
+  authors:
+  edition:
+  link: https://www.w3schools.com/tags/att_body_link.asp
+  required (y/n):
+
+```
+* Social Media Links and other settings
+```yaml
 
 # Social icons displayed in footer
 social:
@@ -83,27 +192,45 @@ social:
 # Twitter share button
 twitter_username:
 
-```
+# Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
+google_maps_api_key:
 
-### Navigation Bar
-Set in the main navigation links in `_data/navigation_header.yml`:
-```yaml
-- title: About
-  url: /about/
-```
+# Number of posts displayed on blog page
+paginate: 10
 
-### Footer
+# Blog path
+paginate_path:      "layouts/datasets/:num/"
 
-Edit copyright notice in `_config.yml`:
-```yaml
-footer:
-    copyright:
-```
+# Path to post content assets directory i.e post images, pdfs etc
+post_assets:        /assets/posts/
 
-Set in the navigation links in `_data/navigation_footer.yml`:
-```yaml
-- title: About
-  url: /about/
+post_css: /assets/css/posts
+
+# Build settings
+markdown:           kramdown
+highlighter:        rouge
+
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-avatar
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+sass:
+  style:            compressed
+
+collections:
+  docs:
+    output: true
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
 ```
 
 ### Enabling comments (via Disqus)
@@ -129,6 +256,62 @@ To enable Google Anaytics, add the following lines to your Jekyll site:
 
 Google Analytics will only appear in production, i.e., `JEKYLL_ENV=production`
 
+
+# Page-wise Customisation
+
+## Home Page (index)
+
+![](/assets/img/Capture.PNG)
+
+![](/assets/img/Capture2.PNG)
+
+As explained in the screenshots below, the config.yml and index.md are to be updated in order to build a course homepage
+
+## Syllabus Overview Page
+
+This is a view of the course syllabus divided into sections giving an overview of each section in terms of Lectures, Labs, Handout, Reading, Exam. This view is built on the syllabus.md file which builds both the icons and also populates the content displayed on clicking each section. 
+
+```
+***  <- this is added to mark the beginning of a new section
+
+# Scope of the Sector  
+Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.   
+```
+After beginning a section, one can start writing all the course details for that section in simple markdown. In order to switch on the checkbox overview for every section, assets in the following format have to be added inside that section. 
+
+```
+["Tue 02,2018"]{@date}  
+
+["slides"]{@lecture module_2_slides.html}
+["Work by the weekend"]{@lab 02-mini-hw.html} 
+[""]{@handout STA112FS_VisDayOneSlides_Fall2017.pdf}
+["Read this before the class"]{@exam STA112FS_VisDayOneSlides_Fall2017.pdf}
+["Practice"]{@exam STA112FS_VisDayOneSlides_Fall2017.pdf}
+
+```
+These asset formats also serve as links to these assets from the content repository from within respective folders - LECTURES, LABS, HANDOUT, READINGS, EXAMS. So, they can be used as part of the section's markdown formatted content as links.
+
+
+## Post Page
+
+This page shows in detailed information regarding the dataset, a more detailed information regarding the dataset such as source of dataset, owner of dataset, type of data, and other such information regarding the dataset. This pages are stored under `_posts` folder with the naming convention followed as : 
+```
+YEAR-MONTH-DAY-title.md
+```
+Where the date should be in yyyy-mm-dd-title format, it is preffred to enter current date as the post are sorted on the basis of date so by giving it current date it will show that post fist in the datset page. 
+
+In the post.md file there are two types data to be entered:
+
+* Metadata
+* Content
+    
+![](/assets/img/Image.png)
+
+
+## GetHelp Page
+
+This is an auto-generated page with tables built from config's instructor data and a Github Issues view on the repo with a filter. However, content can be added as markdown formatted text in gethelp.md.
+
 ### Google Map
 
 To display Google map on contact page, add the following in your page content, replacing latitude, longitude and zoom values:
@@ -137,26 +320,10 @@ To display Google map on contact page, add the following in your page content, r
 {% include map.html latitude="40.6700" longitude="-73.9400" zoom="16" %}
 ```
 
-### Contact Form (via FormSpree)
+## Dataset
 
-Submit the form and confirm your email address at [FormSpree](https://formspree.io/). Then add the following lines to contact page YAML Front Matter, replacing the email address:
+To create a new dataset card, you can create a new markdown file inside the `_posts` directory by following the recommended file naming format:
 
-```yaml
-formspree:
-    email: my_name@gmail.com
-    redirect: /thanks/
-```
-
-### Update favicon
-
-You can find the current favicon (favicon.png) inside the theme `/assets/img/` directory, just replace it with your new favicon.
-
-## Posts
-
-To create a new post, you can create a new markdown file inside the `_posts` directory by following the recommended file naming format:
-```
-YEAR-MONTH-DAY-title.MARKUP
-```
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. For example, the following are examples of valid post filenames:
 
 ```
@@ -164,19 +331,15 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 2012-09-12-how-to-write-a-blog.md
 ```
 
-Post requires front matter, everything in between the first and second --- are part of the YAML Front Matter, and everything after the second --- will be rendered with Markdown and show up as “Content”.
+Dataset requires front matter, everything in between the first and second --- are part of the YAML Front Matter, and everything after the second --- will be rendered with Markdown and show up as “Content”.
 The following is a post file with different configurations you can add as example:
 
 ```yaml
 ---
-layout: post
+layout: dataset
 title: How To Travel On Low Budget
 ---
 ```
-
-You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To keep things more organized, add post images to `/assets/posts/` directory, and add theme images to `/assets/img/` directory.
 
 ### Adding images
 To add an image to a post or page use the following codes:
@@ -214,105 +377,6 @@ Embed YouTube videos:
 
 To create a draft post, create the post file under the `_drafts` directory, and you can find more information in [Working with Drafts](https://jekyllrb.com/docs/drafts/).
 
-## Home Page
-
-To create a home page, just create a `index.md` file inside the root directory. The following is a YAML Front Matter example for a page:
-
-```yaml
----
-layout: home
-hero:
-    title: How Can We Help?     # hero section settings
-    subtitle: Search or browse in depth articles and videos on everything Jekyll, from basic theme setup and hosting to customisation and development
-    image: imac.svg             # display small image above title
-    search: true                # enable search
-categories:
-    columns: 3                  # number of category columns; 1, 2, 3, 4
-    title: Browse Topics
-    subtitle: Get your answers fast, jump to most popular documentation content
-featured:                       # featured docs section settings
-    title: Popular Articles
-tag: featured                   # tag used to populate featured section on home page
-section:                        # display page content
-    title: Need More?
-    subtitle: This section displays optional page content lorem ipsum
-cta:                            # call to action section
-    title: Didn't find an answer to your question?
-    subtitle: Get in touch with us for details on additional services and custom work pricing
-    button_text: Contact Us   
-    button_url: /contact/  
----
-```
-
-Home page category boxes are added in `_data/navigation_home.yml`, e.g.:
-```yml
-- title: Getting Started
-  desc: Get your account up and running in just few easy steps
-  icon: settings
-  doc: usage
-
-- title: Account and Billing
-  desc: Managing your account, creating new users and exporting data
-  icon: credit-card
-  doc: drafts
-```
-
-All available icons can be found [here](https://getuikit.com/docs/icon#library).
-
-## Docs
-
-To create a document post, just create a new page inside the root directory and add the following code in content:
-```
-{% include faqs.html %}
-```
-
-Create new doc post entries in `_docs` folder, similar to creating posts, but with following front matter settings:
-
-```yml
----
-layout: doc
-title: Category hosting Setting up new domain and page
-subtitle: This is optional doc subtitle
-tags: featured development
-author: peter
----
-```
-
-Sidebar navigation on docs post can edited in `_data/navigation_docs.yml`:
-
-```yml
-- title: Getting Started    # Section title
-  docs:
-  - home                    # Doc file name from _docs folder
-  - quickstart
-  - installation
-  - windows
-```
-
-## Changelog page
-
-Create  new page with the following front matter:
-
-```yml
----
-layout: changelog
-title: Changelog
-permalink: /changelog/
----
-```
-
-Changelog enties are added in `_data/changelog.yml`:
-
-```yml
-- title: Version 0.6.0
-  label:
-  date: Aug 15, 2017
-  list:
-  - Added style support for radio and checkbox in Firefox
-  - Removed class from Section component
-```
-
-
 ## Customization
 
 To modify the primary color, open `/_sass/theme/variables.scss` and replace the color values e.g.:
@@ -329,17 +393,6 @@ Further style customisation can be done in the following files:
 /assets/css/main.scss
 ```
 
-## Development
-
-Install [UIkit](https://getuikit.com/) font end framework dependency via Npm:
-```bash
-npm install
-```
-Enable live browser reload with the following:
-```bash
-bundle exec jekyll s --livereload
-```
-
 ## Credits and Sources
 
 - Google analytics https://www.google.com/analytics/
@@ -347,5 +400,3 @@ bundle exec jekyll s --livereload
 - UIkit front end framework https://getuikit.com/
 - Jekyll CML https://jekyllrb.com/
 
-## Support
-Customer support is provided through our Envato profile page [contact form](https://themeforest.net/user/pressapps) for up to six months from the purchase date and is provided Monday to Friday during the business week. We aim to answer all support requests daily, most are handled within 48h.

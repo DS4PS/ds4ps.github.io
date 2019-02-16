@@ -3444,24 +3444,24 @@
             return active;
         };
         var registered;
-        function registerEvent() {
-            if (registered) {
-                return;
-            }
-            registered = true;
-            on(document, "click", function(ref) {
-                var target = ref.target;
-                var defaultPrevented = ref.defaultPrevented;
-                var prev;
-                if (defaultPrevented) {
-                    return;
-                }
-                while (active && active !== prev && !within(target, active.$el) && !(active.toggle && within(target, active.toggle.$el))) {
-                    prev = active;
-                    active.hide(false);
-                }
-            });
-        }
+        // function registerEvent() {
+        //     if (registered) {
+        //         return;
+        //     }
+        //     registered = true;
+        //     on(document, "click", function(ref) {
+        //         var target = ref.target;
+        //         var defaultPrevented = ref.defaultPrevented;
+        //         var prev;
+        //         if (defaultPrevented) {
+        //             return;
+        //         }
+        //         while (active && active !== prev && !within(target, active.$el) && !(active.toggle && within(target, active.toggle.$el))) {
+        //             prev = active;
+        //             active.hide(false);
+        //         }
+        //     });
+        // }
     }
     function Dropdown(UIkit) {
         UIkit.component("dropdown", UIkit.components.drop.extend({
@@ -8770,3 +8770,5 @@
         }
     })(window);
 })();
+
+

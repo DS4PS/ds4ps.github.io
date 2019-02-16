@@ -1,0 +1,278 @@
+              //console.log(tablee.innerHTML);
+
+
+                    /*
+                     for (var i = 0; i < sections.length - 1; i++) {
+                         
+                         // var ttr = document.createElement("tr");
+
+                         var linktemp = sections[i].getElementsByTagName("asset");
+                         // if ((sections[i]).getElementsByClassName("dates").length > 0) {
+                         //    var ps = (sections[i]).getElementsByClassName("dates");
+
+
+                         if ((sections[i]).getElementsByClassName("dates").length > 0) {
+                             var ps = (sections[i]).getElementsByClassName("dates");
+                             var ttd = document.createElement("td");
+                             ttd.setAttribute("class", "hide");
+                             ttd.setAttribute("text-align", "right");
+                             var tex = document.createTextNode(ps[0].innerHTML);
+                             ttd.appendChild(tex);
+                             ttr.appendChild(ttd);
+                         } else {
+                             var ttd = document.createElement("td");
+                             var tex = document.createTextNode("");
+                             ttd.appendChild(tex);
+                             ttr.appendChild(ttd);
+                         }
+                         var ttd = document.createElement("td");
+                         var button = document.createElement("button");
+                         button.setAttribute("class", "collapsible");
+                         button.setAttribute("onclick", "expand(" + i + ");");
+                         var ttr2 = document.createElement("tr");
+                         var title = sections[i].getElementsByTagName("h1");
+                         if (title.length > 0) {
+                             var tex = document.createTextNode(title[0].innerHTML);
+                         } else {
+                             var tex = document.createTextNode("");
+
+                         }
+                         button.appendChild(tex);
+                         // }
+
+                         ttd.appendChild(button);
+                         //ttd.appendChild(tex);
+
+                         ttr.appendChild(ttd);
+                         ttr.setAttribute("text-align", "right");
+                         var count = [0, 0, 0, 0, 0];
+
+                         var flag = [-1, -1, -1, -1, -1];
+                         var readlinks = "",
+                             lecturelinks = "",
+                             handoutlinks = "",
+                             assignlinks = "";
+                         for (var j = 0; j < linktemp.length; j++) {
+
+                             var type = linktemp[j].getAttribute("type");
+                             var linkk = linktemp[j].getAttribute("href");
+
+                             linktemp[j].setAttribute("id", type);
+                             if (type == "reading") {
+                                 readlinks = readlinks + linkk + "|";
+                                 count[0]++;
+                                 flag[0] = j;
+                             } else if (type == "lecture") {
+                                 lecturelinks = lecturelinks + linkk + "|";
+                                 count[1]++;
+                                 flag[1] = j;
+                             }
+                             /* else if (type == "handout") {
+                                                       handoutlinks = handoutlinks + linkk+ "|";
+                                                     count[2]++;
+                                                     flag[2] = j;
+                                                 } 
+                             else if (type == "assignment") {
+                                 assignlinks = assignlinks + linkk + "|";
+                                 count[3]++;
+                                 flag[3] = j;
+                             }
+                             /* else if (type == "exam") {
+                                                     count[4]++;
+                                                     flag[4] = j;
+                                                 }
+
+                         }
+                         for (var j = 0; j < 5; j++) {
+                             var k = flag[j];
+
+                             if (j == 0 && k != -1) {
+                                 var linkk = linktemp[k].getAttribute("href");
+
+                                 var newCell = document.createElement("td");
+                                 var aref = document.createElement("a");
+                                 if (count[j] > 1) {
+
+                                     var te = "(function(){  localStorage.setItem(\"links\", \"" + readlinks + "\");  })();"
+                                     aref.setAttribute("onClick", te);
+                                     aref.setAttribute("href", "../reading/");
+                                 } else {
+                                     aref.setAttribute("href", linkk);
+                                 }
+                                 var icon = document.createElement("i");
+
+                                 icon.className = "fa fa-book-open";
+                                 //  aref.appendChild(icon);
+                                 newCell.appendChild(icon);
+
+                                 ttr.appendChild(newCell);
+                             }
+                             if (flag[0] == -1 && j == 0) {
+
+                                 var newCell = document.createElement("td");
+                                 var iconf = document.createElement("font");
+                                 var icon = document.createElement("i");
+                                 icon.className = "fa fa-book-open";
+                                 iconf.setAttribute("color", "f1f1f1");
+                                 iconf.appendChild(icon);
+                                 newCell.appendChild(iconf);
+
+                                 ttr.appendChild(newCell);
+                             }
+
+                             if (j == 1 && k != -1) {
+
+                                 var linkk = linktemp[k].getAttribute("href");
+                                 var newCell = document.createElement("td");
+                                 var aref = document.createElement("a");
+                                 if (count[j] > 1) {
+                                     var te = "(function(){ localStorage.setItem(\"links\", \"" + lecturelinks + "\");  })();"
+                                     aref.setAttribute("onClick", te);
+                                     aref.setAttribute("href", "../lecture/");
+                                 } else {
+                                     aref.setAttribute("href", linkk);
+                                 }
+                                 var icon = document.createElement("i");
+                                 icon.className = "fa fa-play";
+                                 //    aref.appendChild(icon);
+                                 newCell.appendChild(icon);
+                                 ttr.appendChild(newCell);
+
+                             }
+                             if (flag[1] == -1 && j == 1) {
+
+                                 var newCell = document.createElement("td");
+                                 var iconf = document.createElement("font");
+                                 var icon = document.createElement("i");
+                                 icon.className = "fa fa-play";
+                                 iconf.setAttribute("color", "f1f1f1");
+                                 iconf.appendChild(icon);
+                                 newCell.appendChild(iconf);
+
+                                 ttr.appendChild(newCell);
+                             }
+                             if (j == 3 && k != -1) {
+                                 var linkk = linktemp[k].getAttribute("href");
+                                 var newCell = document.createElement("td");
+                                 var aref = document.createElement("a");
+                                 if (count[j] > 1) {
+                                     var te = "(function(){ localStorage.setItem(\"links\", \"" + assignlinks + "\");  })();"
+                                     aref.setAttribute("onClick", te);
+                                     aref.setAttribute("href", "../assignment/");
+                                 } else {
+                                     aref.setAttribute("href", linkk);
+                                 }
+
+                                 var icon = document.createElement("i");
+                                 icon.className = "fa fa-desktop";
+                                 //  aref.appendChild(icon);
+                                 newCell.appendChild(icon);
+                                 ttr.appendChild(newCell);
+
+                             }
+                             if (flag[3] == -1 && j == 3) {
+
+                                 var newCell = document.createElement("td");
+                                 var iconf = document.createElement("font");
+                                 var icon = document.createElement("i");
+                                 icon.className = "fa fa-desktop";
+                                 iconf.setAttribute("color", "f1f1f1");
+                                 iconf.appendChild(icon);
+                                 newCell.appendChild(iconf);
+
+                                 ttr.appendChild(newCell);
+                             }
+                             if (j == 4 && k != -1) {
+                                 var linkk = linktemp[k].getAttribute("href");
+                                 var newCell = document.createElement("td");
+                                 var aref = document.createElement("a");
+                                 if (count[j] > 1) {
+                                     var te = "(function(){ localStorage.setItem(\"links\", \"" + assignlinks + "\");  })();"
+                                     aref.setAttribute("onClick", te);
+                                     aref.setAttribute("href", "../assignment/");
+                                 } else {
+                                     aref.setAttribute("href", linkk);
+                                 }
+
+                                 var icon = document.createElement("i");
+                                 icon.className = "fa fa-check-square";
+                                 // aref.appendChild(icon);
+                                 newCell.appendChild(icon);
+                                 ttr.appendChild(newCell);
+
+                             }
+                             /*if (flag[4] == -1 && j == 4) {
+
+                                 var newCell = document.createElement("td");
+                                 var iconf = document.createElement("font");
+                                 var icon = document.createElement("i");
+                                 icon.className = "fa fa-check-square";
+                                 iconf.setAttribute("color", "f1f1f1");
+                                 iconf.appendChild(icon);
+                                 newCell.appendChild(iconf);
+
+                                 ttr.appendChild(newCell);
+                             }
+                             if (j == 2 && k != -1) {
+                                 var linkk = linktemp[k].getAttribute("href");
+                                 var newCell = document.createElement("td");
+                                 var aref = document.createElement("a");
+
+                                 if (count[j] > 1) {
+                                     var te = "(function(){ localStorage.setItem(\"links\", \"" + handoutlinks + "\");  })();"
+                                     aref.setAttribute("onClick", te);
+                                     aref.setAttribute("href", "../handout/");
+                                 } else {
+                                     aref.setAttribute("href", linkk);
+                                 }
+                                 var icon = document.createElement("i");
+                                 icon.className = "fa fa-file";
+                                 //aref.appendChild(icon);
+                                 newCell.appendChild(icon);
+                                 ttr.appendChild(newCell);
+
+                             }
+                             /*if (flag[2] == -1 && j == 2) {
+
+                                 var newCell = document.createElement("td");
+                                 var iconf = document.createElement("font");
+                                 var icon = document.createElement("i");
+                                 icon.className = "fa fa-file";
+                                 iconf.setAttribute("color", "f1f1f1");
+                                 iconf.appendChild(icon);
+                                 newCell.appendChild(iconf);
+
+                                 ttr.appendChild(newCell);
+                             }
+                             */
+
+
+
+                    // }
+                    /* tablee.appendChild(ttr);
+                    var t = "<br>";
+
+                    var newCell = document.createElement("td");
+                    newCell.setAttribute("colspan", "5");
+                    //var titleMatch = new RegExp("(?<=<hr>)(.*\n?)(?=<hr>)");
+                    var divsec = document.createElement("div");
+                    divsec.setAttribute("style", "background-color: #f1f1f1;width:100%;");
+                    divsec.innerHTML = t;
+                    divsec.setAttribute("class", "child uk-padding-small ");
+                    var sec = sections[i].cloneNode(true);
+                    sec.setAttribute("style", "width:100%;text-align:center;");
+
+                    var alinks = sec.getElementsByTagName("a");
+                    for (var l = 0; l < alinks.length; l++) {
+                        alinks[l].setAttribute("style", "color: #ffc425;");
+                    }
+                    divsec.appendChild(sec);
+                    divsec.innerHTML = divsec.innerHTML + t;
+
+                    newCell.appendChild(divsec);
+
+                    ttr2.appendChild(newCell);
+
+                    //    ttr2.appendChild(divsec);
+                    tablee.appendChild(ttr2);
+    */

@@ -2,7 +2,13 @@
 layout: default
 ---
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/  3.3.1/jquery.min.js"></script>
 
     <script> 
     $(function(){
@@ -10,16 +16,114 @@ layout: default
     });
     </script> 
 
+
+<body>
+</body>
+</html>
+
+
+<head>
+  <style> 
+    td {
+      padding-left: 8px;
+    }
+    .fa{
+      /* Adjust these values accordingly */
+      height: 27px
+      padding-right: 8px;
+    }
+    .button{
+        padding-right: 8px;
+    }
+  </style>
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
+</head>
+
+
+<body>
+<div class="uk-section section-hero" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; repeat: true" style="background-color: rgb(51, 122, 183);color:white">
+    <div class="uk-container uk-container-small" >
+        {% if page.hero.image %}
+        <p class="hero-image uk-text-center" style="color:white"><img src="{{ site.post_assets | absolute_url }}{{ page.hero.image }}" alt="Hero"></p>
+        {% endif %}
+        <h1 class="uk-heading-hero uk-text-center uk-margin-remove-top" style="color:white">{{ page.hero.title }}</h1>
+        {% if page.hero.subtitle %}<p class="subtitle uk-text-lead uk-text-center" style="color:white">{{ page.hero.subtitle }}</p>{% endif %}
+        <div class = "icons-home" style="text-align:center;color:white; ">
+        {% for icons in page.courses %}
+        <a aria-label="{{icons.title}}" href="mailto:anon @anon.com" style="color:white" > <i class="{{icons.icon}}"></i></a>
+        {% endfor%}
+        
+        <br>
+        <br>
+        <br>
+       
+        <a role="button" class="down" data-scroll="" href="#posts"><i class="fa fa-angle-down fa-4x" style="color:white;"></i>
+
+</a>
+        </div>
+</div>
+
+</div>
+
+<br>
+<br>
+<div id = "tagset">{{ site.tags }}</div>
+
 <div id="posts"></div>
 
-{% if page.cta %}
-<div class="uk-section uk-text-center">
-    <div class="uk-container uk-container-small">
-        <div data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; repeat: true">
-            <h3>{{ page.cta.title }}</h3>
-            {% if page.cta.subtitle %}<p class="subtitle uk-text-lead uk-text-center">{{ page.cta.subtitle | escape }}</p>{% endif %}
-            <a class="uk-button uk-button-primary uk-button-large button-cta" href="{{ domain }}{{ page.cta.button_url }}">{{ page.cta.button_text }}</a>
-        </div>
-    </div>
+  <script>
+    var tagsdiv = document.getElementById("tagset");
+    var tags = tagsdiv.innerHTML;
+    tags = tags.replace(/&gt;/g,">");
+    tags = tags.replace(/jekyll::document/g,"");
+    tags = tags.replace(/posts/g,"");
+
+    tags = tags.replace(/collection/g,"");
+
+    tags = tags.replace(/[^a-zA-Z{}\[\]\,]/g," ");
+        tags = tags.replace(/post/g,"");
+        tags = tags.replace(/md/g,"");
+        tags = tags.replace(/\s/g,'');
+        tags = tags.replace(/\[\,*\]/g,"").replace("{","").replace("}","");
+        tagsdiv.innerHTML = "";
+        console.log(tags);
+
+    for(var t in  tags.split(",")){
+      var alink = document.createElement("a");
+      alink.setAttribute("class","uk-button uk-button-default");
+     
+      alink.setAttribute("href","{{ domain }}/tag/hololens/index.html?id="+tags.split(",")[t]);
+      
+              var text = document.createTextNode(tags.split(",")[t]);
+
+      alink.appendChild(text);
+      tagsdiv.appendChild(alink);
+    }
+
+
+    
+    //tagsdiv.innerHTML = tags;
+  </script>
+
+<hr>
 </div>
-{% endif %}
+
+
+<div class="uk-section uk-padding-large">
+<div class="uk-container-small">
+
+{{content}}
+
+<br>
+<br>
+
+</div>
+</div>
+
+
+
+</body>
+</html>
+

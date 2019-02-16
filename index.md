@@ -1,5 +1,6 @@
----
+--- 
 layout: index
+title: Syllabus
 hero:
     title: DS4PS
     subtitle: Data Science for the Public Sector
@@ -12,4 +13,5 @@ courses:
       icon: fa fa-twitter
     - title: nonprofit data science
       icon: fa fa-twitter
----
+--- 
+

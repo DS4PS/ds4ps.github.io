@@ -1,0 +1,174 @@
+button {
+    border-radius: 5px;
+    border-color: darkgray;
+    background-color: transparent;
+    color: rgb(140,29,64);
+}
+
+
+table#t02 th {
+    font-size: 1.5em;
+    color: #5e5e5e;
+    background: transparent;
+    text-align: left;
+}
+    
+h1, h2 {
+    padding-bottom: .2em;
+}
+h1 {
+    margin: 1em 0 1rem;
+    
+}
+h2 {
+    
+    margin: 1em 0 1rem;
+}
+h3 {
+    
+    color: #5e5e5e;
+    margin: 1em 0 1rem;
+}
+h4 {
+    
+    margin: 1em 0 1rem;
+}
+
+
+header {
+    color: white;
+}
+
+footer {
+    background-color:rgb(38, 184, 239);
+    color: rgb(255,255,255);
+    margin-top: 0px;
+}
+
+
+
+ button#dataset {
+    border-radius: 5px;
+    background-color: transparent;
+    border-color: rgb(140,29,64);
+}
+
+button#dataset:hover {
+    background-color: rgb(255, 198, 39);
+}
+
+i#general {
+    color: rgb(140,29,64);
+}
+
+#default_nav {
+    background-color:rgb(51, 122, 183);
+    font-size: 1.7em;
+}
+
+
+a{
+    color: maroon;
+    text-decoration: underline; 
+}
+
+
+
+ i#github_icon {
+    color: black; 
+    font-size: 1.2em;
+ }
+
+ img#logo {
+    width: 70%; 
+    height: 50%;
+    margin-left: 2em;
+    margin-right: 5em;
+ }
+
+ td#footer {
+    padding-left:6em;
+    color: black;
+    align-items: center;
+    align-self: center;
+ }
+
+ li#list {
+    color: black;
+ }
+
+
+
+ #myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #f1f1f1;
+}
+
+
+.collapsible {
+      cursor: pointer;
+      padding: 10px;
+      width: 100%;
+      border: none;
+      text-align: center;
+      outline: none;
+      font-size: 15px;
+      background-color: white;
+    } 
+    
+
+    
+    .child {
+      display:none;
+    }
+
+
+    .table{
+      background-color: white;
+      margin-left: 15px;
+    } 
+
+    .link{
+  color:#641E16;
+}
+
+h1#course_schedule {
+    text-align: left; 
+    margin-left: 15px
+}
+
+table#index {
+    background-color: transparent;
+}
+
+div#index {
+    float: left;
+    padding-left: 1.15em;
+    padding-bottom: 1em;
+}
