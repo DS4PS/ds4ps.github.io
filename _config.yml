@@ -42,23 +42,26 @@ index:
 
 
 header:
-- title: Syllabus
+- title: Home
   url: /
   
-- title: Course Schedule
-  url: schedule/
+- title: Courses
+  url: courses/
 
-- title: Textbook
-  url: https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/index.html 
+- title: Resources
+  url: resources/ 
+
+- title: Careers
+  url: careers/
+
+- title: Tutorials
+  url: tools/
 
 - title: Datasets
   url: datasets/
 
-- title: Resources
-  url: resources/
-
 - title: Get Help
-  url: discussions/
+  url: discussion/
 
 
 footer:
@@ -149,7 +152,6 @@ collections:
 markdown: kramdown
 kramdown:
   parse_block_html: true
-
 
 
 course_url: "https://ds4ps.github.io/Data-Science-Class/"

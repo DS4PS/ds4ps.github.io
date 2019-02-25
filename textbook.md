@@ -1,6 +1,0 @@
----
-layout: textbook
-head: false
-
----
-

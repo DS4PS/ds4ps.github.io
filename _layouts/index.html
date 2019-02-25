@@ -51,7 +51,7 @@ layout: default
         {% if page.hero.subtitle %}<p class="subtitle uk-text-lead uk-text-center" style="color:white">{{ page.hero.subtitle }}</p>{% endif %}
         <div class = "icons-home" style="text-align:center;color:white; ">
         {% for icons in page.courses %}
-        <a aria-label="{{icons.title}}" href="mailto:anon @anon.com" style="color:white" > <i class="{{icons.icon}}"></i></a>
+        <a aria-label="{{icons.title}}" href="\{{ icons.url }}" style="color:white" > <i class="{{icons.icon}}"></i></a>
         {% endfor%}
         
         <br>
@@ -68,10 +68,11 @@ layout: default
 
 <br>
 <br>
+<div class = "uk-container" >
 <div id = "tagset">{{ site.tags }}</div>
 
 <div id="posts"></div>
-
+</div>
   <script>
     var tagsdiv = document.getElementById("tagset");
     var tags = tagsdiv.innerHTML;
@@ -93,7 +94,7 @@ layout: default
       var alink = document.createElement("a");
       alink.setAttribute("class","uk-button uk-button-default");
      
-      alink.setAttribute("href","{{ domain }}/tag/hololens/index.html?id="+tags.split(",")[t]);
+      alink.setAttribute("href","{{ domain }}/tag/tagpage/index.html?id="+tags.split(",")[t]);
       
               var text = document.createTextNode(tags.split(",")[t]);
 

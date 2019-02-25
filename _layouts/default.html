@@ -32,18 +32,17 @@
 <body class="page-responsive">
 
 <header class="uk-background-secondary">
-    <div class="header1" data-uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar" class="" >
+
+    <div class="header1"  data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; repeat: true"  >
 
 
-        <nav id="default_nav" class="uk-navbar-container"style="color: white;">
+        <nav id="default_nav" class="uk-navbar-container">
 
 
     <div class="uk-container">
     <div data-uk-navbar>
-        <div class="uk-navbar-left">
-          <b><a class="uk-navbar-item uk-logo" href="{{ "/" | relative_url }}" >{% if site.brand.image %}<img src="{{ site.post_assets | absolute_url }}{{ site.brand.image }}" alt="{{ site.brand.text | escape }}">{% else %}{{ site.brand.text | escape }}{% endif %}</a></b> <br>
-        </div>
-        <div class="uk-navbar-right">
+       
+        <div class="uk-navbar-right" >
             <ul class="uk-navbar-nav uk-visible@m" >
                 {% for link in site.header %}
                     {% if link.url contains 'http' %}
@@ -59,22 +58,22 @@
                     {% if link.title %}
                         
                    {% if link.url contains 'http' %} 
-                    <li{{ current }}><a href="{{ link.url }}" id="list"  target="_blank"; style="color: black;">{{ link.title }}</a> 
+                    <li{{ current }}><a href="{{ link.url }}" id="list"  target="_blank"; style="color: white;">{{ link.title }}</a> 
                  </li>
                    {% else %} 
-                    <li{{ current }}><a href="{{ domain }}/{{ site.github_info.website-repo }}/{{ link.url }}" id="list" style="color: black;">{{ link.title }}</a> 
+                    <li{{ current }}><a href="{{ domain }}/{{ link.url }}" id="list"style="color: white;" >{{ link.title }}</a> 
                  </li>
                  {% endif %}
                     {% endif %}
                 {% endfor %}
                 <li>
-                <a href="https://github.com/{{ site.github_info.username }}/{{ site.github_info.website-repo }}/edit/master/{{page.path}}" target = "_blank"> <i class="fab fa-github" id="github_icon"></i></a>
+                <a href="https://github.com/{{ site.github_info.username }}/{{ site.github_info.website-repo }}/edit/master/{{page.path}}" target = "_blank" > <i class="fab fa-github" id="github_icon" style="color: white;"></i></a>
                </li>
 
             </ul>
            
             
-            <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas" data-uk-navbar-toggle-icon data-uk-toggle></a>
+            <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas" data-uk-navbar-toggle-icon data-uk-toggle style="color: white;"></a>
 
           </div>
         </div>
@@ -82,14 +81,14 @@
 
         </nav>
     </div>
-</header>
+
  
  
  
 <div>
 {{content}}
 </div>
- 
+ </header>
     {% include offcanvas.html %}
 
 
