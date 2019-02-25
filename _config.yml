@@ -31,7 +31,7 @@ author:
 github_info:
     username:          ds4ps # Github location of the course
     branch:            master
-    website-repo:      course-template
+    website-repo:      ds4ps.github.io
     course-repo:       Data-Science-Class
 
 index:
