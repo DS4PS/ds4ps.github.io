@@ -117,7 +117,7 @@ google_analytics:   UA-123960540-1
 google_maps_api_key:
 
 # Number of posts displayed on blog page
-paginate: 10
+paginate: 6
 
 # Blog path
 paginate_path:      "/news/:num/"
