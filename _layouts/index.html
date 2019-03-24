@@ -52,24 +52,29 @@ layout: default
        
        <!-- -------- BEGIN BLOG CARD ----------- -->
 
-        <article style="min-height:300px;width:600px;">
+        <article style="min-height:300px;">
         <!-- <div style = "display: inline-block;"> -->
+        
+        <section> 
          
-        <!--  -------- BLOG DATE -----------  -->
+        <!--  -------- BLOG TITLE -----------  -->
          
         <div style="float:left;width:15%">
             <span class="date_day">{{ post.date | date: "%-d" }}</span>
             <span style="color:#337ab7;font-weight:bold;">{{ post.date | date: "%b, %Y" }}</span>
         </div>
-         
-         
-        <!--  -------- BLOG BODY -----------  -->
         
          <div style = "float:left;width:85%">
-          
-           <a class = "post-css" href="{{ post.url | prepend: site.baseurl }}">
+            <a class = "post-css" href="{{ post.url | prepend: site.baseurl }}">
             <h4>{{ post.title }}</h4>
-           </a>
+            </a>
+         </div>
+
+         
+         
+          <!--  -------- BLOG BODY -----------  -->
+         
+          <div style = "float:rght;width:85%">
            
           <div class = "uk-card-body">
                 {{ post.excerpt  }}
@@ -88,9 +93,9 @@ layout: default
             {% for tag in post.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
             
-             <a class="button-tags" href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}">
+               <a class="button-tags" href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}">
                {{ tag_name }}
-             </a>
+               </a>
            
             {% endfor %}
           </span>
@@ -102,7 +107,7 @@ layout: default
             <!--   </a>                                                               -->
           
           
-      </div>   <!--  -------- END BLOG BODY -----------  -->
+      </div>      <!--  -------- END BLOG BODY -----------  -->
       <!-- </div> -->
       
        
