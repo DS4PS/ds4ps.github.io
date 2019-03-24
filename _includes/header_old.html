@@ -1,0 +1,39 @@
+<div class="site-header">
+
+    <nav class="site-nav">
+        
+        <a class="page-link" href="https://ds4ps.github.io/ds4ps_dev_site/" target="_blank">Blog</a>
+        
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+        
+        <a class="page-link" href="https://github.com/DS4PS" target="_blank">GitHub</a>
+        
+        <a href="https://github.com/DS4PS/ds4ps_dev_site/tree/master/_posts" target="_blank">
+           <i class="fab fa-github fa-1x" style="color:white;"></i>
+        </a> 
+        
+    </nav>
+
+         <a href="https://github.com/DS4PS/ds4ps_dev_site/tree/master/_posts" target="_blank" style="float:right;margin-right:50px;line-height:56px;margin-top:10px;">
+            <p class="fa fa-github fa-2x" style="color:white;text-align:right;"></p>
+         </a>         
+         
+         <h1>
+         <span>
+         <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+         </h1>
+         <p style="color:white;font-size:150%;text-align:center;">( data science for the public sector )</p>
+         </span>
+         
+         
+         
+     
+
+    
+
+
+</div>

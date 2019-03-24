@@ -1,41 +1,55 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="{{ "/css/post.css" | prepend: site.baseurl }}">
+<div class="post">
 
-<div class="uk-section">
-    <div class="uk-container uk-container-xsmall">
-        <article class="uk-article">
-
-            <h1 class="uk-article-title">{{ page.title | escape }}</h1>
-
-            <div class="uk-article-meta uk-margin-top uk-margin-medium-bottom">
-                {% include post-meta.html %}
-            </div>
-<span>[
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/tagpage/index.html?id={{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-]</span>
-            <div class="uk-article-content">
-                {{ content }}
-                {% include share.html %}
-            </div>
+  <header class="post-header">
+     <br>
+     <br>
+     
+     <h1 class="post-title">{{ page.title }}
+     <a href="https://github.com/DS4PS/ds4ps_dev_site/edit/master/{{page.path}}" target="_blank" style="float:right;">
+     <i class="fab fa-github fa-1x" style="color:lightgray;text-align:right;"></i>
+     </h1> 
+     </a>  
     
-            <hr class="uk-margin-medium">
+     <br>
+     <p style="color:#337ab7;" class="post-meta">Posted on  • {{ page.date | date: "%b %-d, %Y" }} 
+       {% if page.author %} • {{ page.author }}{% endif %}
+       {% if page.meta %} • {{ page.meta }} {% endif %}  •
+     </p>
+    
+    <div>
+    <span>
+        {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
 
-            {% include paginate-post.html %}
+         <a class="button-tags" href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}">
+           {{ tag_name }}
+         </a>
 
-            {% if site.disqus.shortname %} {% include disqus_comments.html %} {% endif %}
-        </article>
-
-        <script>
-            // Table of contents scroll to
-            UIkit.scroll('#markdown-toc a', {
-                duration: 400,
-                offset: 120
-            });
-        </script>
-
+        {% endfor %}
+    </span>
     </div>
+    
+  </header>
+  
+
+  
+<br>
+<br>
+
+<div>
+  <article class="post-content">
+    {{ content }}
+  </article>
+</div>
+  
+<div align="center">
+  	<a href="#">
+  	<i class="fa fa-arrow-circle-up fa-2x"></i>
+  	</a>
+</div>
+
 </div>

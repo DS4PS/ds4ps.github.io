@@ -1,0 +1,35 @@
+<div class="site-header">
+
+    <nav class="site-nav">
+        
+        <a class="page-link" href="https://ds4ps.github.io/ds4ps_dev_site/">Home</a>
+        
+        {% for page in site.header %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+
+        <!-- <a class="page-link" href="https://github.com/DS4PS/ds4ps_dev_site/tree/master/_posts" target="_blank">  -->
+        <!--    <i class="fab fa-github fa-1x"></i>                                                                   -->
+        <!-- </a>                                                                                                     -->
+
+        
+    </nav>
+
+
+    
+         <h1>
+         <span>
+         <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+         </h1>
+         </span>
+         
+         
+         
+     
+
+    
+
+
+</div>

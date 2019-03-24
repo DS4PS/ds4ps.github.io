@@ -1,130 +1,119 @@
 ---
 layout: default
 ---
-
-<!DOCTYPE html>
-<html>
-<head>
-  <title></title>
-</head>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/  3.3.1/jquery.min.js"></script>
-
-    <script> 
-    $(function(){
-      $("#posts").load("/news/index.html #po"); 
-    });
-    </script> 
-
-<body>
-</body>
-</html>
-
-
-<head>
-  <style> 
-    td {
-      padding-left: 8px;
-    }
-    .fa{
-      /* Adjust these values accordingly */
-      height: 27px
-      padding-right: 8px;
-    }
-    .button{
-        padding-right: 8px;
-    }
-  </style>
-  {% if site.tags != "" %}
-  {% include collecttags.html %}
-{% endif %}
-</head>
-
-
-<body>
-<div class="uk-section section-hero" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; repeat: true" style="background-color: rgb(51, 122, 183);color:white">
-    <div class="uk-container uk-container-small" >
-        {% if page.hero.image %}
-        <p class="hero-image uk-text-center" style="color:white"><img src="{{ site.post_assets | absolute_url }}{{ page.hero.image }}" alt="Hero"></p>
-        {% endif %}
-        <h1 class="uk-heading-hero uk-text-center uk-margin-remove-top" style="color:white">{{ page.hero.title }}</h1>
-        {% if page.hero.subtitle %}<p class="subtitle uk-text-lead uk-text-center" style="color:white">{{ page.hero.subtitle }}</p>{% endif %}
-        <div class = "icons-home" style="text-align:center;color:white; ">
-        {% for icons in page.courses %}
-        <a aria-label="{{icons.title}}" href="\{{ icons.url }}" style="color:white" > <i class="{{icons.icon}}"></i></a>
-        {% endfor%}
-        
-        <br>
-        <br>
-        <br>
-       
-        <a role="button" class="down" data-scroll="" href="#posts"><i class="fa fa-angle-down fa-4x" style="color:white;"></i>
-
-</a>
-        </div>
-</div>
-
-</div>
-
-<br>
-<br>
-<div class = "uk-container" >
-<div id = "tagset">{{ site.tags }}</div>
-
-<div id="posts"></div>
-</div>
-  <script>
-    var tagsdiv = document.getElementById("tagset");
-    var tags = tagsdiv.innerHTML;
-    tags = tags.replace(/&gt;/g,">");
-    tags = tags.replace(/jekyll::document/g,"");
-    tags = tags.replace(/posts/g,"");
-
-    tags = tags.replace(/collection/g,"");
-
-    tags = tags.replace(/[^a-zA-Z{}\[\]\,]/g," ");
-        tags = tags.replace(/post/g,"");
-        tags = tags.replace(/md/g,"");
-        tags = tags.replace(/\s/g,'');
-        tags = tags.replace(/\[\,*\]/g,"").replace("{","").replace("}","");
-        tagsdiv.innerHTML = "";
-        console.log(tags);
-
-    for(var t in  tags.split(",")){
-      var alink = document.createElement("a");
-      alink.setAttribute("class","uk-button uk-button-default");
-     
-      alink.setAttribute("href","{{ domain }}/tag/tagpage/index.html?id="+tags.split(",")[t]);
-      
-              var text = document.createTextNode(tags.split(",")[t]);
-
-      alink.appendChild(text);
-      tagsdiv.appendChild(alink);
-    }
-
-
-    
-    //tagsdiv.innerHTML = tags;
-  </script>
-
-<hr>
-</div>
-
-
-<div class="uk-section uk-padding-large">
-<div class="uk-container-small">
+<link rel="stylesheet" href="{{ "/css/post.css" | prepend: site.baseurl }}">
+<div class="home">
+ 
+  <hr> 
+  <p style="text-align:center;">
+   <br>
+   <img src="assets/img/data-science-46.png" alt="ds4ps" height="50" width="50" align="middle">
+   <br>
+   <img src="assets/img/public-sector-blue2.jpg" alt="ds4ps" height="200" width="200" align="middle">
+   </p>
+   <div class="uk-container-small">
 
 {{content}}
   
 
 <br>
+  <h2 style="text-align:center;">Data Science for the <br>Public Sector</h2>
+  <br>
+  <hr>
+  
+ <br>
+ <br>
+  <h1 class="page-heading">Blog Topics</h1>
+<div>
+  
+<div id = "tagset">
+  {% for tag in site.tags %}
+  {% assign t = tag | first  %}
+  <a class = "button" href = "{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{t}}">{{t}}</a>
+
+{% endfor %}
+</div>
+</div>
 <br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+    
+  <ul >
+    {% for post in site.posts %}
+      <li>
+        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+       
+       <!-- -------- BEGIN BLOG CARD ----------- -->
 
+        <article style="min-height:300px;width:600px;">
+        <!-- <div style = "display: inline-block;"> -->
+         
+        <!--  -------- BLOG DATE -----------  -->
+         
+        <div style="float:left;width:15%">
+            <span class="date_day">{{ post.date | date: "%-d" }}</span>
+            <span style="color:#337ab7;font-weight:bold;">{{ post.date | date: "%b, %Y" }}</span>
+        </div>
+         
+         
+        <!--  -------- BLOG BODY -----------  -->
+        
+         <div style = "float:left;width:85%">
+          
+           <a class = "post-css" href="{{ post.url | prepend: site.baseurl }}">
+            <h4>{{ post.title }}</h4>
+           </a>
+           
+          <div class = "uk-card-body">
+                {{ post.excerpt  }}
+          </div>
+          
+          
+          <!--  ---- READ MORE BUTTON -----  -->
+            
+           <a class="button-simple" href="{{ post.url | prepend: site.baseurl }}">
+             Read more &rarr;
+           </a>
+          
+          <!--  ---- TAGS -----  -->
+          
+          <span>
+            {% for tag in post.tags %}
+            {% capture tag_name %}{{ tag }}{% endcapture %}
+            
+             <a class="button-tags" href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}">
+               {{ tag_name }}
+             </a>
+           
+            {% endfor %}
+          </span>
+          
+          
+            <!-- <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">  -->
+            <!--     <span class="button uk-button-text">                             -->
+            <!--     Read more &rarr;</span>                                          -->
+            <!--   </a>                                                               -->
+          
+          
+      </div>   <!--  -------- END BLOG BODY -----------  -->
+      <!-- </div> -->
+      
+       
+      </article>  <!--  -------- END BLOG CARD -----------  -->
+      
+      <br>
+      </li>
+      <hr>
+      <br>
+      <br>
+
+    {% endfor %}
+  </ul>
+  <br>
+ 
 </div>
-</div>
-
-
-
-</body>
-</html>
-
+<br>
+<br>

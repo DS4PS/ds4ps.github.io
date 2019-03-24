@@ -1,0 +1,80 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ "/css/post.css" | prepend: site.baseurl }}">
+<div class="home">
+ 
+  <hr> 
+  <p style="text-align:center;">
+   <br>
+   <img src="assets/img/data-science-46.png" alt="ds4ps" height="50" width="50" align="middle">
+   <br>
+   <img src="assets/img/public-sector-blue2.jpg" alt="ds4ps" height="200" width="200" align="middle">
+   </p>
+   <div class="uk-container-small">
+
+{{content}}
+  
+
+<br>
+  <p style="text-align:center;">Data Science for the Public Sector</p>
+  <br>
+  <hr>
+  
+ <br>
+  <h1 class="page-heading">Blog</h1>
+<div>
+  
+<div id = "tagset">
+  {% for tag in site.tags %}
+  {% assign t = tag | first  %}
+  <a class = "button" href = "{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{t}}">{{t}}</a>
+
+{% endfor %}
+</div>
+</div>
+<br>
+<br>
+
+  <ul >
+    {% for post in site.posts %}
+      <li>
+        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+
+        <article style="height:200px;width:600px;">
+          <!-- <div style = "display: inline-block;"> -->
+          <div style="float:left;width:15%">
+            <span class = "date_day">{{ post.date | date: "%-d" }}</span>
+            <span>{{ post.date | date: "%b, %Y" }}</span>
+          </div>
+          <div style = "float:left;width:85%">
+        <a class = "post-css" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <div class = "uk-card-body">
+                {{ post.excerpt  }}
+            </div>
+            <span>
+  {% for tag in post.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+</span>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                <span class="button uk-button-text">
+                Read more &rarr;</span>
+              </a>
+      </div>
+    <!-- </div> -->
+      </article>
+      <hr>
+      <br>
+      </li>
+      <br>
+      <br>
+      <br>
+    {% endfor %}
+  </ul>
+  <br>
+ 
+</div>
+<br>
+<br>
