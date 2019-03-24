@@ -2,11 +2,11 @@
 
     <nav class="site-nav">
         
-        <a class="page-link" href="https://ds4ps.github.io/ds4ps_dev_site/">Home</a>
+        <a class="page-link" href="http://ds4ps.org">Home</a>
         
         {% for page in site.header %}
           {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          <a class="page-link" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
 
