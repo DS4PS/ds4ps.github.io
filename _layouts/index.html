@@ -29,15 +29,15 @@ layout: default
  </a>  
 
 <div>
-  
 <div id = "tagset">
   {% for tag in site.tags %}
   {% assign t = tag | first  %}
   <a class = "button" href = "{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{t}}">{{t}}</a>
+  {% endfor %}
+</div>
+</div>
 
-{% endfor %}
-</div>
-</div>
+    
 <br>
 <br>
 <br>
