@@ -59,7 +59,7 @@ layout: default
          
         <!--  -------- BLOG TITLE -----------  -->
         
-        <div>
+        <span>
          
         <div style="float:left;width:15%">
             <span class="date_day">{{ post.date | date: "%-d" }}</span>
@@ -72,13 +72,13 @@ layout: default
             </a>
         </div>
          
-        </div>
+        </span>
 
          
          
           <!--  -------- BLOG BODY -----------  -->
          
-          <div style = "float:rght;width:85%">
+          <div style="float:right;width:85%">
            
           <div class = "uk-card-body">
                 {{ post.excerpt  }}
