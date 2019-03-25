@@ -201,9 +201,9 @@ Nonprofit Open Data Collective [ [link](www.npdata.info) ]
 
 ### US Digital Services Overview 
 
-* Inside Obama's Stealth Startup [ [link](http://www.fastcompany.com/3046756/obama-and-his-geeks?partner=rss) ]  
-* Why I Joined the US Digital Services [ [link](https://medium.com/@USDigitalService/why-i-joined-the-u-s-digital-service-24c6682afce2) ]  
-* Five Examples of How Federal Agencies Use Big Data [ [link](http://www.businessofgovernment.org/BigData3Blog.html) ]
+Inside Obama's Stealth Startup [ [link](http://www.fastcompany.com/3046756/obama-and-his-geeks?partner=rss) ]  
+Why I Joined the US Digital Services [ [link](https://medium.com/@USDigitalService/why-i-joined-the-u-s-digital-service-24c6682afce2) ]  
+Five Examples of How Federal Agencies Use Big Data [ [link](http://www.businessofgovernment.org/BigData3Blog.html) ]
 
 
 ### Data Journalists, Bloggers & Civic Groups
