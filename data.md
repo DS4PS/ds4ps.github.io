@@ -4,88 +4,6 @@ title: Data
 permalink: /data/
 ---
 
-<style>
-p, li {
-     font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-     font-size:calc(0.85em + 0.25vw);
-     font-weight:300;
-     line-height:1.7;
-     -webkit-font-smoothing:antialiased;
-     -moz-osx-font-smoothing:grayscale;
-     margin-left:1%;
-     margin-right:0%;
-    }  
-h2{
-  font-size:calc(2em + 0.25vw) !important;
-  color: #337ab7;
-  font-weight:300;
-  margin-top:60px !important;
-  margin-bottom:20px;
-  } 
-
-h3{
-  font-size:calc(1.4em + 0.25vw);
-  font-weight:300;
-  margin-top:20px !important;
-  margin-bottom:10px;} 
-
-ul {
-  list-style-type:none;
-  margin: 0;
-  padding: 0;
-  font-size:calc(0.65em + 0.25vw);
-  line-height:1.2;
-}
-
-ul a {
-  color: gray;
-  font-size:calc(0.65em + 0.25vw);
-  line-height:1.2;
-} 
-ul a:hover {
-  color: #337ab7;
-  font-weight: bold;
-} 
-#markdown-toc a {
-  color: black;
-  font-size:calc(0.75em + 0.25vw);
-  line-height:1.2;
-}  
-
-#markdown-toc a:hover {
-    color: black;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.collapsible {
-  background-color: #fff;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 20%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
-
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
-
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
-
-.content {
-  display: none;
-  overflow: hidden;
-}
-</style>
-
-
-
 
 ## Open Data 
 
@@ -97,12 +15,26 @@ Data is more useful when it comes with a [vignette](https://ds4ps.github.io/PROG
 
 In the meantime, enjoy some of these resources:
 
-# Nonprofit Open Data
+<br>
+
+-----------------------
+
+* TOC
+{:toc}
+
+-----------------------
+
+<br>
+
+
+
+
+## Open Data for the Nonprofit Sector
 
 [Nonprofit Open Data Collective](https://nonprofit-open-data-collective.github.io/overview/)
 
 
-# Awesome Open Datasets
+## Awesome Open Datasets
 
 This is just a sample of some datasets that would be relevant to the public and nonprofit sectors from the larger catalog of open public sources curated and managed by [AwesomeData](https://github.com/awesomedata/awesome-public-datasets).
 
@@ -851,4 +783,103 @@ Transportation
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Domestic Flights 1990 to 2009](http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a)  
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Freight Analysis Framework since 2007](http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm)  
+
+
+<br>
+<br>
+
+--------------------------------------
+
+
+
+
+
+
+
+
+<style>
+p, li {
+     font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+     font-size:calc(0.85em + 0.25vw);
+     font-weight:300;
+     line-height:1.7;
+     -webkit-font-smoothing:antialiased;
+     -moz-osx-font-smoothing:grayscale;
+     margin-left:1%;
+     margin-right:0%;
+    }  
+h2{
+  font-size:calc(2em + 0.25vw) !important;
+  color: #337ab7;
+  font-weight:300;
+  margin-top:60px !important;
+  margin-bottom:20px;
+  } 
+
+h3{
+  font-size:calc(1.4em + 0.25vw);
+  font-weight:300;
+  margin-top:20px !important;
+  margin-bottom:10px;} 
+
+ul {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
+}
+
+ul a {
+  color: gray;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
+} 
+ul a:hover {
+  color: #337ab7;
+  font-weight: bold;
+} 
+#markdown-toc a {
+  color: black;
+  font-size:calc(0.75em + 0.25vw);
+  line-height:1.2;
+}  
+
+#markdown-toc a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.collapsible {
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 20%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.content {
+  display: none;
+  overflow: hidden;
+}
+</style>
+
+
+
+
+
+
 
