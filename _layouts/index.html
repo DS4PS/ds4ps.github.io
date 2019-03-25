@@ -15,6 +15,24 @@ layout: default
 /* Hide from IE Mac \*/
     .clearfix {display:block;}
 /* End hide from IE Mac */ 
+    
+.wrapper { 
+  border : 2px solid #000; 
+  overflow:hidden;
+}
+.wrapper div {
+   min-height: 20px;
+   padding: 10px;
+}
+
+@media screen and (max-width: 400px) {
+   #one { 
+    float: none;
+    margin-right:0;
+    width:auto;
+    border:0;
+    border-bottom:2px solid #000;    
+  }    
 </style>
 
 
@@ -81,9 +99,9 @@ layout: default
          
         <!--  -------- BLOG TITLE -----------  -->
         
-        <div>
+        <div class="wrapper">
          
-        <div style="float:left;width:15%">
+        <div id="one" style="float:left;width:15%">
             <span class="date_day">{{ post.date | date: "%-d" }}</span><br>
             <span style="color:#337ab7;font-weight:bold;">{{ post.date | date: "%b, %Y" }}</span><br>
         </div>
