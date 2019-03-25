@@ -2,21 +2,23 @@
 layout: default
 ---
 <link rel="stylesheet" href="{{ "/css/post.css" | prepend: site.baseurl }}">
+
 <div class="home">
  
   <hr> 
   <p style="text-align:center;">
-   <br>
-   <img src="assets/img/data-science-46.png" alt="ds4ps" height="50" width="50" align="middle">
-   <br>
-   <img src="assets/img/public-sector-blue2.jpg" alt="ds4ps" height="200" width="200" align="middle">
-   </p>
-   <div class="uk-container-small">
+    <br>
+    <img src="assets/img/data-science-46.png" alt="ds4ps" height="50" width="50" align="middle">
+    <br>
+     <img src="assets/img/public-sector-blue2.jpg" alt="ds4ps" height="200" width="200" align="middle">
+  </p>
+   
+ <!-- <div class="uk-container-small"> -->
 
 {{content}}
   
 
-<br>
+  <br>
   <h2 style="text-align:center;">Data Science for the <br>Public Sector</h2>
   <br>
   <hr>
@@ -24,7 +26,7 @@ layout: default
  <br>
  <br>
  <h1 class="page-heading">Blog Topics
- <a href="https://github.com/DS4PS/ds4ps.github.io/tree/master/_posts" target="_blank">
+ <a href="https://github.com/DS4PS/ds4ps.github.io/tree/master/_posts" target="_blank" style = "float:right;">
  <i class="fab fa-github fa-1x" style="color:lightgray;text-align:right;"></i>
  </a> 
  </h1>
@@ -48,12 +50,17 @@ layout: default
     
   <ul >
     {% for post in site.posts %}
+      
+      <br>
+      <hr><hr>
+      <br>
+   
       <li>
         <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
        
        <!-- -------- BEGIN BLOG CARD ----------- -->
 
-        <article>
+        <article style="min-height:300px;">
         <!-- <article style="min-height:300px;"> -->
         <!-- <div style = "display: inline-block;"> -->
         
@@ -125,9 +132,7 @@ layout: default
       <br>
 
     {% endfor %}
-     <br>
-     <hr><hr>
-     <br>
+
    
   </ul>
   <br>
