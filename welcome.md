@@ -29,6 +29,15 @@ Welcome to the "[sexiest career of the 21st century](https://hbr.org/2012/10/dat
 
 
 
+# Getting Started
+
+There are a few skills and knowledge domains to explore to orient yourself to the field of data science.
+
+* <h3><i class="fab fa-react"></i>Introduction to the Open Source Ecosystem </h3>  
+* <h3><i class="far fa-registered"></i>Data Programming Languages</h3>  
+* <h3><i class="fab fa-markdown"></i>Data-Driven Documents (Markdown)</h3>  
+* <h3><i class="fab fa-github-square"></i>Collaboration Tools</h3>  
+
 
 ## The Open Source Ecosystem
 
@@ -51,7 +60,7 @@ Public Affairs programs are adopting these technologies because they are free an
 <br>
 
 
-It also lends itself to open innovation since analytical solutions to public sector problems can be easily shared and adopted across localities to encourage collaboration and support an ecosystem of performance.
+It also lends itself to [open innovation](https://ds4ps.org/resources/#open-innovation) since analytical solutions to public sector problems can be easily shared and adopted across localities to encourage collaboration and support an ecosystem of performance.
 
 <p style="text-align:center;"><img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/license-fees.png" alt="R Ecosystem" width="400"></p>
 <br>
@@ -65,7 +74,7 @@ There is a non-trivial learning curve to master some of the tools, but the good 
 -------------
 
 
-## Getting Started
+## Data Programming Languages
 
 Working in the field of data science requires a data programming language. R and Python are the two most common languages you will encounter. Typically if come from the field of computer science you are likely a Python programmer, and if you come from the social sciences, statistics, or engineering yoU typically use R. There are pros and cons to each, but both are powerful and flexible. This site will emphasize R-based approaches for expertise reasons only, but Python-based applications are common in the public sector as well. 
 
@@ -109,6 +118,78 @@ Chen & Peace (2013), Applied Meta-Analysis with R
 <br>
 
 -----------------------------
+
+
+
+
+
+## Data-Driven Documents
+
+For the purpose of transparency and reproducibility, as well as simple convenience, there is high demand for documents that combine typical elements of publications and reports such as text, tables, graphs and images, and the code that was used to create the analysis presented in the text. These efforts have largely converged on Markdown as a simple publishing language, and derivations like R Markdown to incorporate output from models into documents. 
+
+**Markdown** is a simple set of rules used to format text and images. Formatting it accomplished by adding tags to text. 
+
+```
+# H1
+## H2
+### H3
+```
+<img src="https://raw.githubusercontent.com/hasi96/course_website/master/assets/img/markdown-example.png" 
+alt="markdown" width="200" />
+
+The basics are very easy to master by referencing a basic [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+But don't let the simplicity fool you. Markdown documents are extremely versatile and powerful. Using the same text and code in a document, minor changes can be made to select a variety of document outputs that best meet the needs of the client or team. For example, check out the diversity of formats available in the [R Markdown Gallery](https://rmarkdown.rstudio.com/gallery.html).
+
+R Studio makes it easy to create R Markdown documents, and you can select the format by changing the output type. Perhaps you have a regular report created as an HTML page:   
+
+```
+--- 
+output: html_document
+---
+```
+And you want to re-organize the material into a dashboard. Simply change the output type:
+
+```
+--- 
+output: flexdashboard
+---
+```
+
+Then add a few page dividers, and your analysis will now be organized something like this [StoryBoard](https://beta.rstudioconnect.com/jjallaire/htmlwidgets-showcase-storyboard/htmlwidgets-showcase-storyboard.html).
+
+Markdown is used on GitHub, Stack Overflow, and in R Markdown documents. Familiarity with the basics offers a lot of power in controlling how your analysis is presented to your audience. 
+
+You can see some advanced R Markdown features [HERE](https://ds4ps.github.io/Data-Science-Class/HANDOUTS/R_Markdown_Template.html).
+
+Download an R Markdown Template for labs [HERE](https://cdn.rawgit.com/DS4PS/Data-Science-Class/d7a11a0e/TEMPLATES/MarkdownTemplate.RMD).
+
+Check out some [NICE THEMES](http://www.datadreaming.org/post/r-markdown-theme-gallery/) for R Markdown documents.
+
+
+<br><br>
+
+-----------------------
+
+
+## Collaboration Tools
+
+
+### GitHub
+
+Working in groups [is hard](https://www.ted.com/talks/clay_shirky_on_institutions_versus_collaboration). Most work is done in groups. As a result, project management is a non-trivial task that should not be approached in an ad-hoc fashion. The field of data science has inherited many great collaboration tools that were developed to manage large teams of software engineers, but are being used for many other creative purposes:
+
+<br>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government" width="854" height="480" style="position:absolute;center:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<br>
+
+<br><br>
+
+-----------------------
+
+
+
+
 
 
 ## Data Science Communities
