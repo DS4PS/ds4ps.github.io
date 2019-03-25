@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started
-permalink: /careers/
+permalink: /start/
 ---
 
 
