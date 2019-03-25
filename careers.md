@@ -6,75 +6,6 @@ permalink: /careers/
 
 
 
-<style>
-p, li {
-     font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-     font-size:calc(0.85em + 0.25vw);
-     font-weight:300;
-     line-height:1.7;
-     -webkit-font-smoothing:antialiased;
-     -moz-osx-font-smoothing:grayscale;
-     margin-left:1%;
-     margin-right:0%;
-    }  
-
-footer li { font-size:calc(0.65em + 0.25vw); }
-    
-h2{
-  font-size:calc(2em + 0.25vw) !important;
-  color: #337ab7;
-  font-weight:300;
-  margin-top:60px !important;
-  margin-bottom:20px;
-  } 
-
-h3{
-  font-size:calc(1.4em + 0.25vw);
-  font-weight:300;
-  margin-top:20px !important;
-  margin-bottom:10px;} 
-
-ul {
-  list-style-type: circle;
-}
-
-#markdown-toc a {
-  color: black;
-  font-size:calc(0.75em + 0.25vw);
-  line-height:1.2;
-}  
-
-#markdown-toc a:hover {
-    color: black;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.collapsible {
-  background-color: #fff;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 20%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
-
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
-
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
-
-.content {
-  display: none;
-  overflow: hidden;
-}
-</style> 
 
 
 ## Data Science Careers in the Public & Nonprofit Sector
@@ -109,6 +40,13 @@ This page includes some examples of career paths and professional opportunities 
 Although the learning curve is steep, there are clear pay-offs. Nonprofits, governments, foundations, and think-tanks are actively seeking people with data science training to work as policy analysts, evidence-based managers, chief data officers, or evaluation specialists. 
 
 The UK Government has put together a nice overview on [data science career paths in government](https://github.com/ukgovdatascience/data_scientist_career_path/blob/master/index.md). 
+
+### US Digital Services Overview 
+
+* Inside Obama's Stealth Startup [ [link](http://www.fastcompany.com/3046756/obama-and-his-geeks?partner=rss) ]  
+* Why I Joined the US Digital Services [ [link](https://medium.com/@USDigitalService/why-i-joined-the-u-s-digital-service-24c6682afce2) ]  
+* Five Examples of How Federal Agencies Use Big Data [ [link](http://www.businessofgovernment.org/BigData3Blog.html) ]
+* AI Initiatives in the Federal Government [ [link](https://www.whitehouse.gov/ai/ai-american-worker/) ]
 
 ### Job Growth for R Skills 
 
@@ -199,11 +137,6 @@ Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.
 Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloomberg.org/about/) ]  
 Nonprofit Open Data Collective [ [link](www.npdata.info) ]  
 
-### US Digital Services Overview 
-
-Inside Obama's Stealth Startup [ [link](http://www.fastcompany.com/3046756/obama-and-his-geeks?partner=rss) ]  
-Why I Joined the US Digital Services [ [link](https://medium.com/@USDigitalService/why-i-joined-the-u-s-digital-service-24c6682afce2) ]  
-Five Examples of How Federal Agencies Use Big Data [ [link](http://www.businessofgovernment.org/BigData3Blog.html) ]
 
 
 ### Data Journalists, Bloggers & Civic Groups
@@ -246,5 +179,78 @@ R-Podcast [ [link](https://r-podcast.org/) ]
 
 
 
+
+
+
+
+<style>
+p, li {
+     font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+     font-size:calc(0.85em + 0.25vw);
+     font-weight:300;
+     line-height:1.7;
+     -webkit-font-smoothing:antialiased;
+     -moz-osx-font-smoothing:grayscale;
+     margin-left:1%;
+     margin-right:0%;
+    }  
+
+footer li { font-size:calc(0.65em + 0.25vw); }
+    
+h2{
+  font-size:calc(2em + 0.25vw) !important;
+  color: #337ab7;
+  font-weight:300;
+  margin-top:60px !important;
+  margin-bottom:20px;
+  } 
+
+h3{
+  font-size:calc(1.4em + 0.25vw);
+  font-weight:300;
+  margin-top:20px !important;
+  margin-bottom:10px;} 
+
+ul {
+  list-style-type: circle;
+}
+
+#markdown-toc a {
+  color: black;
+  font-size:calc(0.75em + 0.25vw);
+  line-height:1.2;
+}  
+
+#markdown-toc a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.collapsible {
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 20%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.content {
+  display: none;
+  overflow: hidden;
+}
+</style> 
 
 
