@@ -119,14 +119,14 @@ The UK Government has put together a nice overview on [data science career paths
 
 ### Example Fellowships:
 
-Data Incubator [ [fellowship overview](https://www.thedataincubator.com/fellowship.html#apply?ref=wam9saWUuYnJlZWRlbkBDb2xvcmFkby5FRFUK) ]  
-Data Science for the Public Good [ [link](https://www.bi.vt.edu/sdal/projects/data-science-for-the-public-good-program) ]
+* Data Incubator [ [fellowship overview](https://www.thedataincubator.com/fellowship.html#apply?ref=wam9saWUuYnJlZWRlbkBDb2xvcmFkby5FRFUK) ]  
+* Data Science for the Public Good [ [link](https://www.bi.vt.edu/sdal/projects/data-science-for-the-public-good-program) ]
 
 ### Example Job Boards:
 
-Indeed + “R Statistics” [ [link](https://www.indeed.com/jobs?q=R+Statistics&l=&ts=1546801625888&rs=1) ]  
-R Users [ [link](https://www.r-users.com/) ]  
-Zip Recruiter [ [link](https://www.ziprecruiter.com/Jobs/R-Programmer) ]
+* Indeed + “R Statistics” [ [link](https://www.indeed.com/jobs?q=R+Statistics&l=&ts=1546801625888&rs=1) ]  
+* R Users [ [link](https://www.r-users.com/) ]  
+* Zip Recruiter [ [link](https://www.ziprecruiter.com/Jobs/R-Programmer) ]
 
 <br>
 <br>
@@ -201,6 +201,15 @@ Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloombe
 
 
 
+### Data Journalists, Bloggers & Civic Groups
+
+Trend CT [ [link](https://trendct.org/) ] [ [github](https://github.com/trendct-data) ] [ [style guide](https://github.com/trendct/data/tree/master/data-repo-styleguide) ]   
+Todd Schneider [ [blog](http://toddwschneider.com/) ] [ [github](https://github.com/toddwschneider) ]  
+I Quant NY [ [blog](http://iquantny.tumblr.com/) ]  
+ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/chartsnthings/) ]  
+Data for Democracy [ [link](http://datafordemocracy.org/) ] 
+
+
 ### Blogs and Listservs
 
 R-Bloggers [ [link](http://www.r-bloggers.com/) ]  
@@ -221,14 +230,7 @@ Data Skeptic [ [link](https://dataskeptic.com/) ]
 More Or Less [ [link](http://www.bbc.co.uk/programmes/p02nrss1) ]  
 Linear Digression [ [link](http://lineardigressions.com/) ]  
 R-Podcast [ [link](https://r-podcast.org/) ]
-
-### Data Journalists, Bloggers & Civic Groups
-
-Trend CT [ [link](https://trendct.org/) ] [ [github](https://github.com/trendct-data) ] [ [style guide](https://github.com/trendct/data/tree/master/data-repo-styleguide) ]   
-Todd Schneider [ [blog](http://toddwschneider.com/) ] [ [github](https://github.com/toddwschneider) ]  
-I Quant NY [ [blog](http://iquantny.tumblr.com/) ]  
-ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/chartsnthings/) ]  
-Data for Democracy [ [link](http://datafordemocracy.org/) ]  
+ 
 
 
 
