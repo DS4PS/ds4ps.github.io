@@ -10,6 +10,8 @@ email:
 twitter_username: username
 
 header:
+  - title: Getting Started
+    url : /introducing
   - title: Careers
     url : /careers
   - title: Resources
