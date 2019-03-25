@@ -3,6 +3,21 @@ layout: default
 ---
 <link rel="stylesheet" href="{{ "/css/post.css" | prepend: site.baseurl }}">
 
+<style>
+.clearfix:after {
+    content:".";
+    display:block;
+    height:0;
+    clear:both;
+    visibility:hidden;
+}
+.clearfix {display:inline-block;}
+/* Hide from IE Mac \*/
+    .clearfix {display:block;}
+/* End hide from IE Mac */ 
+</style>
+
+
 <div class="home">
  
   <hr> 
@@ -57,7 +72,8 @@ layout: default
         <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
        
        <!-- -------- BEGIN BLOG CARD ----------- -->
-
+        
+        <div class="clearfix" > 
         <article style="clear:both;overflow:hidden;">
         <!-- <article style="min-height:300px;"> -->
         <!-- <div style = "display: inline-block;"> -->
@@ -122,7 +138,7 @@ layout: default
       
          
       </article>  <!--  -------- END BLOG CARD -----------  -->
-      
+      </div>
        
       </li>
    
