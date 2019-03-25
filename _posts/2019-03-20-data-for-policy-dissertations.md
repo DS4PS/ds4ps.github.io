@@ -2,7 +2,7 @@
 layout: post
 title: Finding Data for Public Management / Public Policy Dissertations
 tags: [ open data, public policy ]
-author:
+author: Jesse Lecy
 ---
 
 Andy Whitford at the University of Georgia wrote a blog on using [DOI Codes](https://www.apastyle.org/learn/faqs/what-is-doi) to find data appropriate for scholarship in public affairs. 
