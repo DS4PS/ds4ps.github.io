@@ -53,16 +53,17 @@ layout: default
        
        <!-- -------- BEGIN BLOG CARD ----------- -->
 
-        <article style="min-height:300px;">
+        <article>
+        <!-- <article style="min-height:300px;"> -->
         <!-- <div style = "display: inline-block;"> -->
         
          
         <!--  -------- BLOG TITLE -----------  -->
         
-        <span>
+        <div>
          
         <div style="float:left;width:15%">
-            <span class="date_day">{{ post.date | date: "%-d" }}</span>
+            <span class="date_day">{{ post.date | date: "%-d" }}</span><br>
             <span style="color:#337ab7;font-weight:bold;">{{ post.date | date: "%b, %Y" }}</span>
         </div>
         
@@ -72,7 +73,7 @@ layout: default
             </a>
         </div>
          
-        </span>
+        </div>
 
          
          
@@ -114,21 +115,26 @@ layout: default
       </div>      <!--  -------- END BLOG BODY -----------  -->
       <!-- </div> -->
       
-      <br>
-      <hr>
-      <br>
          
       </article>  <!--  -------- END BLOG CARD -----------  -->
       
       </li>
+   
       <br>
       <hr>
       <br>
 
     {% endfor %}
+     <br>
+     <hr><hr>
+     <br>
+   
   </ul>
   <br>
- 
+
 </div>
+
+<br>
+<hr>    
 <br>
 <br>
