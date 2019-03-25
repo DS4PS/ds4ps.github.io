@@ -11,7 +11,7 @@ twitter_username: username
 
 header:
   - title: Getting Started
-    url : /start
+    url : /welcome
   - title: Careers
     url : /careers
   - title: Resources
