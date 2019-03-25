@@ -140,7 +140,7 @@ For the purpose of transparency and reproducibility, as well as simple convenien
 <img src="https://raw.githubusercontent.com/hasi96/course_website/master/assets/img/markdown-example.png" 
 alt="markdown" width="200" />
 
-The basics are very easy to master by referencing a basic [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+The basics are very easy to master by referencing a basic [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or [Tutorial](https://www.markdowntutorial.com/).
 
 But don't let the simplicity fool you. Markdown documents are extremely versatile and powerful. Using the same text and code in a document, minor changes can be made to select a variety of document outputs that best meet the needs of the client or team. For example, check out the diversity of formats available in the [R Markdown Gallery](https://rmarkdown.rstudio.com/gallery.html).
 
