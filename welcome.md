@@ -163,6 +163,8 @@ Then add a few page dividers, and your analysis will now be organized something 
 
 Markdown is used on GitHub, Stack Overflow, and in R Markdown documents. Familiarity with the basics offers a lot of power in controlling how your analysis is presented to your audience. 
 
+### Templates
+
 Checkout many types of R Markdown formats [HERE](https://rmarkdown.rstudio.com/articles.html).
 
 Check out some [NICE THEMES](http://www.datadreaming.org/post/r-markdown-theme-gallery/) for R Markdown documents.
