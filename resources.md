@@ -67,36 +67,7 @@ Resources for those that want to leverage data science tools for work in governm
 <br>
 
  
-### US Digital Services Overview 
 
-* Inside Obama's Stealth Startup [ [link](http://www.fastcompany.com/3046756/obama-and-his-geeks?partner=rss) ]  
-* Why I Joined the US Digital Services [ [link](https://medium.com/@USDigitalService/why-i-joined-the-u-s-digital-service-24c6682afce2) ]  
-* Five Examples of How Federal Agencies Use Big Data [ [link](http://www.businessofgovernment.org/BigData3Blog.html) ]
-
-
-
-
-
-### Examples of Good Local Government Portals
-
-* Washington DC [ [site](http://opendata.dc.gov/) ] [ [shapefiles on github](https://github.com/benbalter/dc-maps) ] [ [data community dc](https://github.com/datacommunitydc) ]  
-* Chattanooga Tableau Site [[link](https://performance.chattanooga.gov/dashboard/y4sb-89dw#stronger_neighborhoods) ]
-
-
-
-### Artificial Intelligence’s Impact on Government
-
-* AI to Transform Government [ [link](http://www.businessofgovernment.org/sites/default/files/Using%20Artificial%20Intelligence%20to%20Transform%20Government.pdf) ] 
-* AI for the American People [ [link](https://www.whitehouse.gov/ai/) ]  
-* Delivering Artificial Intelligence in Government: Challenges and Opportunities [ [IBM report](http://www.businessofgovernment.org/report/delivering-artificial-intelligence-government-challenges-and-opportunities) ]
-* Brookings Center Report on Automation [ [link](https://www.brookings.edu/wp-content/uploads/2019/01/ES_2019.01_BrookingsMetro_Automation-AI_Report_Muro-Maxim-Whiton-FINAL.pdf) ]  
-* Developing AI for Federal Government [ [link](https://www.nextgov.com/emerging-tech/2019/01/hhs-contract-will-offer-ai-tech-support-all-government/154078/) ]
-
-
-<br>
-<br>
-
------------------------
 
 
 
@@ -202,6 +173,14 @@ Data journalists are making their stories transparent by posting the data and co
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/anne_milgram_why_smart_statistics_are_the_key_to_fighting_crime" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 <br>
 
+
+### US Digital Services Overview 
+
+* Inside Obama's Stealth Startup [ [link](http://www.fastcompany.com/3046756/obama-and-his-geeks?partner=rss) ]  
+* Why I Joined the US Digital Services [ [link](https://medium.com/@USDigitalService/why-i-joined-the-u-s-digital-service-24c6682afce2) ]  
+* Five Examples of How Federal Agencies Use Big Data [ [link](http://www.businessofgovernment.org/BigData3Blog.html) ]
+
+
 ### Predictive Analytics Models
 
 * Food Inspection Forecasting: case study on predictive analytics for food violations in Chicago[ [link](http://chicago.github.io/food-inspections-evaluation/) ]   
@@ -216,12 +195,33 @@ Data journalists are making their stories transparent by posting the data and co
 * State and National Presidential Poll Aggregation [ [link](http://www.slate.com/features/pkremp_forecast/report.html) ]
 
 
+
+
+
+
+### Artificial Intelligence’s Impact on Government
+
+* AI to Transform Government [ [link](http://www.businessofgovernment.org/sites/default/files/Using%20Artificial%20Intelligence%20to%20Transform%20Government.pdf) ] 
+* AI for the American People [ [link](https://www.whitehouse.gov/ai/) ]  
+* Delivering Artificial Intelligence in Government: Challenges and Opportunities [ [IBM report](http://www.businessofgovernment.org/report/delivering-artificial-intelligence-government-challenges-and-opportunities) ]
+* Brookings Center Report on Automation [ [link](https://www.brookings.edu/wp-content/uploads/2019/01/ES_2019.01_BrookingsMetro_Automation-AI_Report_Muro-Maxim-Whiton-FINAL.pdf) ]  
+* Developing AI for Federal Government [ [link](https://www.nextgov.com/emerging-tech/2019/01/hhs-contract-will-offer-ai-tech-support-all-government/154078/) ]
+
+
+
 ### Open Innovation
 
 * The Data-Driven Justice Initiative [ [link](https://nonprofitquarterly.org/2016/07/06/data-driven-white-house-initiative-share-replicable-criminal-justice-reforms/?utm_source=Daily+Newswire&utm_campaign=338e62de4e-Daily_Digest_23437_6_2016&utm_medium=email&utm_term=0_94063a1d17-338e62de4e-12258093) ]  
 * Next Stage in the Open Data Movement [ [link](http://www.governing.com/topics/transportation-infrastructure/whats-the-next-stage-in-the-open-data-movement.html) ]  
 * Challenge.gov: Using Competitions to Spur Innovation [ [link](http://www.businessofgovernment.org/sites/default/files/Challenge.gov_.pdf) ]  
 * Data for Democracy [ [link](http://datafordemocracy.org/) ]
+
+
+### Examples of Good Local Government Portals
+
+* Washington DC [ [site](http://opendata.dc.gov/) ] [ [shapefiles on github](https://github.com/benbalter/dc-maps) ] [ [data community dc](https://github.com/datacommunitydc) ]  
+* Chattanooga Tableau Site [[link](https://performance.chattanooga.gov/dashboard/y4sb-89dw#stronger_neighborhoods) ]
+
 
 
 ### Data Science Vignettes
