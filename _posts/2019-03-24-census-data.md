@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Harmonized Census Tract Files 1970-2010
+title: Harmonized Census Tract Data 1970-2010
 tags: [ open data, census, gis ]
 author:
 ---
