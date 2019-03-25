@@ -71,9 +71,11 @@ Table 1: (CL8) Total Population
 
 ```
 
+## Diversities and Disparities Project
+
 Similarly, the Diversities and Disparities project run by John Logan and colleagues have generated a free longitudinal dataset of harmonized Census variables from 1970 to 2010:
 
-https://s4.ad.brown.edu/Projects/Diversity/Researcher/Bridging.htm
+[https://s4.ad.brown.edu/Projects/Diversity/Researcher/Bridging.htm](https://s4.ad.brown.edu/Projects/Diversity/Researcher/Bridging.htm)
 
 [DATA DICTIONARY](https://s4.ad.brown.edu/projects/diversity/Researcher/List%20of%20Available%20Variables.pdf) 
 
