@@ -41,12 +41,6 @@ There are a few platforms and skills that serve as the foundations of data analy
 
 More advanced work in data science will dive deeper into statistical models and machine learning approaches. 
 
-| <h3> <i class="fab fa-react"></h3>        | <h3> Introduction to the Open Source Ecosystem </h3>  |  	
-| <h3><i class="far fa-registered"></h3>    | <h3>Data Programming Languages </h3>  |  
-| <h3><i class="fab fa-markdown"></h3>      | <h3>Data-Driven Documents </h3>     | 	
-| <h3><i class="fab fa-github-square"></h3> | <h3>Collaboration Tools </h3> |    	
-
-
 
 ## The Open Source Ecosystem
 
