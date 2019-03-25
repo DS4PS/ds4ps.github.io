@@ -190,7 +190,6 @@ R Open Science [ [link](https://ropensci.org/) ]
 R Open Government [ [link](http://ropengov.github.io/) ]  
 R Ladies [ [link](https://rladies.org/) ]  
 Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]  
-Nonprofit Open Data Collective [ [link](www.npdata.info) ]  
 GitHub's Government Team [ [link](https://government.github.com/) ]  
 
 
@@ -198,7 +197,7 @@ GitHub's Government Team [ [link](https://government.github.com/) ]
 
 Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.org/campaigns/public-interest-tech/) ]  
 Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloomberg.org/about/) ]  
-
+Nonprofit Open Data Collective [ [link](www.npdata.info) ]  
 
 
 ### Data Journalists, Bloggers & Civic Groups
