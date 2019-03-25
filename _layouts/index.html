@@ -17,15 +17,21 @@ layout: default
 /* End hide from IE Mac */ 
     
 .wrapper {  
-  overflow:hidden;
+  /* overflow:hidden; */
 }
 .wrapper div {
-   min-width: 30px;
+   /* min-width: 30px; */
    /* padding: 10px; */
 }
 
 @media screen and (max-width: 400px) {
    #one { 
+    float: none;
+    margin-right:0;
+    width:auto;
+    border:0;   
+   } 
+   #two { 
     float: none;
     margin-right:0;
     width:auto;
@@ -105,19 +111,19 @@ layout: default
             <span style="color:#337ab7;font-weight:bold;">{{ post.date | date: "%b, %Y" }}</span><br>
         </div>
         
-        <div style = "float:left;width:85%">
+        <div id="two" style = "float:left;width:85%">
             <a class = "post-css" href="{{ post.url | prepend: site.baseurl }}">
             <h4>{{ post.title }}</h4>
             </a>
         </div>
          
-        </div>
+        <!-- </div> -->
 
          
          
           <!--  -------- BLOG BODY -----------  -->
          
-          <div style="float:right;width:85%"> 
+          <!-- <div style="float:right;width:85%">  -->
            
           <div class = "uk-card-body">
                 {{ post.excerpt  }}
