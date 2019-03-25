@@ -17,7 +17,12 @@ For example, [THUS STUDY](https://doi.org/10.3886/ICPSR36129.v1) by Ringwalt (20
 
 The [DOI page](https://doi.org/10.3886/ICPSR36129.v1) often makes it easy to quickly assess the data from the study by providing useful metadata:
 
+<br>
+
 -----
+
+<br>
+
 
 ### Study Design
 
