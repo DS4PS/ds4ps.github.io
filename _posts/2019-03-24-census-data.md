@@ -5,11 +5,11 @@ tags: [ open data, census, gis ]
 author:
 ---
 
-Have you ever tried working with census data over time and encountered challenges with changes to Census tracts, which alter the units of analysis? 
+Have you ever tried working with census data over time and encountered challenges with changes to Census tracts, which alter the units of analysis? Then you will appreciate these projects.
 
-The IPUMS National Historical Geographic Information System at the University of Minnesota provides Census files that have all been harmonized to 2010 tracts:
+The National Historical Geographic Information System at the University of Minnesota provides Census files that have all been harmonized to 2010 tracts:
 
-https://www.nhgis.org/documentation/time-series
+[https://www.nhgis.org/documentation/time-series](https://www.nhgis.org/documentation/time-series)
 
 The build returns an extremely well-structured and well-documented data file for all 72,000+ Census tracts.
 
@@ -67,6 +67,8 @@ Table 1: (CL8) Total Population
                 Source table: P1. Total Population
                     Universe: Total population
                         Variable: [H7V001] Total
+...
+
 ```
 
 Similarly, the Diversities and Disparities project run by John Logan and colleagues have generated a free longitudinal dataset of harmonized Census variables from 1970 to 2010:
@@ -79,3 +81,4 @@ https://s4.ad.brown.edu/Projects/Diversity/Researcher/Bridging.htm
 
 [DATA DOWNLOAD](https://s4.ad.brown.edu/projects/diversity/Researcher/LTBDDload/Default.aspx)
 
+Kudos for these resources!
