@@ -31,37 +31,15 @@ Welcome to the "[sexiest career of the 21st century](https://hbr.org/2012/10/dat
 
 # Getting Started
 
-There are a few skills and knowledge domains to explore to orient yourself to the field of data science.
+There are a few platforms and skills that serve as the foundations of data analytics. If you are new to the field, start by familiarizing yourself with these concepts. 
 
 
-* <h3><i class="fab fa-react"></i>Introduction to the Open Source Ecosystem </h3>  
-* <h3><i class="far fa-registered"></i>Data Programming Languages</h3>  
-* <h3><i class="fab fa-markdown"></i>Data-Driven Documents (Markdown)</h3>  
-* <h3><i class="fab fa-github-square"></i>Collaboration Tools</h3>  
+* <h3> <i class="fab fa-react"></i>  The Open Source Ecosystem </h3>  
+* <h3><i class="far fa-registered"></i> Data Programming Languages</h3>  
+* <h3><i class="fab fa-markdown"></i> Data-Driven Documents (Markdown)</h3>  
+* <h3><i class="fab fa-github-square"></i>  Collaboration Tools</h3>  
 
-
-###  Getting Started 
-
-
-<table style="width:80%">  
-  <tr>  
-    <td> <h3><i class="fab fa-react"></h3> </td>  
-    <td> <h3>Introduction to the Open Source Ecosystem </h3>  </td>  
-  </tr>  
-  <tr>  
-    <td> <h3><i class="far fa-registered"></h3> </td>
-    <td> <h3>Data Programming Languages </h3>  </td> 
-  </tr> 
-  <tr> 
-    <td> <h3><i class="fab fa-markdown"></h3> </td> 
-    <td> <h3>Data-Driven Documents </h3>  </td>  
-  </tr>  
-  <tr>  
-    <td> <h3><i class="fab fa-github-square"></h3> </td>  
-    <td> <h3>Collaboration Tools </h3>  </td>   
-  </tr>  
-</table>  
-
+More advanced work in data science will dive deeper into statistical models and machine learning approaches. 
 
 
 
