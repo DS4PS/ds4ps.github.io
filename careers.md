@@ -76,27 +76,32 @@ The UK Government has put together a nice overview on [data science career paths
 ## Professional Training
 
 
-### Data Science Courses in Public Affairs Schools 
+### Example Data Science Courses in Public Affairs Schools 
  
 * Arizona State: [ [Data Science for the Social Sector](https://ds4ps.github.io/course_website/) ] [ [Data-Driven Management for Public Organizations](http://www.lecy.info/data-driven-management) ]
 * Brigham Young: [ [Data Science for Public Management](https://statsf18.classes.andrewheiss.com/reading/04-reading/) ] [ [Data Viz](https://datavizf18.classes.andrewheiss.com/) ]  
-* Georgetown: [Data Science for Public Policy](https://georgetownmccourt.github.io/data-science/)   
-* Syracuse iSchool: [ [Applied Data Science](http://my.ischool.syr.edu/uploads/coursesyllabus/687syllabus2013maymester-1133.73673-6a0081f6-0348-4ec4-a75d-8ccf04e8ffe3.pdf) ]
-* Carnegie Mellon: [ [Data Analytics Course](http://www.andrew.cmu.edu/user/achoulde/94842/index.html#schedule) ] 
-* SUNY Albany: [ [PhD Seminar in Social Network Analysis](http://www.albany.edu/wwwres/kretheme/PAD777/overview.html) ] 
-* Hertie School of Governance: [ [Data Analysis](https://github.com/mhaber/HertieDataScience) ]  [ [Collaboration](https://github.com/HertieDataScience/SyllabusAndLectures) ] [ [Text Analysis](https://github.com/mhaber/HertieTextAnalysis) ]  
-* University of Washington: [ [course](https://evansdatascience.github.io/GovernanceAnalytics/) ]  
 * Carleton University, Canada: [ [Big Data & Society](https://github.com/TraceyLauriault/COMS2200_Fall2017) ]  
+* Carnegie Mellon: [ [Data Analytics Course](http://www.andrew.cmu.edu/user/achoulde/94842/index.html#schedule) ] 
 * Colby College: [ [Data Analysis](http://mgimond.github.io/ES218/) ] and [ [Statistics](http://mgimond.github.io/Stats-in-R/index.html) ]  
+* Georgetown: [Data Science for Public Policy](https://georgetownmccourt.github.io/data-science/)   
+* Hertie School of Governance: [ [Data Analysis](https://github.com/mhaber/HertieDataScience) ]  [ [Collaboration](https://github.com/HertieDataScience/SyllabusAndLectures) ] [ [Text Analysis](https://github.com/mhaber/HertieTextAnalysis) ]  
+* SUNY Albany: [ [PhD Seminar in Social Network Analysis](http://www.albany.edu/wwwres/kretheme/PAD777/overview.html) ]  
+* Syracuse iSchool: [ [Applied Data Science](http://my.ischool.syr.edu/uploads/coursesyllabus/687syllabus2013maymester-1133.73673-6a0081f6-0348-4ec4-a75d-8ccf04e8ffe3.pdf) ]  
+* University of Washington: [ [course](https://evansdatascience.github.io/GovernanceAnalytics/) ]  
+
+
 
  
 
 ### Degree Programs 
  
 * Arizona State University: [MS in Policy Analytics and Program Evaluation](https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms)  
+* Carnegie Mellon: [Joint PhD in Public Policy and Machine Learning](https://www.ml.cmu.edu/academics/joint-ml-phd.html) 
+* Georgetown: [Data Science and Public Policy](https://mccourt.georgetown.edu/master-in-data-science-for-public-policy)  
+* University of Chicago: [MS in Computational Science and Public Policy](https://capp.sites.uchicago.edu/)  
 * University of Southern California: [Civic Tech USC](http://www.civictechusc.org/)  
-* University of Chicago: [MS in Computational Science and Public Policy](https://capp.sites.uchicago.edu/)
-* Carnegie Mellon: [Joint PhD in Public Policy and Machine Learning](https://www.ml.cmu.edu/academics/joint-ml-phd.html)  
+
+
 
 
 
