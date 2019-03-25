@@ -29,7 +29,7 @@ Welcome to the "[sexiest career of the 21st century](https://hbr.org/2012/10/dat
 
 
 
-# Getting Started
+## Getting Started
 
 There are a few platforms and skills that serve as the foundations of data analytics. If you are new to the field, start by familiarizing yourself with these concepts. 
 
@@ -130,6 +130,8 @@ Chen & Peace (2013), Applied Meta-Analysis with R
 
 For the purpose of transparency and reproducibility, as well as simple convenience, there is high demand for documents that combine typical elements of publications and reports such as text, tables, graphs and images, and the code that was used to create the analysis presented in the text. These efforts have largely converged on Markdown as a simple publishing language, and derivations like R Markdown to incorporate output from models into documents. 
 
+### Markdown
+
 **Markdown** is a simple set of rules used to format text and images. Formatting it accomplished by adding tags to text. 
 
 ```
@@ -204,7 +206,7 @@ Working in groups [is hard](https://www.ted.com/talks/clay_shirky_on_institution
 
 
 
-# Data Science Communities
+## Data Science Communities
 
 R Open Science [ [link](https://ropensci.org/) ]  
 R Open Government [ [link](http://ropengov.github.io/) ]  
