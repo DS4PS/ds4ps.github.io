@@ -11,9 +11,9 @@ Andy Whitford at the University of Georgia wrote a blog on using [DOI Codes](htt
 
 These are a great resource for students looking for ideas and scholars looking for new data on a topic. 
 
-For example, [THUS STUDY](https://doi.org/10.3886/ICPSR36129.v1) by Ringwalt (2017) was designed to "develop a set of metrics to identify prescription drug providers with unusual or uncustomary prescribing practices and how these metrics can be used to mitigate the misuse, abuse, and diversion of controlled substances."
+For example, [this study](https://doi.org/10.3886/ICPSR36129.v1) by Ringwalt (2017) was designed to "develop a set of metrics to identify prescription drug providers with unusual or uncustomary prescribing practices and how these metrics can be used to mitigate the misuse, abuse, and diversion of controlled substances."
 
-> Ringwalt, Chris. Synthetic North Carolina Prescription Drug Monitoring Program (PDMP) Data, 2009-2013. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2017-12-12. https://doi.org/10.3886/ICPSR36052.v1
+*Ringwalt, Chris. Synthetic North Carolina Prescription Drug Monitoring Program (PDMP) Data, 2009-2013. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2017-12-12. https://doi.org/10.3886/ICPSR36052.v1*
 
 The [DOI page](https://doi.org/10.3886/ICPSR36129.v1) often makes it easy to quickly assess the data from the study by providing useful metadata:
 
