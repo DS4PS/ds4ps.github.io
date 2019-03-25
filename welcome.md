@@ -163,9 +163,7 @@ Then add a few page dividers, and your analysis will now be organized something 
 
 Markdown is used on GitHub, Stack Overflow, and in R Markdown documents. Familiarity with the basics offers a lot of power in controlling how your analysis is presented to your audience. 
 
-Checkout the R Markdown Gallery [HERE](https://rmarkdown.rstudio.com/articles.html).
-
-You can see some advanced R Markdown features [HERE](https://ds4ps.github.io/Data-Science-Class/HANDOUTS/R_Markdown_Template.html).
+Checkout many types of R Markdown formats [HERE](https://rmarkdown.rstudio.com/articles.html).
 
 Check out some [NICE THEMES](http://www.datadreaming.org/post/r-markdown-theme-gallery/) for R Markdown documents.
 
@@ -173,7 +171,11 @@ Download a simple R Markdown Template [HERE](https://cdn.rawgit.com/DS4PS/Data-S
 
 Embed Shiny Widgets in your documents to make them interactive [TEMPLATE](https://cdn.rawgit.com/DS4PS/Data-Science-Class/53c986f1/TEMPLATES/ShinyWidgetsDemo.Rmd). 
 
-Check out some simple Flexdashboard [LAYOUTS](https://rmarkdown.rstudio.com/flexdashboard/layouts.html).
+Checkout some simple Flexdashboard [LAYOUTS](https://rmarkdown.rstudio.com/flexdashboard/layouts.html).
+
+If you would like to build interactive tutorials in markdown checkout [learnr](https://rstudio.github.io/learnr/).
+
+You can see some advanced R Markdown features [HERE](https://ds4ps.github.io/Data-Science-Class/HANDOUTS/R_Markdown_Template.html).
 
 <br><br>
 
