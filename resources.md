@@ -315,8 +315,8 @@ Tableau Gallery [[ link](http://www.tableau.com/stories/gallery) ]
 
 ### Text Analysis
 
-* Quanteda [ [link](https://docs.quanteda.io/articles/pkgdown/comparison.html) ]  
-* Who Wrote the Anonymous Op-Ed? [ [link](http://blog.revolutionanalytics.com/2018/09/anonymous-nyt-op-ed.html) ] [ [link](https://www.rjionline.org/stories/we-put-data-science-to-the-test-to-try-to-uncover-the-mystery-author-of-the) ]
+Quanteda [ [link](https://docs.quanteda.io/articles/pkgdown/comparison.html) ]  
+Who Wrote the Anonymous Op-Ed? [ [link](http://blog.revolutionanalytics.com/2018/09/anonymous-nyt-op-ed.html) ] [ [link](https://www.rjionline.org/stories/we-put-data-science-to-the-test-to-try-to-uncover-the-mystery-author-of-the) ]
 
 
 
