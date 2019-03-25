@@ -95,7 +95,7 @@ The UK Government has put together a nice overview on [data science career paths
 
 ### Degree Programs 
  
-* Arizona State University: [MS in Policy Analytics and Program Evaluation](https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms)  
+* Arizona State University: [MS in Program Evaluation and Data Analytics](https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms)  
 * Carnegie Mellon: [Joint PhD in Public Policy and Machine Learning](https://www.ml.cmu.edu/academics/joint-ml-phd.html) 
 * Georgetown: [Data Science and Public Policy](https://mccourt.georgetown.edu/master-in-data-science-for-public-policy)  
 * University of Chicago: [MS in Computational Science and Public Policy](https://capp.sites.uchicago.edu/)  
