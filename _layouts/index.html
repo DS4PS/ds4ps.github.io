@@ -105,11 +105,11 @@ layout: default
             <span style="color:#337ab7;font-weight:bold;">{{ post.date | date: "%b, %Y" }}</span><br>
         </div>
         
-        <div style = "float:right;width:85%">
+        <div style = "float:left;width:85%">
             <a class = "post-css" href="{{ post.url | prepend: site.baseurl }}">
             <h4>{{ post.title }}</h4>
             </a>
-        <!--  </div>  -->
+        </div>
          
         </div>
 
@@ -117,7 +117,7 @@ layout: default
          
           <!--  -------- BLOG BODY -----------  -->
          
-          <!-- <div style="float:right;width:85%"> -->
+          <div style="float:right;width:85%"> 
            
           <div class = "uk-card-body">
                 {{ post.excerpt  }}
