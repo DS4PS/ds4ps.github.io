@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started
-permalink: /start/
+permalink: /welcome/
 ---
 
 
@@ -79,7 +79,7 @@ ul {
 
 ## New to Data Science? 
 
-This page contains some resources if you are learning about the field.
+Welcome to the "[sexiest career of the 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)". This page contains some resources to help you learn about the field.
 
 <br>
 
@@ -138,6 +138,8 @@ There is a non-trivial learning curve to master some of the tools, but the good 
 
 
 ## Getting Started
+
+Working in the field of data science requires you to learn a data programming language. R and Python are the two most common languages you will encounter. Typically if come from the field of computer science you are likely a Python programmer, and if you come from the social sciences, statistics, or engineering yoU typically use R. There are pros and cons to each, but both are powerful and flexible. This site will emphasize R-based approaches for expertise reasons only, but Python-based applications are common in the public sector as well. 
 
 Resources for Learning R [ [link](http://www.r-bloggers.com/how-to-learn-r-2/) ]
 
