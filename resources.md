@@ -5,50 +5,6 @@ permalink: /resources/
 ---
 
 
-<style>
-p, li {
-     font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-     font-size:calc(0.85em + 0.25vw);
-     font-weight:300;
-     line-height:1.7;
-     -webkit-font-smoothing:antialiased;
-     -moz-osx-font-smoothing:grayscale;
-     margin-left:1%;
-     margin-right:0%;
-    }  
-h2{
-  font-size:calc(2em + 0.25vw) !important;
-  color: #337ab7;
-  font-weight:300;
-  margin-top:60px !important;
-  margin-bottom:20px; 
-  } 
-
-h3{
-  font-size:calc(1.4em + 0.25vw);
-  font-weight:300;
-  margin-top:20px !important;
-  margin-bottom:10px;} 
-
-ul {
-  list-style-type: circle;
-}  
-
-#markdown-toc a {
-  color: black;
-  font-size:calc(0.65em + 0.25vw);
-  line-height:1.0;
-}  
-
-#markdown-toc a:hover {
-    color: black;
-    text-decoration: none;
-    font-weight: bold;
-}
-</style>  
-  
-
-
 
 ## Data Science Resources
 
@@ -358,3 +314,53 @@ Think of these suggestions as good habits that will make your life easier and wi
 ----------------------
 
 
+
+
+
+
+
+
+
+
+<style>
+p, li {
+     font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+     font-size:calc(0.85em + 0.25vw);
+     font-weight:300;
+     line-height:1.7;
+     -webkit-font-smoothing:antialiased;
+     -moz-osx-font-smoothing:grayscale;
+     margin-left:1%;
+     margin-right:0%;
+    }  
+h2{
+  font-size:calc(2em + 0.25vw) !important;
+  color: #337ab7;
+  font-weight:300;
+  margin-top:60px !important;
+  margin-bottom:20px; 
+  } 
+
+h3{
+  font-size:calc(1.4em + 0.25vw);
+  font-weight:300;
+  margin-top:20px !important;
+  margin-bottom:10px;} 
+
+ul {
+  list-style-type: circle;
+}  
+
+#markdown-toc a {
+  color: black;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.0;
+}  
+
+#markdown-toc a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+</style>  
+  
