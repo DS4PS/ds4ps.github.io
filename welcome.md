@@ -11,7 +11,7 @@ permalink: /welcome/
 
 ## New to Data Science? 
 
-Welcome to the "[sexiest career of the 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)". This page contains some resources to help you learn about the field.
+Welcome to the "[sexiest career of the 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)". This page contains some resources to help you get oriented to some of the foundations of the field.
 
 <br>
 
@@ -34,7 +34,7 @@ Welcome to the "[sexiest career of the 21st century](https://hbr.org/2012/10/dat
 There are a few skills and knowledge domains to explore to orient yourself to the field of data science.
 
 * <h3><i class="fab fa-react"></i>Introduction to the Open Source Ecosystem </h3>  
-* <h3><i class="far fa-registered"></i>Data Programming Languages</h3>  
+* <h3><i class="far fa-registered"></i><i class="fab fa-python"></i>Data Programming Languages</h3>  
 * <h3><i class="fab fa-markdown"></i>Data-Driven Documents (Markdown)</h3>  
 * <h3><i class="fab fa-github-square"></i>Collaboration Tools</h3>  
 
