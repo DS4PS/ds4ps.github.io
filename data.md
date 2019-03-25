@@ -95,7 +95,11 @@ We have gone from a relatively data poor environment in government and nonprofit
 
 Data is more useful when it comes with a [vignette](https://ds4ps.github.io/PROG-EVAL-III/Datasets_in_R.html) that provides some information about the nature of the data and potential uses. We will work to update the site with some helpful datasets for public affairs programs in the near future. 
 
-In the meantime, enjoy:
+In the meantime, enjoy some of these resources:
+
+# Nonprofit Open Data
+
+[Nonprofit Open Data Collective](https://nonprofit-open-data-collective.github.io/overview/)
 
 
 # Awesome Open Datasets
