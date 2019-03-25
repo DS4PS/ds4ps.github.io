@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding Data for Public Management / Public Policy Dissertations
-tags: [ open data, public policy ]
+tags: [ open data, public policy, doi ]
 author: Jesse Lecy
 ---
 
