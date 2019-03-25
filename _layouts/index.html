@@ -18,10 +18,11 @@ layout: default
     
 .wrapper {  
   /* overflow:hidden; */
+  padding: 0px;
 }
 .wrapper div {
    /* min-width: 90px; */
-   /* padding: 10px; */
+   /* padding: 0px; */
 }
 
 @media screen and (max-width: 400px) {
@@ -112,12 +113,12 @@ layout: default
         
         <div class="wrapper">
          
-        <div id="one" style="float:left;width:20%">
+        <div id="one" style="float:left;width:15%">
             <span class="date_day">{{ post.date | date: "%-d" }}</span><br>
             <span style="color:#337ab7;font-weight:bold;">{{ post.date | date: "%b, %Y" }}</span><br>
         </div>
         
-        <div id="two" style = "float:left;width:80%">
+        <div id="two" style = "float:left;width:85%">
             <a class = "post-css" href="{{ post.url | prepend: site.baseurl }}">
             <h4>{{ post.title }}</h4>
             </a>
