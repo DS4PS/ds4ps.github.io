@@ -39,6 +39,10 @@ There are a few skills and knowledge domains to explore to orient yourself to th
 * <h3><i class="fab fa-markdown"></i>Data-Driven Documents (Markdown)</h3>  
 * <h3><i class="fab fa-github-square"></i>Collaboration Tools</h3>  
 
+
+###  Getting Started 
+
+
 <table style="width:80%">  
   <tr>  
     <td> <h3><i class="fab fa-react"></h3> </td>  
