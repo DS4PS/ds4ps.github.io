@@ -2,7 +2,7 @@
 layout: post
 title: World Government Summit Data Viz Prize Winners
 tags: data-viz government contest
-author: test_test
+author:
 ---
 
 
