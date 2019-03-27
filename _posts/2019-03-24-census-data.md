@@ -7,7 +7,9 @@ author:
 
 Have you ever tried working with census data over time and encountered challenges with changes to Census tracts, which alter the units of analysis? Then you will appreciate these projects.
 
-The National Historical Geographic Information System at the University of Minnesota provides Census files that have all been harmonized to 2010 tracts:
+## The National Historical Geographic Information System 
+
+NHGIS at the University of Minnesota provides Census files that have all been harmonized to 2010 tracts:
 
 [https://www.nhgis.org/documentation/time-series](https://www.nhgis.org/documentation/time-series)
 
