@@ -30,4 +30,7 @@ Popular formats include things like [R Markdown](https://rmarkdown.rstudio.com/l
 
 The 
 
-[LINK](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/DashboardExample/DashboardExample2.html)
+[LINK](gifs/DashboardExample/DashboardExample2.html)
+
+[LINK](https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/gifs/DashboardExample/DashboardExample2.html)
+
