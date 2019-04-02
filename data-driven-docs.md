@@ -20,6 +20,8 @@ permalink: /docs/
 
 # What Are Data-Driven Docs?
 
+<br> 
+
 Data-driven documents are formats that combine text and analysis (data+code). 
 
 In doing so, they promote transparency and reproducability. For any given table, figure, or model in the document you should be able to easily discern how it was created, from what data, and what analysis was used. 
@@ -49,7 +51,6 @@ You can download a sample template [HERE](https://cdn.rawgit.com/DS4PS/Data-Scie
 
 ![](assets/img/knitting.png)
 
-![](assets/img/rmd_output_types.png)
 
 
 # Output Types
@@ -74,3 +75,42 @@ output: flexdashboard::flex_dashboard:
 
 
 
+<style>
+p {
+  margin-top:20px !important;
+  margin-bottom:20px;
+    }  
+h6{
+  font-size:calc(2em + 0.25vw) !important;
+  color: #337ab7;
+  font-weight:300;
+  margin-top:60px !important;
+  margin-bottom:20px;
+  } 
+ul {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
+}
+ul a {
+  color: gray;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
+} 
+ul a:hover {
+  color: #337ab7;
+  font-weight: bold;
+} 
+#markdown-toc a {
+  color: black;
+  font-size:calc(0.75em + 0.25vw);
+  line-height:1.2;
+}  
+#markdown-toc a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+</style>
