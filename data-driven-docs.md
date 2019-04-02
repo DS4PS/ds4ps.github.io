@@ -63,7 +63,7 @@ gallery
 
 ## Dashboards
 
-[![](https://github.com/DS4PS/ds4ps.github.io/blob/master/assets/img/DashboardExample.gif?raw=true)](gifs/DashboardExample/DashboardExample2.html)
+[![](https://github.com/DS4PS/ds4ps.github.io/blob/master/assets/img/DashboardExample.gif?raw=true)](../gifs/DashboardExample/DashboardExample2.html)
 
 ```r
 # https://cultureofinsight.shinyapps.io/crypto_tracker/
