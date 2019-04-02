@@ -29,3 +29,5 @@ Popular formats include things like [R Markdown](https://rmarkdown.rstudio.com/l
 ![](https://github.com/DS4PS/ds4ps.github.io/blob/master/assets/img/DashboardExample.gif?raw=true)
 
 The 
+
+[LINK](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/DashboardExample/DashboardExample2.html)
