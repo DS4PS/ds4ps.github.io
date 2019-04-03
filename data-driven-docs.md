@@ -146,7 +146,10 @@ You can select from many different document types, including HTML pages, Microso
 
 <br>
 
+<span style="display:block;text-align:center">
 ![](assets/img/rmd_output_types.png)
+</span>
+
 
 **Check out:**
 
