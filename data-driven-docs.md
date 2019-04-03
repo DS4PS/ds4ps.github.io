@@ -231,7 +231,8 @@ install.packages( "knitr" )
 
 If you would like to knit to PDF you need one additional program. TeX creates publication-quality PDF files. The open-source version is called MiKTeX [download page](http://miktex.org/download).
 
-If you have problems, you can find some nice tutorials like this one: <https://www.reed.edu/data-at-reed/software/R/r_studio_pc.html>
+If you have problems, you can find some nice tutorials like this one: 
+<https://www.reed.edu/data-at-reed/software/R/r_studio_pc.html>
 
 **Specialized packages:**
 
