@@ -48,12 +48,14 @@ Once you have posted a question or a comment you are subscribed to the conversat
 
 ## Data Science Communities
 
+<br>
+
 R Open Science [ [link](https://ropensci.org/) ]  
 R Open Government [ [link](http://ropengov.github.io/) ]  
-R Ladies [ [link](https://rladies.org/) ]  
-Local User Groups [ [list](https://jumpingrivers.github.io/meetingsR/r-user-groups.html#north-america) ]
-R Studio Discussions [ [link](https://community.rstudio.com/) ]
-Nonprofit Open Data Collective [ [link](www.npdata.info) ]   
+R Ladies [ [link](https://rladies.org/) ]   
+Local User Groups [ [list](https://jumpingrivers.github.io/meetingsR/r-user-groups.html#north-america) ]  
+R Studio Discussions [ [link](https://community.rstudio.com/) ]  
+Nonprofit Open Data Collective [ [link](www.npdata.info) ]    
 GitHub's Government Team [ [link](https://government.github.com/) ]   
 Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]   
 
