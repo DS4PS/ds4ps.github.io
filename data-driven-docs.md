@@ -210,13 +210,25 @@ You can find many of these packages on the [R Markdown templates page](https://r
 
 <br>
 <br>
+<br>
 
+--------------------
+
+
+
+<br>
+<br>
+
+<span style="display:block;text-align:center">
 ![](assets/img/keep-calm-and-markdown.png)
+</span>
 
+<br>
 <br>
 
 ----------------
 
+<br>
 <br>
 
 
