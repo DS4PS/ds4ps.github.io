@@ -10,16 +10,19 @@ email:
 twitter_username: username
 
 header:
-  - title: Getting Started
+  - title: The Ecosystem
     url : /welcome
-  - title: Careers
-    url : /careers
+  - title: Data-Driven Docs
+    url : /docs
   - title: Resources
     url : /resources   
   - title: Data
     url : /data
   - title: Community
     url : /discuss 
+  - title: Careers
+    url : /careers
+    
     
 # Build settings
 # markdown: redcarpet
