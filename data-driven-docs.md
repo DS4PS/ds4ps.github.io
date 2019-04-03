@@ -55,14 +55,18 @@ When you "knit" a file R Studio will run all of code, embed the output into your
 
 # Output Types
 
+You can select from many different document types, including HTML pages, Microsoft word, presentation formats, or dashboards.
+
 <br>
 
 ![](assets/img/rmd_output_types.png)
 
-You can select from many different document types, including HTML pages, Microsoft word, presentation formats, or dashboards.
+**Check out:**
 
 [R Markdown Formats](https://rmarkdown.rstudio.com/formats.html)  
 [R Markdown Gallery](https://rmarkdown.rstudio.com/gallery.html)  
+
+<br>
 
 
 ## HTML Pages
