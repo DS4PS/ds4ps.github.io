@@ -98,9 +98,7 @@ You can see a full list of rules [HERE](https://ds4ps.org/data-driven-management
 
 <br>
 
-![](assets/img/keep-calm-and-markdown.png)
 
-<br>
 
 
 # Knitting R Markdown Files
@@ -176,6 +174,11 @@ Specialized packages:
 * dashboards 
 * shiny 
 
+
+<br>
+<br>
+
+![](assets/img/keep-calm-and-markdown.png)
 
 <br>
 
