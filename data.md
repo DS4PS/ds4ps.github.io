@@ -9,6 +9,8 @@ permalink: /data/
 
 <br>
 
+**OPEN DATA**
+
 -----------------------
 
 * TOC
@@ -37,15 +39,6 @@ In the meantime, enjoy some of these resources:
 * Ben Wellington's TED Talk on Open Data in NYC [ [link](https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data?) ]  
 
 
-
-### Impact of Open Data
-
-* I Quant NY [ [link](http://iquantny.tumblr.com/) ]  
-* Realizing the Promise of Big Data: IBM Center for Gov.  [ [link](http://www.businessofgovernment.org/sites/default/files/Realizing%20the%20Promise%20of%20Big%20Data_0.pdf) ] 
-* Data Used in 2017 Public Policy Dissertations [ [link](http://publicmanagementresearch.com/2017/12/18/data-for-dissertations-december-18-2017/) ]
-
-
-
 ### DATA Act
 
 * The Data Transparency Act [ [overview](/s/Electronic_Version___DATA_Act_Vision_and_Value.pdf) ] [ [link](http://www.datacoalition.org/what-is-data-transparency/data-act/) ] [ [link](http://labs.data.gov/dashboard/offices) ] [ [link](http://www.forbes.com/sites/techonomy/2014/09/12/how-open-data-is-transforming-city-life/) ]  
@@ -63,6 +56,15 @@ In the meantime, enjoy some of these resources:
 
 
 
+### Impact of Open Data
+
+* I Quant NY [ [link](http://iquantny.tumblr.com/) ]  
+* Realizing the Promise of Big Data: IBM Center for Gov.  [ [link](http://www.businessofgovernment.org/sites/default/files/Realizing%20the%20Promise%20of%20Big%20Data_0.pdf) ] 
+* Data Used in 2017 Public Policy Dissertations [ [link](http://publicmanagementresearch.com/2017/12/18/data-for-dissertations-december-18-2017/) ]
+
+
+
+
 ### Government Portals and Resources
 
 * 40 Brilliant Open Data Projects for Smart Cities [[ link](https://carto.com/blog/forty-brilliant-open-data-projects) ]  
@@ -74,7 +76,7 @@ In the meantime, enjoy some of these resources:
 
 ### Open Data for the Nonprofit Sector
 
-[Nonprofit Open Data Collective](https://nonprofit-open-data-collective.github.io/overview/)
+* [Nonprofit Open Data Collective](https://nonprofit-open-data-collective.github.io/overview/)  
 
 
 
