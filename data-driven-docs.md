@@ -18,6 +18,7 @@ permalink: /docs/
 -----------------------
 
 <br>
+<br>
 
 # What Are Data-Driven Docs?
 
@@ -27,6 +28,11 @@ In doing so, they promote transparency and reproducability. For any given table,
 
 Popular formats include things like [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html) documents and [Jupyter notebooks](https://jupyter.org/try).
 
+
+<br>
+
+------------
+<br>
 
 # How Do Data-Driven Docs Work?
 
@@ -38,15 +44,22 @@ To create an R Markdown document, you need three things:
 2. Some text (formatted in markdown).  
 3. Some code (enclosed by fences).  
 
-![](assets/img/knit.png)
-
 You can download a sample template [HERE](https://cdn.rawgit.com/DS4PS/Data-Science-Class/c464d527/TEMPLATES/MarkdownTemplateSimple.Rmd).
 
+<br>
+
+![](assets/img/knit.png)
+
+<br>
 <br>
 
 [![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/NewRmarkdownFile/NewRmarkdownFile_media/NewRmarkdownFile.gif?raw=true)](../gifs/NewRmarkdownFile/NewRmarkdownFile.html)
 
 <br>
+
+------------
+<br>
+
 
 # What is Markdown?
 
@@ -88,8 +101,6 @@ Create links by wrapping the link text in square brackets [ ], and the URL in ad
 | First entry      | Second entry     |  
 | Third entry      | Fourth entry     |  
 | Fifth entry      | Sixth entry      |
-
-
 ```
 
 | Title 1          | Title 2          |  
@@ -101,6 +112,9 @@ Create links by wrapping the link text in square brackets [ ], and the URL in ad
 
 You can see a full list of rules [HERE](https://ds4ps.org/data-driven-management-textbook/markdown/).
 
+<br>
+
+------------
 <br>
 
 
@@ -119,6 +133,11 @@ When you "knit" a file R Studio will run all of code, embed the output into your
 ![](assets/img/knitting.png)
 
 
+<br>
+
+------------
+<br>
+
 
 
 # Output Types
@@ -127,14 +146,21 @@ You can select from many different document types, including HTML pages, Microso
 
 <br>
 
+<span style="display:block;text-align:center">
 ![](assets/img/rmd_output_types.png)
+</span>
 
-**Check out:**
+
+**Check out these examples:**
 
 [R Markdown Formats](https://rmarkdown.rstudio.com/formats.html)  
 [R Markdown Gallery](https://rmarkdown.rstudio.com/gallery.html)  
 
 <br>
+
+------------
+<br>
+
 
 
 ### HTML Pages
@@ -147,13 +173,7 @@ output: html_document
 
 [![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/html_format/html_format_media/html_format.gif?raw=true)](../gifs/html_format/html_format.html)
 
-### PDFs
-
-```r
----
-output: pdf_document
----
-```
+<br>
 
 ### Dashboards
 
@@ -167,6 +187,23 @@ output: flexdashboard::flex_dashboard:
 
 
 [ [dashboard example](https://cultureofinsight.shinyapps.io/crypto_tracker/) ]  [ [source code](https://cultureofinsight.shinyapps.io/crypto_tracker/) ]  [ [blog about the tracker](https://www.cultureofinsight.com/blog/2018/01/22/2018-01-22-building-a-cryptocurrency-tracker-with-r/) ]  
+
+<br>
+
+
+### PDFs
+
+```r
+---
+output: pdf_document
+---
+```
+
+<br>
+
+------------
+<br>
+
 
 
 
@@ -194,7 +231,8 @@ install.packages( "knitr" )
 
 If you would like to knit to PDF you need one additional program. TeX creates publication-quality PDF files. The open-source version is called MiKTeX [download page](http://miktex.org/download).
 
-If you have problems, you can find some nice tutorials like this one: <https://www.reed.edu/data-at-reed/software/R/r_studio_pc.html>
+If you have problems, you can find some nice tutorials like this one: 
+<https://www.reed.edu/data-at-reed/software/R/r_studio_pc.html>
 
 **Specialized packages:**
 
@@ -210,13 +248,27 @@ You can find many of these packages on the [R Markdown templates page](https://r
 
 <br>
 <br>
+<br>
+<br>
+<br>
 
+--------------------
+
+
+
+<br>
+<br>
+
+<span style="display:block;text-align:center">
 ![](assets/img/keep-calm-and-markdown.png)
+</span>
 
+<br>
 <br>
 
 ----------------
 
+<br>
 <br>
 
 
