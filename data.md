@@ -244,9 +244,9 @@ Education
 Foundations
 -----------
 
-* International Aid Transparency Initiative (iati) [ [ database of grants](https://iatistandard.org/en/) ]  
-* Ford Foundation Grants [ [database](https://www.fordfoundation.org/work/our-grants/grants-database/grants-all) ]
-* Hewlett Foundation Grants [ [database](https://hewlett.org/grants/?sort=date) ]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) International Aid Transparency Initiative (iati) [ [ database of grants](https://iatistandard.org/en/) ]  
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) Ford Foundation Grants [ [database](https://www.fordfoundation.org/work/our-grants/grants-database/grants-all) ]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) Hewlett Foundation Grants [ [database](https://hewlett.org/grants/?sort=date) ]
 
 
 GIS
