@@ -87,6 +87,8 @@ output: pdf_document
 
 ## Dashboards
 
+[ [example source code](https://cultureofinsight.shinyapps.io/crypto_tracker/) ] [ [blog about the tracker](https://www.cultureofinsight.com/blog/2018/01/22/2018-01-22-building-a-cryptocurrency-tracker-with-r/) ]  
+
 [![](https://github.com/DS4PS/ds4ps.github.io/blob/master/assets/img/DashboardExample.gif?raw=true)](../gifs/DashboardExample/DashboardExample2.html)
 
 ```r
@@ -94,7 +96,6 @@ output: pdf_document
 output: flexdashboard::flex_dashboard:
 ---
 ```
-[ [source code](https://cultureofinsight.shinyapps.io/crypto_tracker/) ] [ [blog](https://www.cultureofinsight.com/blog/2018/01/22/2018-01-22-building-a-cryptocurrency-tracker-with-r/) ]
 
 
 
