@@ -42,7 +42,7 @@ To create an R Markdown document, you need three things:
 
 1. A header to specify the document type.  
 2. Some text (formatted in markdown).  
-3. Some code (enclosed by fences).  
+3. Some code (inside a "code chunk").  
 
 You can download a sample template [HERE](https://cdn.rawgit.com/DS4PS/Data-Science-Class/c464d527/TEMPLATES/MarkdownTemplateSimple.Rmd).
 
@@ -122,7 +122,7 @@ You can see a full list of rules [HERE](https://ds4ps.org/data-driven-management
 
 # Knitting R Markdown Files
 
-Code is placed inside of "code chunks" in the documents:
+Code is placed inside of "chunks" in the documents:
 
 [![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/NewCodeChunk/NewCodeChunk_media/NewCodeChunk.gif?raw=true)](../gifs/NewCodeChunk/NewCodeChunk.html)
 
