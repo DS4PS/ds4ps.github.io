@@ -43,6 +43,66 @@ To create an R Markdown document, you need three things:
 You can download a sample template [HERE](https://cdn.rawgit.com/DS4PS/Data-Science-Class/c464d527/TEMPLATES/MarkdownTemplateSimple.Rmd).
 
 
+# What is Markdown?
+
+Markdown is a simple set of rules used to format text. It has been adopted broadly by the data science community and is used on GitHub, Stackoverflow, and now in R Studio. 
+
+To give just a couple of examples of how it works:
+
+**Unordered Lists**
+
+```
+* First item
+* Second item
+* Third item
+    * First nested item
+    * Second nested item
+```
+* First item
+* Second item
+* Third item
+    * First nested item
+    * Second nested item
+
+
+**Hyperlinks**
+
+Create links by wrapping the link text in square brackets [ ], and the URL in adjacent parentheses ( ). 
+
+```
+[Google News](https://news.google.com)
+```
+
+[Google News](https://news.google.com)
+
+**Tables**
+
+```
+| Title 1          | Title 2          | 
+|------------------|------------------|
+| First entry      | Second entry     |  
+| Third entry      | Fourth entry     |  
+| Fifth entry      | Sixth entry      |
+
+
+```
+
+| Title 1          | Title 2          |  
+|------------------|------------------|  
+| First entry      | Second entry     |  
+| Third entry      | Fourth entry     |  
+| Fifth entry      | Sixth entry      |  
+
+
+You can see a full list of rules [HERE](https://ds4ps.org/data-driven-management-textbook/markdown/).
+
+<br>
+
+![](assets/img/keep-calm-and-markdown.png)
+
+<br>
+
+
 # Knitting R Markdown Files
 
 <br> 
@@ -55,17 +115,21 @@ When you "knit" a file R Studio will run all of code, embed the output into your
 
 # Output Types
 
+You can select from many different document types, including HTML pages, Microsoft word, presentation formats, or dashboards.
+
 <br>
 
 ![](assets/img/rmd_output_types.png)
 
-You can select from many different document types, including HTML pages, Microsoft word, presentation formats, or dashboards.
+**Check out:**
 
-[R Markdown Formats](https://rmarkdown.rstudio.com/formats.html)
-[R Markdown Gallery](https://rmarkdown.rstudio.com/gallery.html)
+[R Markdown Formats](https://rmarkdown.rstudio.com/formats.html)  
+[R Markdown Gallery](https://rmarkdown.rstudio.com/gallery.html)  
+
+<br>
 
 
-## HTML Pages
+### HTML Pages
 
 ```r
 ---
@@ -73,7 +137,7 @@ output: html_document
 ---
 ```
 
-## PDFs
+### PDFs
 
 ```r
 ---
@@ -81,17 +145,36 @@ output: pdf_document
 ---
 ```
 
-## Dashboards
-
-[![](https://github.com/DS4PS/ds4ps.github.io/blob/master/assets/img/DashboardExample.gif?raw=true)](../gifs/DashboardExample/DashboardExample2.html)
+### Dashboards
 
 ```r
 ---
 output: flexdashboard::flex_dashboard:
 ---
 ```
-[ [source code](https://cultureofinsight.shinyapps.io/crypto_tracker/) ] [ [blog](https://www.cultureofinsight.com/blog/2018/01/22/2018-01-22-building-a-cryptocurrency-tracker-with-r/) ]
 
+[![](https://github.com/DS4PS/ds4ps.github.io/blob/master/assets/img/DashboardExample.gif?raw=true)](../gifs/DashboardExample/DashboardExample2.html)
+
+
+[ [dashboard example](https://cultureofinsight.shinyapps.io/crypto_tracker/) ]  [ [source code](https://cultureofinsight.shinyapps.io/crypto_tracker/) ]  [ [blog about the tracker](https://www.cultureofinsight.com/blog/2018/01/22/2018-01-22-building-a-cryptocurrency-tracker-with-r/) ]  
+
+
+
+# Installation
+
+You will need the following programs to generate data-driven documents in R:
+
+* Base R installation
+* R Studio 
+* Pandoc (comes 
+
+https://www.reed.edu/data-at-reed/software/R/r_studio_pc.html
+
+Specialized packages:
+
+* rmarkdown templates 
+* dashboards 
+* shiny 
 
 
 <br>
@@ -114,22 +197,7 @@ h6{
   margin-top:60px !important;
   margin-bottom:20px;
   } 
-ul {
-  list-style-type:none;
-  margin: 0;
-  padding: 0;
-  font-size:calc(0.65em + 0.25vw);
-  line-height:1.2;
-}
-ul a {
-  color: gray;
-  font-size:calc(0.65em + 0.25vw);
-  line-height:1.2;
-} 
-ul a:hover {
-  color: #337ab7;
-  font-weight: bold;
-} 
+
 #markdown-toc a {
   color: black;
   font-size:calc(0.75em + 0.25vw);
