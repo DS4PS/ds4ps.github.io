@@ -162,9 +162,9 @@ output: flexdashboard::flex_dashboard:
 
 You will need the following programs to generate data-driven documents in R:
 
-* Base R installation
+* Base R installation [CRAN](https://www.r-project.org/)
 * R Studio 
-* Pandoc (comes 
+* Pandoc (comes with R Studio by default)
 
 https://www.reed.edu/data-at-reed/software/R/r_studio_pc.html
 
