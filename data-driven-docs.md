@@ -101,8 +101,6 @@ Create links by wrapping the link text in square brackets [ ], and the URL in ad
 | First entry      | Second entry     |  
 | Third entry      | Fourth entry     |  
 | Fifth entry      | Sixth entry      |
-
-
 ```
 
 | Title 1          | Title 2          |  
