@@ -69,7 +69,7 @@ You can select from many different document types, including HTML pages, Microso
 <br>
 
 
-## HTML Pages
+### HTML Pages
 
 ```r
 ---
@@ -77,7 +77,7 @@ output: html_document
 ---
 ```
 
-## PDFs
+### PDFs
 
 ```r
 ---
@@ -85,9 +85,7 @@ output: pdf_document
 ---
 ```
 
-## Dashboards
-
-[ [example source code](https://cultureofinsight.shinyapps.io/crypto_tracker/) ] [ [blog about the tracker](https://www.cultureofinsight.com/blog/2018/01/22/2018-01-22-building-a-cryptocurrency-tracker-with-r/) ]  
+### Dashboards
 
 ```r
 ---
@@ -98,6 +96,7 @@ output: flexdashboard::flex_dashboard:
 [![](https://github.com/DS4PS/ds4ps.github.io/blob/master/assets/img/DashboardExample.gif?raw=true)](../gifs/DashboardExample/DashboardExample2.html)
 
 
+[ [dashboard example](https://cultureofinsight.shinyapps.io/crypto_tracker/) ]  [ [source code](https://cultureofinsight.shinyapps.io/crypto_tracker/) ]  [ [blog about the tracker](https://www.cultureofinsight.com/blog/2018/01/22/2018-01-22-building-a-cryptocurrency-tracker-with-r/) ]  
 
 
 
