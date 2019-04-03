@@ -30,7 +30,7 @@ Popular formats include things like [R Markdown](https://rmarkdown.rstudio.com/l
 
 # How Do Data-Driven Docs Work?
 
-All of the document formats build from a simple text formatting convention called **markdown**. 
+All of the document formats build from a simple text formatting convention called [**markdown**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
 
 To create an R Markdown document, you need three things:
 
@@ -42,6 +42,11 @@ To create an R Markdown document, you need three things:
 
 You can download a sample template [HERE](https://cdn.rawgit.com/DS4PS/Data-Science-Class/c464d527/TEMPLATES/MarkdownTemplateSimple.Rmd).
 
+<br>
+
+[![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/NewRmarkdownFile/NewRmarkdownFile_media/NewRmarkdownFile.gif?raw=true)](../gifs/NewRmarkdownFile/NewRmarkdownFile.html)
+
+<br>
 
 # What is Markdown?
 
@@ -103,13 +108,17 @@ You can see a full list of rules [HERE](https://ds4ps.org/data-driven-management
 
 # Knitting R Markdown Files
 
+Code is placed inside of "code chunks" in the documents:
+
+[![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/NewCodeChunk/NewCodeChunk_media/NewCodeChunk.gif?raw=true)](../gifs/NewCodeChunk/NewCodeChunk.html)
+
+When you "knit" a file R Studio will run all of code, embed the output into your document, and then convert the file to whichever type you have specified in the file header.  
+
 <br> 
 
 ![](assets/img/knitting.png)
 
-When you "knit" a file R Studio will run all of code, embed the output into your document, and then convert the file to whichever type you have specified in the file header.  
 
-[![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/NewRmarkdownFile/NewRmarkdownFile_media/NewRmarkdownFile.gif?raw=true)](../gifs/DashboardExample/NewRmarkdownFile.html)
 
 
 # Output Types
@@ -136,7 +145,7 @@ output: html_document
 ---
 ```
 
-[![]https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/html_format/html_format_media/html_format.gif?raw=true)](../gifs/html_format/html_format.html)
+[![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/html_format/html_format_media/html_format.gif?raw=true)](../gifs/html_format/html_format.html)
 
 ### PDFs
 
