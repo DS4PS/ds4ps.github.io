@@ -46,6 +46,14 @@ In the meantime, enjoy some of these resources:
 * Progress Tracker on Federal Open Data Compliance [ [link](http://labs.data.gov/dashboard/offices) ] 
 
 
+
+### Impact of Open Data
+
+* I Quant NY [ [link](http://iquantny.tumblr.com/) ]  
+* Realizing the Promise of Big Data: IBM Center for Gov.  [ [link](http://www.businessofgovernment.org/sites/default/files/Realizing%20the%20Promise%20of%20Big%20Data_0.pdf) ] 
+* Data Used in 2017 Public Policy Dissertations [ [link](http://publicmanagementresearch.com/2017/12/18/data-for-dissertations-december-18-2017/) ]
+
+
 ### Guides & Best Practices
 
 * Project Open Data [ [link](https://project-open-data.cio.gov/) ]  [ [principles](https://project-open-data.cio.gov/principles/) ]  
@@ -55,45 +63,25 @@ In the meantime, enjoy some of these resources:
 * The Hidden Cost (and Benefits) of Open Data [ [link](http://www.governing.com/columns/tech-talk/gov-open-data-cost-problems.html) ]  
 
 
-
-### Impact of Open Data
-
-* I Quant NY [ [link](http://iquantny.tumblr.com/) ]  
-* Realizing the Promise of Big Data: IBM Center for Gov.  [ [link](http://www.businessofgovernment.org/sites/default/files/Realizing%20the%20Promise%20of%20Big%20Data_0.pdf) ] 
-* Data Used in 2017 Public Policy Dissertations [ [link](http://publicmanagementresearch.com/2017/12/18/data-for-dissertations-december-18-2017/) ]
-
-
-
-
-### Government Portals and Resources
-
-* 40 Brilliant Open Data Projects for Smart Cities [[ link](https://carto.com/blog/forty-brilliant-open-data-projects) ]  
-* US Cities Open Data Census [ [link](http://us-city.census.okfn.org/) ]  
-* How to Make Government Data Sites Better [ [link](http://flowingdata.com/2014/06/10/how-to-make-government-data-sites-better/) ] [ [link](http://blogs.scientificamerican.com/guest-blog/what-s-wrong-with-open-data-sites-and-how-we-can-fix-them/) ]  
-* Statewide Portal Tested in California [ [link](http://www.governing.com/topics/mgmt/tns-california-open-data.html) ]  
-* Five Largest Cities Now Have Open Data Policies [ [link](http://sunlightfoundation.com/blog/2014/10/15/all-five-of-the-largest-u-s-cities-now-have-open-data-policies/) ]  
+### Government Portal and Resources
  
-
-### Open Data for the Nonprofit Sector
-
-* [Nonprofit Open Data Collective](https://nonprofit-open-data-collective.github.io/overview/)  
-
-
-
-### Data-Driven Journalism Project Portals
-
-Data journalists are making their stories transparent by posting the data and code used for their work so that it can be easily replicated or the work can be extended. 
-
-* BBC creates graphics cookbook [ [link](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535) ] [ [cookbook](https://bbc.github.io/rcookbook/) ]  
-* Buzzfeed [ [all projects on GitHub](https://github.com/BuzzFeedNews/everything) ]  
-* LA Times [ [datadesk on GitHub](https://github.com/datadesk) ]  
-* Washington Post [ [projects on GitHub](https://github.com/washingtonpost) ]  
-* Associated Press [ [GitHub](https://github.com/associatedpress) ] [ [project template](https://github.com/associatedpress/datakit-core) ] [ [example](http://data.ap.org/projects/2017/federal-judges/processed/Federal_Judiciary_Diversity.html) ]  
-* The Economist [ [GitHub](https://github.com/TheEconomist) ]
+* How to Make Government Data Sites Better [ [link](http://flowingdata.com/2014/06/10/how-to-make-government-data-sites-better/) ] [ [link](http://blogs.scientificamerican.com/guest-blog/what-s-wrong-with-open-data-sites-and-how-we-can-fix-them/) ]   
+* US Cities Open Data Census [ [link](http://us-city.census.okfn.org/) ]  
+* Statewide Portal Tested in California [ [link](http://www.governing.com/topics/mgmt/tns-california-open-data.html) ]  
+* Five Largest Cities Now Have Open Data Policies [ [link](http://sunlightfoundation.com/blog/2014/10/15/all-five-of-the-largest-u-s-cities-now-have-open-data-policies/) ] 
+* 40 Brilliant Open Data Projects for Smart Cities [[ link](https://carto.com/blog/forty-brilliant-open-data-projects) ]  
 
 
+<br>
 
-# Useful Data APIs
+-----------------------
+
+<br>
+
+
+# Useful Data Sources
+
+### APIs
 
 * Awesome Public Datasets Page [ [GitHub](https://github.com/awesomedata/awesome-public-datasets) ]  
 * Quandl API (many data sources) [ [link](https://www.quandl.com/) ] [ [r package](https://www.quandl.com/help/r) ]  
@@ -113,6 +101,23 @@ Data journalists are making their stories transparent by posting the data and co
 * Strava GPS Data of Athletes by City [ [blog](http://www.databrew.cc/posts/strava.html) ]
 * rtimes Package: NYTimes API for government data [ [link](https://github.com/ropengov/rtimes) ]
 * rsunlight Package: Wrapper for the Open Congress and Open States APIs [ [link](https://github.com/ropengov/rsunlight) ]
+
+### Open Data for the Nonprofit Sector
+
+* [Nonprofit Open Data Collective](https://nonprofit-open-data-collective.github.io/overview/)  
+
+
+
+### Data-Driven Journalism Project Portals
+
+Data journalists are making their stories transparent by posting the data and code used for their work so that it can be easily replicated or the work can be extended. 
+
+* BBC creates graphics cookbook [ [link](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535) ] [ [cookbook](https://bbc.github.io/rcookbook/) ]  
+* Buzzfeed [ [all projects on GitHub](https://github.com/BuzzFeedNews/everything) ]  
+* LA Times [ [datadesk on GitHub](https://github.com/datadesk) ]  
+* Washington Post [ [projects on GitHub](https://github.com/washingtonpost) ]  
+* Associated Press [ [GitHub](https://github.com/associatedpress) ] [ [project template](https://github.com/associatedpress/datakit-core) ] [ [example](http://data.ap.org/projects/2017/federal-judges/processed/Federal_Judiciary_Diversity.html) ]  
+* The Economist [ [GitHub](https://github.com/TheEconomist) ]
 
 
 <br>
