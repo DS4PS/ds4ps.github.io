@@ -9,6 +9,7 @@ permalink: /docs/
 <br>
 
 **CONTENTS**
+
 -----------------------
 
 * TOC
@@ -19,8 +20,6 @@ permalink: /docs/
 <br>
 
 # What Are Data-Driven Docs?
-
-<br> 
 
 Data-driven documents are formats that combine text and analysis (data+code). 
 
@@ -36,42 +35,70 @@ All of the document formats build from a simple text formatting convention calle
 To create an R Markdown document, you need three things:
 
 1. A header to specify the document type.  
-2. Some text.  
-3. Some code.  
+2. Some text (formatted in markdown).  
+3. Some code (enclosed by fences).  
 
-```
----
-
-```
+![](assets/img/knit.png)
 
 You can download a sample template [HERE](https://cdn.rawgit.com/DS4PS/Data-Science-Class/c464d527/TEMPLATES/MarkdownTemplateSimple.Rmd).
 
 
 # Knitting R Markdown Files
 
+<br> 
+
 ![](assets/img/knitting.png)
+
+When you "knit" a file R Studio will run all of code, embed the output into your document, and then convert the file to whichever type you have specified in the file header.  
 
 
 
 # Output Types
 
-formats
-gallery
+<br>
+
+![](assets/img/rmd_output_types.png)
+
+You can select from many different document types, including HTML pages, Microsoft word, presentation formats, or dashboards.
+
+[R Markdown Formats](https://rmarkdown.rstudio.com/formats.html)
+[R Markdown Gallery](https://rmarkdown.rstudio.com/gallery.html)
+
 
 ## HTML Pages
 
+```r
+---
+output: html_document
+---
+```
+
 ## PDFs
+
+```r
+---
+output: pdf_document
+---
+```
 
 ## Dashboards
 
 [![](https://github.com/DS4PS/ds4ps.github.io/blob/master/assets/img/DashboardExample.gif?raw=true)](../gifs/DashboardExample/DashboardExample2.html)
 
 ```r
-# https://cultureofinsight.shinyapps.io/crypto_tracker/
 ---
 output: flexdashboard::flex_dashboard:
 ---
 ```
+[ [source code](https://cultureofinsight.shinyapps.io/crypto_tracker/) ] [ [blog](https://www.cultureofinsight.com/blog/2018/01/22/2018-01-22-building-a-cryptocurrency-tracker-with-r/) ]
+
+
+
+<br>
+
+----------------
+
+<br>
 
 
 
