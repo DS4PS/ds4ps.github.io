@@ -22,7 +22,7 @@ a {
 
 
 
-## Discussion Topics
+## Conversation Themes
 
 We invite conversation around data sources, methods, and substantive research themes. For questions about code, please see the rules listed below.
 
@@ -41,10 +41,71 @@ Once you have posted a question or a comment you are subscribed to the conversat
 <br> 
 
 --------------
+  
+<br>  
+ 
+
+
+## Data Science Communities
+
+R Open Science [ [link](https://ropensci.org/) ]  
+R Open Government [ [link](http://ropengov.github.io/) ]  
+R Ladies [ [link](https://rladies.org/) ]  
+Local User Groups [ [list](https://jumpingrivers.github.io/meetingsR/r-user-groups.html#north-america) ]
+R Studio Discussions [ [link](https://community.rstudio.com/) ]
+Nonprofit Open Data Collective [ [link](www.npdata.info) ]   
+GitHub's Government Team [ [link](https://government.github.com/) ]   
+Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]   
+
+
+### Blogs and Listservs
+
+R-Bloggers [ [link](http://www.r-bloggers.com/) ]  
+R Weekly [ [link](https://rweekly.org/) ]  
+Stack Overflow [ [link](http://stackoverflow.com/questions/tagged/r) ]  
+Flowing Data [[ link](http://flowingdata.com/) ]
+
+
+### Data Science Podcasts
+
+Data Points by GovEx [ [link](https://govex.jhu.edu/data-points-episode-0-2/) ]  
+Partial Derivative [ [link](http://partiallyderivative.com/) ]  
+DMV Nation [ [link](https://gimletmedia.com/episode/34-dmv-nation/) ]  
+Becoming a Data Scientist [ [link](http://www.becomingadatascientist.com/category/podcast/) ]  
+Data Stories [ [link](http://datastori.es/) ]  
+Talking Machines [ [link](http://www.thetalkingmachines.com/) ]  
+Not So Standard Deviations [ [link](https://soundcloud.com/nssd-podcast) ]  
+Data Skeptic [ [link](https://dataskeptic.com/) ]  
+More Or Less [ [link](http://www.bbc.co.uk/programmes/p02nrss1) ]  
+Linear Digression [ [link](http://lineardigressions.com/) ]  
+R-Podcast [ [link](https://r-podcast.org/) ]
+
+
+### Data Journalists, Bloggers & Civic Groups
+
+Trend CT [ [link](https://trendct.org/) ] [ [github](https://github.com/trendct-data) ] [ [style guide](https://github.com/trendct/data/tree/master/data-repo-styleguide) ]   
+Todd Schneider [ [blog](http://toddwschneider.com/) ] [ [github](https://github.com/toddwschneider) ]  
+I Quant NY [ [blog](http://iquantny.tumblr.com/) ]  
+ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/chartsnthings/) ]  
+Data for Democracy [ [link](http://datafordemocracy.org/) ]  
+
+
+### Professional Networks
+
+Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.org/campaigns/public-interest-tech/) ]  
+Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloomberg.org/about/) ]  
+ARNOVAs Data and Analytics Section [ [link](https://nonprofit-open-data-collective.github.io/contact/) ] 
+
+
+<br> 
+
+--------------
 
  
 <br>  
 <br>  
+
+
  
 
 ## Rules for Questions About Code
