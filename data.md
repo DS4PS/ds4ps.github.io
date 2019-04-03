@@ -93,7 +93,7 @@ Data journalists are making their stories transparent by posting the data and co
 
 
 
-### Useful Data APIs
+# Useful Data APIs
 
 * Awesome Public Datasets Page [ [GitHub](https://github.com/awesomedata/awesome-public-datasets) ]  
 * Quandl API (many data sources) [ [link](https://www.quandl.com/) ] [ [r package](https://www.quandl.com/help/r) ]  
@@ -122,7 +122,7 @@ Data journalists are making their stories transparent by posting the data and co
 <br>
 
 
-# Awesome Open Datasets
+# "Awesome Data" Catalog
 
 This is just a sample of some datasets that would be relevant to the public and nonprofit sectors from the larger catalog of open public sources curated and managed by [AwesomeData](https://github.com/awesomedata/awesome-public-datasets).
 
