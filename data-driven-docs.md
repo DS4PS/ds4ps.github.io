@@ -44,10 +44,13 @@ To create an R Markdown document, you need three things:
 2. Some text (formatted in markdown).  
 3. Some code (enclosed by fences).  
 
-![](assets/img/knit.png)
-
 You can download a sample template [HERE](https://cdn.rawgit.com/DS4PS/Data-Science-Class/c464d527/TEMPLATES/MarkdownTemplateSimple.Rmd).
 
+<br>
+
+![](assets/img/knit.png)
+
+<br>
 <br>
 
 [![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/NewRmarkdownFile/NewRmarkdownFile_media/NewRmarkdownFile.gif?raw=true)](../gifs/NewRmarkdownFile/NewRmarkdownFile.html)
