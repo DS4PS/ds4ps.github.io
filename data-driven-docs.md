@@ -109,6 +109,7 @@ You can see a full list of rules [HERE](https://ds4ps.org/data-driven-management
 
 When you "knit" a file R Studio will run all of code, embed the output into your document, and then convert the file to whichever type you have specified in the file header.  
 
+[![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/NewRmarkdownFile/NewRmarkdownFile_media/NewRmarkdownFile.gif?raw=true)](../gifs/DashboardExample/NewRmarkdownFile.html)
 
 
 # Output Types
@@ -134,6 +135,8 @@ You can select from many different document types, including HTML pages, Microso
 output: html_document
 ---
 ```
+
+[![]https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/html_format/html_format_media/html_format.gif?raw=true)](../gifs/html_format/html_format.html)
 
 ### PDFs
 
