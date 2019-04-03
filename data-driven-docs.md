@@ -151,7 +151,7 @@ You can select from many different document types, including HTML pages, Microso
 </span>
 
 
-**Check out:**
+**Check out these examples:**
 
 [R Markdown Formats](https://rmarkdown.rstudio.com/formats.html)  
 [R Markdown Gallery](https://rmarkdown.rstudio.com/gallery.html)  
@@ -173,7 +173,7 @@ output: html_document
 
 [![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/html_format/html_format_media/html_format.gif?raw=true)](../gifs/html_format/html_format.html)
 
-
+<br>
 
 ### Dashboards
 
@@ -187,6 +187,8 @@ output: flexdashboard::flex_dashboard:
 
 
 [ [dashboard example](https://cultureofinsight.shinyapps.io/crypto_tracker/) ]  [ [source code](https://cultureofinsight.shinyapps.io/crypto_tracker/) ]  [ [blog about the tracker](https://www.cultureofinsight.com/blog/2018/01/22/2018-01-22-building-a-cryptocurrency-tracker-with-r/) ]  
+
+<br>
 
 
 ### PDFs
