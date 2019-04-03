@@ -121,22 +121,7 @@ h6{
   margin-top:60px !important;
   margin-bottom:20px;
   } 
-ul {
-  list-style-type:none;
-  margin: 0;
-  padding: 0;
-  font-size:calc(0.65em + 0.25vw);
-  line-height:1.2;
-}
-ul a {
-  color: gray;
-  font-size:calc(0.65em + 0.25vw);
-  line-height:1.2;
-} 
-ul a:hover {
-  color: #337ab7;
-  font-weight: bold;
-} 
+
 #markdown-toc a {
   color: black;
   font-size:calc(0.75em + 0.25vw);
