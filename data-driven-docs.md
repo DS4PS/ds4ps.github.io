@@ -18,8 +18,6 @@ permalink: /docs/
 -----------------------
 
 <br>
-
-------------
 <br>
 
 # What Are Data-Driven Docs?
