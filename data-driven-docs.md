@@ -19,6 +19,9 @@ permalink: /docs/
 
 <br>
 
+------------
+<br>
+
 # What Are Data-Driven Docs?
 
 Data-driven documents are formats that combine text and analysis (data+code). 
@@ -27,6 +30,11 @@ In doing so, they promote transparency and reproducability. For any given table,
 
 Popular formats include things like [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html) documents and [Jupyter notebooks](https://jupyter.org/try).
 
+
+<br>
+
+------------
+<br>
 
 # How Do Data-Driven Docs Work?
 
@@ -47,6 +55,10 @@ You can download a sample template [HERE](https://cdn.rawgit.com/DS4PS/Data-Scie
 [![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/NewRmarkdownFile/NewRmarkdownFile_media/NewRmarkdownFile.gif?raw=true)](../gifs/NewRmarkdownFile/NewRmarkdownFile.html)
 
 <br>
+
+------------
+<br>
+
 
 # What is Markdown?
 
@@ -103,6 +115,9 @@ You can see a full list of rules [HERE](https://ds4ps.org/data-driven-management
 
 <br>
 
+------------
+<br>
+
 
 
 
@@ -118,6 +133,11 @@ When you "knit" a file R Studio will run all of code, embed the output into your
 
 ![](assets/img/knitting.png)
 
+
+<br>
+
+------------
+<br>
 
 
 
@@ -136,6 +156,10 @@ You can select from many different document types, including HTML pages, Microso
 
 <br>
 
+------------
+<br>
+
+
 
 ### HTML Pages
 
@@ -147,13 +171,7 @@ output: html_document
 
 [![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/html_format/html_format_media/html_format.gif?raw=true)](../gifs/html_format/html_format.html)
 
-### PDFs
 
-```r
----
-output: pdf_document
----
-```
 
 ### Dashboards
 
@@ -167,6 +185,21 @@ output: flexdashboard::flex_dashboard:
 
 
 [ [dashboard example](https://cultureofinsight.shinyapps.io/crypto_tracker/) ]  [ [source code](https://cultureofinsight.shinyapps.io/crypto_tracker/) ]  [ [blog about the tracker](https://www.cultureofinsight.com/blog/2018/01/22/2018-01-22-building-a-cryptocurrency-tracker-with-r/) ]  
+
+
+### PDFs
+
+```r
+---
+output: pdf_document
+---
+```
+
+<br>
+
+------------
+<br>
+
 
 
 
@@ -208,6 +241,8 @@ Some document output formats require specific R packages. For example:
 You can find many of these packages on the [R Markdown templates page](https://rmarkdown.rstudio.com/formats.html).
 
 
+<br>
+<br>
 <br>
 <br>
 <br>
