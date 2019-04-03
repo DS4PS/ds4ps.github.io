@@ -12,7 +12,7 @@ twitter_username: username
 header:
   - title: The Ecosystem
     url : /welcome
-  - title: Data
+  - title: Open Data
     url : /data
   - title: Data-Driven Docs
     url : /docs
