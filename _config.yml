@@ -18,10 +18,11 @@ header:
     url : /docs
   - title: Resources
     url : /resources   
-  - title: Community
-    url : /discuss 
   - title: Careers
     url : /careers
+  - title: Community
+    url : /discuss 
+
     
     
 # Build settings
