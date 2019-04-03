@@ -30,7 +30,7 @@ Popular formats include things like [R Markdown](https://rmarkdown.rstudio.com/l
 
 # How Do Data-Driven Docs Work?
 
-All of the document formats build from a simple text formatting convention called **markdown**. 
+All of the document formats build from a simple text formatting convention called [**markdown**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
 
 To create an R Markdown document, you need three things:
 
