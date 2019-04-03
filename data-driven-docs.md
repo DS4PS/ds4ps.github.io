@@ -163,16 +163,37 @@ output: flexdashboard::flex_dashboard:
 You will need the following programs to generate data-driven documents in R:
 
 * Base R installation [CRAN](https://www.r-project.org/)
-* R Studio 
-* Pandoc (comes with R Studio by default)
+* R Studio [download page](https://www.rstudio.com/products/rstudio/download/#Installers)
+* Pandoc ([comes with R Studio by default](https://blog.rstudio.com/2014/06/18/r-markdown-v2/))
 
-https://www.reed.edu/data-at-reed/software/R/r_studio_pc.html
+When you first try to knit a file, you might get a message that you need the following packages:
 
-Specialized packages:
+* rmarkdown  
+* knitr  
 
-* rmarkdown templates 
-* dashboards 
-* shiny 
+These can be installed in the usual manner:
+
+```r
+install.packages( "rmarkdown" )
+install.packages( "knitr" )
+```
+
+**PDFs:**
+
+If you would like to knit to PDF you need one additional program. TeX creates publication-quality PDF files. The open-source version is called MiKTeX [download page](http://miktex.org/download).
+
+If you have problems, you can find some nice tutorials like this one: <https://www.reed.edu/data-at-reed/software/R/r_studio_pc.html>
+
+**Specialized packages:**
+
+Some document output formats require specific R packages. For example:
+
+* journal templates  
+* dashboards  
+* r websites  
+* books in bookdown  
+
+You can find many of these packages on the [R Markdown templates page](https://rmarkdown.rstudio.com/formats.html).
 
 
 <br>
