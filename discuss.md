@@ -64,7 +64,7 @@ Stack Overflow [ [link](http://stackoverflow.com/questions/tagged/r) ]
 Flowing Data [[ link](http://flowingdata.com/) ]
 
 
-### Data Science Podcasts
+### Podcasts
 
 Data Points by GovEx [ [link](https://govex.jhu.edu/data-points-episode-0-2/) ]  
 Partial Derivative [ [link](http://partiallyderivative.com/) ]  
