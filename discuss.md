@@ -59,6 +59,23 @@ R Studio Discussions [ [link](https://community.rstudio.com/) ]
 Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]   
 
 
+### Professional Networks
+
+Nonprofit Open Data Collective [ [link](www.npdata.info) ]    
+GitHub's Government Team [ [link](https://government.github.com/) ]  
+Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.org/campaigns/public-interest-tech/) ]  
+Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloomberg.org/about/) ]  
+ARNOVAs Data and Analytics Section [ [link](https://nonprofit-open-data-collective.github.io/contact/) ] 
+
+### Data Journalists, Bloggers & Civic Groups
+
+Trend CT [ [link](https://trendct.org/) ] [ [github](https://github.com/trendct-data) ] [ [style guide](https://github.com/trendct/data/tree/master/data-repo-styleguide) ]   
+Todd Schneider [ [blog](http://toddwschneider.com/) ] [ [github](https://github.com/toddwschneider) ]  
+I Quant NY [ [blog](http://iquantny.tumblr.com/) ]  
+ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/chartsnthings/) ]  
+Data for Democracy [ [link](http://datafordemocracy.org/) ]  
+
+
 ### Blogs and Listservs
 
 R-Bloggers [ [link](http://www.r-bloggers.com/) ]  
@@ -82,22 +99,8 @@ Linear Digression [ [link](http://lineardigressions.com/) ]
 R-Podcast [ [link](https://r-podcast.org/) ]
 
 
-### Data Journalists, Bloggers & Civic Groups
-
-Trend CT [ [link](https://trendct.org/) ] [ [github](https://github.com/trendct-data) ] [ [style guide](https://github.com/trendct/data/tree/master/data-repo-styleguide) ]   
-Todd Schneider [ [blog](http://toddwschneider.com/) ] [ [github](https://github.com/toddwschneider) ]  
-I Quant NY [ [blog](http://iquantny.tumblr.com/) ]  
-ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/chartsnthings/) ]  
-Data for Democracy [ [link](http://datafordemocracy.org/) ]  
 
 
-### Professional Networks
-
-Nonprofit Open Data Collective [ [link](www.npdata.info) ]    
-GitHub's Government Team [ [link](https://government.github.com/) ]  
-Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.org/campaigns/public-interest-tech/) ]  
-Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloomberg.org/about/) ]  
-ARNOVAs Data and Analytics Section [ [link](https://nonprofit-open-data-collective.github.io/contact/) ] 
 
 
 <br> 
