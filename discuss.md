@@ -50,13 +50,12 @@ Once you have posted a question or a comment you are subscribed to the conversat
 
 <br>
 
+### R Communities
 R Open Science [ [link](https://ropensci.org/) ]  
 R Open Government [ [link](http://ropengov.github.io/) ]  
 R Ladies [ [link](https://rladies.org/) ]   
 Local User Groups [ [list](https://jumpingrivers.github.io/meetingsR/r-user-groups.html#north-america) ]  
-R Studio Discussions [ [link](https://community.rstudio.com/) ]  
-Nonprofit Open Data Collective [ [link](www.npdata.info) ]    
-GitHub's Government Team [ [link](https://government.github.com/) ]   
+R Studio Discussions [ [link](https://community.rstudio.com/) ]    
 Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]   
 
 
@@ -94,6 +93,8 @@ Data for Democracy [ [link](http://datafordemocracy.org/) ]
 
 ### Professional Networks
 
+Nonprofit Open Data Collective [ [link](www.npdata.info) ]    
+GitHub's Government Team [ [link](https://government.github.com/) ]  
 Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.org/campaigns/public-interest-tech/) ]  
 Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloomberg.org/about/) ]  
 ARNOVAs Data and Analytics Section [ [link](https://nonprofit-open-data-collective.github.io/contact/) ] 
