@@ -9,7 +9,7 @@ layout: default
 
   {% assign posts = tag | last %}
 <ul style="display:none">
-<h1  >Topic: {{ t  }}</h1>
+<h1 >{{ t  }}</h1>
 {% for post in posts %}
 
 {% if post.tags contains t  %}
@@ -27,7 +27,7 @@ layout: default
             <span>{{ post.date | date: "%b, %Y" }}</span>
           </div>
           <div style = "float:left;width:85%">
-        <a class = "post-css" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a id ="" class = "post-css" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <div class = "uk-card-body">
                 {{ post.excerpt  }}
             </div>
@@ -101,6 +101,7 @@ layout: default
 		var postuls = div.getElementsByTagName("ul");
 		for(var i =0;i<postuls.length;i++){
 			var head  = postuls[i].getElementsByTagName("h1")[0];
+
 			if(head.innerHTML == link){
 				div.setAttribute("style","display:active");
 				postuls[i].setAttribute("style","display:active");
