@@ -1,35 +1,56 @@
 ---
 layout: default
 ---
-
+<link rel="stylesheet" href="{{ "/css/post.css" | prepend: site.baseurl }}">
 	
 	<div id = "post" class = "uk-container">
 	{% for tag in site.tags %}
-  {% assign t = tag | first %}
+  {% assign t = tag | first  %}
+
   {% assign posts = tag | last %}
 <ul style="display:none">
-
+<h1  >Topic: {{ t  }}</h1>
 {% for post in posts %}
-  {% if post.tags contains t %}
-<h1 style="display:none" >{{ t | downcase }}</h1>
-   <div class="uk-card-hover uk-inline uk-width-1-1 uk-margin">
-            <a class="uk-position-cover" href="{{ post.url | relative_url }}"></a>
-            <!-- <div class="
-            uk-card-header"> -->
-               <!--  <div class="uk-grid-small uk-flex-middle" uk-grid>
-                    {% if page.author %}
-                      {% assign author = site.authors[page.author] %}
-                    {% else %}
-                      {% assign author = site.author %}
-                    {% endif %}
 
-                    <div class="uk-width-auto">
-                        
-                    </div>
-                    
-                </div> -->
-            <!-- </div> -->
-           
+{% if post.tags contains t  %}
+
+<br>
+<br>
+  <li>
+
+        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+
+        <article style="height:200px;width:600px;">
+          <!-- <div style = "display: inline-block;"> -->
+          <div style="float:left;width:15%">
+            <span class = "date_day">{{ post.date | date: "%-d" }}</span>
+            <span>{{ post.date | date: "%b, %Y" }}</span>
+          </div>
+          <div style = "float:left;width:85%">
+        <a class = "post-css" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <div class = "uk-card-body">
+                {{ post.excerpt  }}
+            </div>
+            <span>
+  {% for tag in post.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+</span>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                <span class="button uk-button-text">
+                Read more &rarr;</span>
+              </a>
+      </div>
+    <!-- </div> -->
+      </article>
+      <hr>
+      <br>
+      </li>
+      <br>
+      <br>
+      <br>
+<!-- 
             <div class="uk-card-header">
                 <h1 class="uk-article-title">{{ post.title | escape }}</h1>
                 <div class="uk-grid-small uk-flex-middle" uk-grid>
@@ -52,15 +73,17 @@ layout: default
    <div class = "uk-card-body">
                 {{ post.excerpt  }}
             </div>
-            <div class="uk-card-footer">
-                <span class="uk-button uk-button-text">Read more &rarr;</span>
+            <div class="uk-card-footer"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                <span class="button uk-button-text">
+                Read more &rarr;</span>
+              </a>
             </div>
 
         </div>
         <hr>
         <br>
         <br>
-
+ --> 
   {% endif %}
 {% endfor %}
 </ul>
@@ -69,6 +92,7 @@ layout: default
 
 	
 <hr>
+	
 <script type="text/javascript">
 		var link = window.location.href.split("?")[1].split("=")[1];
 		console.log(link);
