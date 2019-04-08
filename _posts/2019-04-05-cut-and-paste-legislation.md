@@ -12,7 +12,11 @@ In a ground-breaking investigative reporting, data journalist [Rob O'Dell](https
 
 O'Dell and colleagues leveraged digital text available through the LegiScan digital archives and insight from prior projects such as [Legislative Influence Detector (LID)](https://dssg.uchicago.edu/lid/). They data science tools to analyze the diffusion of pre-packaged laws through state system, thus creating a transparent data-driven process to track the impact of special interest on the legislative process.
 
-The mission of [LegiScan](https://legiscan.com/about) is: "providing the nation's first impartial real-time legislative tracking service designed for both public citizens and government affairs professionals across all sectors in organizations large and small. Utilizing the LegiScan API, having nearly 20 years of development maturity, allows us to provide monitoring of every bill in the 50 states and Congress. Giving our users and clients a central and uniform interface with the ability to easily track a wide array of legislative information."
+The work would not be possible without accessible and reliable open data. In this case, archives of state laws have been made available through LegiScan. 
+
+The mission of [LegiScan](https://legiscan.com/about) is: "providing the nation's first impartial real-time legislative tracking service designed for both public citizens and government affairs professionals across all sectors in organizations large and small. Utilizing the LegiScan API, having nearly 20 years of development maturity, allows us to provide monitoring of every bill in the 50 states and Congress. Giving our users and clients a central and uniform interface with the ability to easily track a wide array of legislative information." 
+
+They have a robust API and extensive thematic [datasets](https://legiscan.com/datasets) available. 
 
 <br>
 
