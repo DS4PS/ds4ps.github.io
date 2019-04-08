@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Science Uncovers Legislative Special Interest Hegemony
-tags: [ text-analysis, democracy, LegiScan, versioning, data-journalism ]
+tags: [ text-analysis, democracy, LegiScan, versioning, data-journalism, open-data ]
 author:
 ---
 
