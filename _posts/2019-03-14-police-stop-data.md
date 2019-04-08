@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stanford Open Policing Project Provides Data on Racial Bias in Policing
-tags: [ big data, open data, bias, police ]
+tags: [ big-data, open-data, bias, police ]
 author:
 ---
 
