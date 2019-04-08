@@ -8,7 +8,7 @@ author:
 
 In a ground-breaking investigative reporting, data journalist [Rob O'Dell](https://twitter.com/robodellaz) and USA Today have systematically tracked the [diffusion of cut-and-paste legislation](https://www.azcentral.com/pages/interactives/asbestos-sharia-law-model-bills-lobbyists-special-interests-influence-state-laws/) through state government. See:
 
-"[How we uncovered 10,000 times lawmakers introduced copycat model bills — and why it matters](https://www.usatoday.com/story/news/investigations/2019/04/03/how-laws-made-why-we-revealed-politicians-didnt-write-them/3162256002/)"
+> [How we uncovered 10,000 times lawmakers introduced copycat model bills — and why it matters](https://www.usatoday.com/story/news/investigations/2019/04/03/how-laws-made-why-we-revealed-politicians-didnt-write-them/3162256002/)
 
 O'Dell and colleagues leveraged digital text available through the LegiScan digital archives and insight from prior projects such as [Legislative Influence Detector (LID)](https://dssg.uchicago.edu/lid/). They data science tools to analyze the diffusion of pre-packaged laws through state system, thus creating a transparent data-driven process to track the impact of special interest on the legislative process.
 
