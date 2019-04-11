@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Journalist Uncovers Legislative Special Interest Hegemony
+title: Data Journalist Demonstrates Impact of Special-Interests on Legislation
 tags: [ text-analysis, LegiScan, data-journalism, open-data ]
 author:
 ---
