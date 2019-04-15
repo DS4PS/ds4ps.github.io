@@ -61,7 +61,8 @@ In the meantime, enjoy some of these resources:
 * Sunlight Foundation's Open Data Guidelines [ [link](http://sunlightfoundation.com/opendataguidelines/) ]  
 * Global Impact of Open Data Book: GovLab / O'Reilly [ [link](http://www.oreilly.com/data/free/files/the-global-impact-of-open-data.pdf) ]  
 * The Hidden Cost (and Benefits) of Open Data [ [link](http://www.governing.com/columns/tech-talk/gov-open-data-cost-problems.html) ]  
-
+* Data Maturity Framework [ [link](https://dsapp.uchicago.edu/home/resources/datamaturity/) ]  
+* How to Share Data for Collaboration [ [link](https://peerj.com/preprints/3139v5.pdf) ]  
 
 ### Government Portal and Resources
  
