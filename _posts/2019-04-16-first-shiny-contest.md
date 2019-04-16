@@ -13,6 +13,8 @@ RStudio [announced the 1st Annual Shiny Contest](https://blog.rstudio.com/2019/0
 
 There were 136 submissions to the contest. Results [were announced on April 5, 2019](https://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/). The organizers selected **four winners, six runners up, and 21 app got honorable mentions**.
 
+<br> 
+
 ## Highlights
 
 <br>
@@ -52,7 +54,11 @@ Think you’re a good pet owner? This app by Jenna Allen will make you think aga
 [ ![](https://d33wubrfki0l68.cloudfront.net/4a7341aa4fc466ede08e5a1d001e97bdb7bde860/20ef0/images/2019-04-05-pet-records.gif) ](https://jennadallen.shinyapps.io/pet-records-app/)
 
 
-<br>  -----------------------   <br>
+<br>  
+
+-----------------------   
+
+<br>
 
 
 **Most technically impressive: [iSEE (interactive Summarized Experiment Explorer)](https://kevinrue.shinyapps.io/isee-shiny-contest/)**
