@@ -202,7 +202,49 @@ Working in groups [is hard](https://www.ted.com/talks/clay_shirky_on_institution
 -----------------------
 
 
+
+
+
+## The Data Science Toolkit
+
+The main difference between commercial software and open source tools is flexibility. Commercial software needs to have an intuitive user interface and high performance. As a result, commercial applications typically focus functionality on a few tasks.
+
+Open source programs, on the other hand, are less elegant but more flexible. When you are new to the ecosystem this trade-off will be frustrating. Why aren't packages easier to use? Who wrote these help files and where did they learn human languages?
+
+Over time, though, you will grow to appreciate that the power of these tools more than compensates for their usability. Pete Warden created a great site he titled [The Data Science Toolkit](http://www.datasciencetoolkit.org/) to demonstrate a few cool applications that make it easier to acquire, enrich, and utilize data:
+
+http://www.datasciencetoolkit.org/
+
+It is useful to think about R more as a toolkit (collection of powerful packages) than as a programming language. Once you understand the syntax, you have access to all of these powerful tools that will allow you to create create better projects, and build them faster. 
+
+### R Packages
+
+There are approximately 15,000 R packages available on the CRAN. In order to make it easier to find the tools you need they have been organized into [Tast Views](https://cran.r-project.org/web/views/) or you can find [curated lists](https://awesome-r.com/) of nice packages. 
+
+Some of the most useful packages have been created by Hadley Wickam and the R Studio group. If you are new to R, their [list of recommended packages](https://www.rstudio.com/products/rpackages/) is not a bad place to start. 
+
+If you would like to see which pacakges are currently popular, you can view package downloads from the CRAN in real time here:
+
+[https://gallery.shinyapps.io/087-crandash/](https://gallery.shinyapps.io/087-crandash/)
+
+
 <br>
+<br>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
 
 
 
