@@ -179,6 +179,10 @@ Quanteda [ [link](https://docs.quanteda.io/articles/pkgdown/comparison.html) ]
 Who Wrote the Anonymous Op-Ed? [ [link](http://blog.revolutionanalytics.com/2018/09/anonymous-nyt-op-ed.html) ] [ [link](https://www.rjionline.org/stories/we-put-data-science-to-the-test-to-try-to-uncover-the-mystery-author-of-the) ]
 
 
+### Network Analysis 
+
+tidygraph & ggraph [ [vignette using characters from Wes Anderson films](https://davidsmale.netlify.com/portfolio/wes-anderson-actor-network/) ]  
+igraph tutorial by Katherine Ognyanova [ [link](https://kateto.net/networks-r-igraph) ]  
 
 <br><br>
 
