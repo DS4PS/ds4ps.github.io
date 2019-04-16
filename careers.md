@@ -58,7 +58,9 @@ The UK Government has put together a nice overview on [data science career paths
 ### Example Fellowships:
 
 * Data Incubator [ [fellowship overview](https://www.thedataincubator.com/fellowship.html#apply?ref=wam9saWUuYnJlZWRlbkBDb2xvcmFkby5FRFUK) ]  
-* Data Science for the Public Good [ [link](https://www.bi.vt.edu/sdal/projects/data-science-for-the-public-good-program) ]
+* Data Science for the Public Good [ [link](https://www.bi.vt.edu/sdal/projects/data-science-for-the-public-good-program) ]  
+* Lazer Lab at Northwestern [ [link](http://www.lazerlab.net/) ]  
+
 
 ### Example Job Boards:
 
@@ -76,7 +78,7 @@ The UK Government has put together a nice overview on [data science career paths
 ## Professional Training
 
 
-### Example Data Science Courses in Public Affairs Schools 
+### Example Data Science Courses in Schools of Public Affairs and Journalism  
  
 * Arizona State: [ [Data Science for the Social Sector](https://ds4ps.github.io/course_website/) ] [ [Data-Driven Management for Public Organizations](http://www.lecy.info/data-driven-management) ]
 * Brigham Young: [ [Data Science for Public Management](https://statsf18.classes.andrewheiss.com/reading/04-reading/) ] [ [Data Viz](https://datavizf18.classes.andrewheiss.com/) ]  
@@ -88,7 +90,7 @@ The UK Government has put together a nice overview on [data science career paths
 * SUNY Albany: [ [PhD Seminar in Social Network Analysis](http://www.albany.edu/wwwres/kretheme/PAD777/overview.html) ]  
 * Syracuse iSchool: [ [Applied Data Science](http://my.ischool.syr.edu/uploads/coursesyllabus/687syllabus2013maymester-1133.73673-6a0081f6-0348-4ec4-a75d-8ccf04e8ffe3.pdf) ]  
 * University of Washington: [ [course](https://evansdatascience.github.io/GovernanceAnalytics/) ]  
-
+* Rutgers School of Communications [ [Katya Ognyanova's Courses](https://kateto.net/bio/) ]
 
 
  
