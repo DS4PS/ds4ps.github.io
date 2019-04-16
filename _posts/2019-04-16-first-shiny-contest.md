@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shiny apps contest attracts creative submissions
+title: Shiny Apps Contest highlights creative ways to make data accessible
 tags: [ r, shiny, contest, data-viz ]
 author: Oleksiy Anokhin
 ---
