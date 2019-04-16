@@ -94,6 +94,14 @@ Some cool applications of open data + open source tools.
 * Social Media Data [ [link](http://www.curiositybits.com/r-for-social-data-mining/) ]  
 * Moneyball for Infrastructure [ [measurement](https://www.citylab.com/solutions/2016/01/totalpave-infrastructure-road-street-maintenance-smartphone/425079/) ] [ [model](https://www.danielphadley.com/optimize-street-repairs/) ]
 * Target Food Safety Inspection w Open Data [ [link](https://chicago.github.io/food-inspections-evaluation/) ]
+* Everything by David Smale [ [link](https://davidsmale.netlify.com/portfolio/) ]  
+
+
+### Open Science Replication Files  
+
+Examples of how to make your research transparent and extensible.
+
+Suparna Chaudhry and Andrew Heiss [ [paper1](https://stats.andrewheiss.com/donors-ngo-restrictions/index.html) ] [ [paper2](https://stats.andrewheiss.com/ngo-crackdowns-philanthropy/index.html) ] [ [paper3](https://stats.andrewheiss.com/why-donors-donate/index.html) ]  
 
 
 <br><br>
