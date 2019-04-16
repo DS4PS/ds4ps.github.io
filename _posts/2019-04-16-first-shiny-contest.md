@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shiny apps contest attracts creative submissions
-tags: [ r, shiny, rstudio, contest ]
+tags: [ r, shiny, contest, data-viz ]
 author: Oleksiy Anokhin
 ---
 
