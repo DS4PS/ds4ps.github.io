@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: Results of the 1st Shiny contest
+tags: [ r, shiny, rstudio, contest ]
+author: Oleksiy Anokhin
+---
 
 On January 7, 2019 RStudio [have announced the 1st Shiny Contest](https://blog.rstudio.com/2019/01/07/first-shiny-contest/), which caused a significant interest among R users.
 
