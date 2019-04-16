@@ -25,7 +25,9 @@ This app by David Smale is a lyrical analysis of the three-volume concept album 
 [ ![](https://d33wubrfki0l68.cloudfront.net/11fc20eae182289c7ee862b49727d2b6bb4d564c/2e006/images/2019-04-05-sixty-nine-love-songs.gif) ](https://committedtotape.shinyapps.io/sixtyninelovesongs/)
 
 <br>
+
 -------------  
+
 <br>
 
 
@@ -36,7 +38,9 @@ A brave handful of people have built small games in Shiny. It’s always impress
 [ ![](https://d33wubrfki0l68.cloudfront.net/ed6f1b09e6eb8f8ca4e3c1355312f6ab025cc454/9ee23/images/2019-04-05-hex-game.gif) ](https://dreamrs.shinyapps.io/memory-hex/) 
 
 <br>
+
 -------------
+
 <br>
 
 
@@ -48,9 +52,7 @@ Think you’re a good pet owner? This app by Jenna Allen will make you think aga
 [ ![](https://d33wubrfki0l68.cloudfront.net/4a7341aa4fc466ede08e5a1d001e97bdb7bde860/20ef0/images/2019-04-05-pet-records.gif) ](https://jennadallen.shinyapps.io/pet-records-app/)
 
 
-<br>
------------------------ 
-<br>
+<br>  -----------------------   <br>
 
 
 **Most technically impressive: [iSEE (interactive Summarized Experiment Explorer)](https://kevinrue.shinyapps.io/isee-shiny-contest/)**
@@ -60,6 +62,7 @@ iSEE (interactive SummarizedExperiment Explorer) by Kevin Rue, Charlotte Soneson
 [ ![](https://d33wubrfki0l68.cloudfront.net/f53c30c60ccd015940d820d0959bb945529605fe/28a1d/images/2019-04-05-isee.png) ](https://kevinrue.shinyapps.io/isee-shiny-contest/)
 
 <br>
+
 -------------  
 <br>
 
