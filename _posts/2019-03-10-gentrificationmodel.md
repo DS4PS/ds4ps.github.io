@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Forecasting Gentrification"
-tags: [ urban, spatial, open-data, predictive ]  
+tags: [ urban, spatial, open-data, predictive, r ]  
 date: 2019-03-10 
 author: Jesse Lecy
 ---
