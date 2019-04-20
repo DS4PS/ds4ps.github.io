@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparing R Packages syntax for Data Wrangling (data.table vs dplyr)
+title: Working with tables in R (data.table vs dplyr)
 tags: [r, dplyr, tidyverse, data.table, data-wrangling]
 author:
 ---
