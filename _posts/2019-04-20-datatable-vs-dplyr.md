@@ -29,7 +29,7 @@ Newcomers of the R communitiy traditionally value the simplicity of the **dplyr*
 on more powerful functionality of their favorite package. 
 
 ```r
-# select row in data.table
+# select rows in data.table
 DT[ V2 > 5 ]
 DT[ V4 %in% c("A","C") ] 
 
