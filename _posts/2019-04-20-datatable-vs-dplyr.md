@@ -28,4 +28,14 @@ offers a comparison of the syntax in both packages, allowing users to make their
 Newcomers of the R communitiy traditionally value the simplicity of the **dplyr** syntax, while fans of **data.table** instist 
 on more powerful functionality of their favorite package. 
 
+```r
+# select row in data.table
+DT[ V2 > 5 ]
+DT[ V4 %in% c("A","C") ] 
+
+# select rows in dplyr
+DF %>% filter( V2 > 5 )
+DF %>% filter( V4 %in% c("A","C") )
+```
+
 Please read the blog post, mentioned above, and make own conclusions and choices. 
