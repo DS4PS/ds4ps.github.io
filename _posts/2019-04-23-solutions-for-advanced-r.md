@@ -20,9 +20,9 @@ allowing readers to test their skills using exercises in the text.
 
 <br>
 
-Accoriding to authors, _it is work in progress and under active development_, but the companion textbook should be out in 2019. 
+Accoriding to authors, the companion textbook is a work in progress and under active development, but should be out in 2019. 
 
-They have visualized progress in a cool chart:
+Meanwhile, they have visualized progress in a cool chart:
 
 ![](https://advanced-r-solutions.rbind.io/index_files/figure-html/unnamed-chunk-1-1.png)
 
