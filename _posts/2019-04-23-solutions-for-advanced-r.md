@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A new resource for practicing advanced R programming
-tags: [ r, skill-development ]
+tags: [ r, learning-curve ]
 author: Oleksiy Anokhin
 ---
 
