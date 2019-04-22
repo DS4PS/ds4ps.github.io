@@ -18,9 +18,12 @@ allowing readers to test their skills using exercises in the text.
 
 ![](https://advanced-r-solutions.rbind.io/images/advrs_cover.png)
 
-They have tracked the progress creating solutions for the text, visualizing them in a cool chart.
+<br>
+
+Accoriding to authors, _it is work in progress and under active development_, but the companion textbook should be out in 2019. 
+
+They have visualized progress in a cool chart:
 
 ![](https://advanced-r-solutions.rbind.io/index_files/figure-html/unnamed-chunk-1-1.png)
 
-Accoriding to authors, _it is work in progress and under active development. The 2nd edition of Advanced R is still being revised, 
-but we hope to provide most of the answers in 2019_.
+
