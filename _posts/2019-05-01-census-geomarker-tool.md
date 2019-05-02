@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Effortlessly Add Census Data to Addresses or Points
-tags: [ open data, census ]
+tags: [ open-data, census ]
 author:
 ---
 
