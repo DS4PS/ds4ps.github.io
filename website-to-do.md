@@ -4,15 +4,15 @@
 
 Change navigation bar to:
 
-* Home  
+* Home (blog) 
+* About (site purpose and people involved, for beginners, for advanced)
 * The Learning Curve 
 * Data Science Toolkit
-* Applications (or is this just the blog?)
-* EDU 
-* Careers 
 * Community 
-* About? 
-* GitHub Org icon
+* Education
+* Careers 
+
+
 
 
 ## The Learning Curve
