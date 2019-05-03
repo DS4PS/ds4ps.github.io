@@ -91,7 +91,7 @@ Create links by wrapping the link text in square brackets [ ], and the URL in ad
 I find that [Google News](https://news.google.com) over-curates my media diet.
 ```
 
-I find that [Google News](https://news.google.com) over-curates my media diet.
+I find that [**Google News**](https://news.google.com) over-curates my media diet.
 
 <br>
 
