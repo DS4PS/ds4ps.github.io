@@ -95,6 +95,7 @@ Some cool applications of open data + open source tools.
 * Moneyball for Infrastructure [ [measurement](https://www.citylab.com/solutions/2016/01/totalpave-infrastructure-road-street-maintenance-smartphone/425079/) ] [ [model](https://www.danielphadley.com/optimize-street-repairs/) ]
 * Target Food Safety Inspection w Open Data [ [link](https://chicago.github.io/food-inspections-evaluation/) ]
 * Everything by David Smale [ [link](https://davidsmale.netlify.com/portfolio/) ]  
+* Data Science for Fair Housing [ [link](https://parametric.press/issue-01/data-science-for-fair-housing/) ]  
 
 
 ### Open Science Replication Files  
