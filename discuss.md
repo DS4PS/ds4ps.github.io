@@ -53,6 +53,7 @@ DataKind [ [link](https://www.datakind.org/) ]
 
 ### Data Journalists, Bloggers & Civic Groups
 
+Open Journalism on GitHub (over a dozen newspapers) [ [link](https://github.com/collections/open-journalism) ]
 Trend CT [ [link](https://trendct.org/) ] [ [github](https://github.com/trendct-data) ] [ [style guide](https://github.com/trendct/data/tree/master/data-repo-styleguide) ]   
 Todd Schneider [ [blog](http://toddwschneider.com/) ] [ [github](https://github.com/toddwschneider) ]  
 I Quant NY [ [blog](http://iquantny.tumblr.com/) ]  
