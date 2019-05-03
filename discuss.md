@@ -46,6 +46,10 @@ GitHub's Government Team [ [link](https://government.github.com/) ]
 Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.org/campaigns/public-interest-tech/) ]  
 Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloomberg.org/about/) ]  
 ARNOVAs Data and Analytics Section [ [link](https://nonprofit-open-data-collective.github.io/contact/) ] 
+Data Science for Social Good (Georgia Tech) [ [link](https://ds4sg.gatech.edu/) ]  
+Data Science for Social Good (U Chicago) [ [link](https://dssg.uchicago.edu/) ]
+DataKind [ [link](https://www.datakind.org/) ]  
+
 
 ### Data Journalists, Bloggers & Civic Groups
 
