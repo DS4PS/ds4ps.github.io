@@ -113,7 +113,7 @@ I find that [**Google News**](https://news.google.com) over-curates my media die
 | Fifth entry      | Sixth entry      |  
 
 
-You can see a full list of rules [HERE](https://ds4ps.org/data-driven-management-textbook/markdown/).
+You can see a full list of **markdown rules** [HERE](https://ds4ps.org/data-driven-management-textbook/markdown/).
 
 <br>
 
