@@ -58,6 +58,7 @@ Todd Schneider [ [blog](http://toddwschneider.com/) ] [ [github](https://github.
 I Quant NY [ [blog](http://iquantny.tumblr.com/) ]  
 ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/chartsnthings/) ]  
 Data for Democracy [ [link](http://datafordemocracy.org/) ]  
+BBC Data Viz Library [ [link](https://bbc.github.io/rcookbook/) ]  
 
 
 ### Blogs and Listservs
