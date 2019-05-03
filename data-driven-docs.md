@@ -88,10 +88,13 @@ To give just a couple of examples of how it works:
 Create links by wrapping the link text in square brackets [ ], and the URL in adjacent parentheses ( ). 
 
 ```
-[Google News](https://news.google.com)
+I find that [Google News](https://news.google.com) over-curates my media diet.
 ```
 
-[Google News](https://news.google.com)
+I find that [Google News](https://news.google.com) over-curates my media diet.
+
+<br>
+
 
 **Tables**
 
