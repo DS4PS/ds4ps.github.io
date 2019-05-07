@@ -7,9 +7,9 @@ Change navigation bar to:
 * Home (blog) 
 * About (site purpose and people involved, for beginners, for advanced)
 * The Learning Curve 
+* EDU  
 * Data Science Toolkit
 * Community 
-* Education
 * Careers 
 
 
