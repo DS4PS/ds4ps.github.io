@@ -113,6 +113,8 @@ In the meantime, enjoy some of these resources:
 A guide to data sources that have been used as the basis of sampling frameworks for randomized control trials (RCTs) in the US.
 
 * [JPAL Catalog of Data](https://www.povertyactionlab.org/sites/default/files/documents/AdminDataCatalog.pdf)  
+* [JPAL Publications with Data Available](https://www.povertyactionlab.org/evaluations?f[0]=field_external_data:title:1)  
+
 
 
 ### Data-Driven Journalism Project Portals
