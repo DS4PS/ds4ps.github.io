@@ -105,8 +105,10 @@ In the meantime, enjoy some of these resources:
 
 ### Open Data for the Nonprofit Sector
 
+* [Urban Institute's NCCS Data](https://nccs-data.urban.org/index.php)  
 * [Nonprofit Open Data Collective](https://nonprofit-open-data-collective.github.io/overview/)  
-
+* [Bureau of Labor Statistics Employment Data by Sector](https://www.bls.gov/bdm/nonprofits/nonprofits.htm)  
+* [Association of Religious Archives Congration Data by County 1950-2010](http://www.thearda.com/archive/browse.asp)  
 
 ### Poverty Action Lab Catalog of Administrative Data
 
