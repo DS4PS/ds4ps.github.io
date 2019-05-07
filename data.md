@@ -108,6 +108,12 @@ In the meantime, enjoy some of these resources:
 * [Nonprofit Open Data Collective](https://nonprofit-open-data-collective.github.io/overview/)  
 
 
+### Poverty Action Lab Catalog of Administrative Data
+
+A guide to data sources that have been used as the basis of sampling frameworks for randomized control trials (RCTs) in the US.
+
+* [JPAL Catalog of Data](https://www.povertyactionlab.org/sites/default/files/documents/AdminDataCatalog.pdf)  
+
 
 ### Data-Driven Journalism Project Portals
 
