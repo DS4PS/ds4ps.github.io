@@ -1,11 +1,11 @@
 ---
 layout: post
-title: A Day in the Life of a city's Chief Data Officer
+title: A Day in the Life of a Chief Data Officer
 tags: [ urban, government, open-data, innovation ]
 author: Jesse Lecy
 ---
 
-In a [recent blog](https://medium.com/@samedelstein/chief-data-officer-7bfc16b2401c) Sam Edelstein reflects on his time as the Chief Data Officer of the City of Syracuse:
+In a [RECENT BLOG POST](https://medium.com/@samedelstein/chief-data-officer-7bfc16b2401c) Sam Edelstein reflects on his time as the Chief Data Officer of the City of Syracuse:
 
 > When I took the chief data officer job with the city, I thought I’d get to grab all the data and build predictive models which in turn would save millions of dollars, make people’s lives easier, and prevent issues like infrastructure failures. While I’ve gotten to do this a couple of times, on a day to day basis, the main goal is generally to figure out how to count stuff correctly.
 
