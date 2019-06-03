@@ -95,17 +95,20 @@ The UK Government has put together a nice overview on [data science career paths
 
 ## Data Science Communities
 
+
+### R Communities
+
+Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ] 
 R Open Science [ [link](https://ropensci.org/) ]  
 R Open Government [ [link](http://ropengov.github.io/) ]  
 R Ladies [ [link](https://rladies.org/) ]  
-Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]  
-GitHub's Government Team [ [link](https://government.github.com/) ]  
 
 
 ### Professional Networks
 
 Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.org/campaigns/public-interest-tech/) ]  
 Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloomberg.org/about/) ]  
+GitHub's Government Team [ [link](https://government.github.com/) ]  
 Nonprofit Open Data Collective [ [link](www.npdata.info) ]  
 
 
