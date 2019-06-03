@@ -31,5 +31,7 @@ For some useful case studies on data science applied to the city management cont
 <br>
 <br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l0YDKgpAtOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 
