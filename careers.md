@@ -8,9 +8,7 @@ permalink: /careers/
 
 
 
-## Data Science Careers in the Public & Nonprofit Sector
 
-This page includes some examples of career paths and professional opportunities that apply data science tools to public and nonprofit sector work. 
 
 > A data scientist is a person who should be able to leverage existing data sources, and create new ones as needed in order to extract meaningful information and actionable insights. These insights can be used to drive business decisions and changes intended to achieve business goals... ‘The Perfect Data Scientist’ is the individual who is equally strong in business, programming, statistics, and communication.[1] 
 
@@ -24,6 +22,10 @@ This page includes some examples of career paths and professional opportunities 
 
 [3] From: [Data Science: The Numbers of Our Lives, The New York Times](https://www.nytimes.com/2013/04/14/education/edlife/universities-offer-courses-in-a-hot-new-field-data-science.html). 
 
+
+## Data Science Careers in the Public & Nonprofit Sector
+
+This page includes some examples of career paths and professional opportunities that apply data science tools to public and nonprofit sector work. 
 
 <br>
 
