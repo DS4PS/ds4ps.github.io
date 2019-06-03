@@ -22,7 +22,7 @@ permalink: /careers/
 
 ## Data Science Careers in the Public & Nonprofit Sector
 
-This page includes some examples of career paths and professional opportunities that apply data science tools to public and nonprofit sector work. 
+This page includes some examples of career paths and professional opportunities at the intersection of data science, public policy, and nonprofit sector work. It is not meant to be an active list of the most current opportunities, but rather provide some examples of how to marry your interests in technology, analytics, and public service for a meaningful career.
 
 <br>
 
@@ -44,26 +44,19 @@ This page includes some examples of career paths and professional opportunities 
 
 
 
-
-
 ## Careers
 
-Although the learning curve is steep, there are clear pay-offs. Nonprofits, governments, foundations, and think-tanks are actively seeking people with data science training to work as policy analysts, evidence-based managers, chief data officers, or evaluation specialists. 
+Nonprofits, governments, foundations, and think-tanks are actively seeking people with data science training to work as policy analysts, evidence-based managers, chief data officers, or evaluation specialists. 
 
 The UK Government has put together a nice overview on [data science career paths in government](https://github.com/ukgovdatascience/data_scientist_career_path/blob/master/index.md). 
 
-### US Digital Services Overview 
+
+### Federal Government Examples
 
 * Inside Obama's Stealth Startup [ [link](http://www.fastcompany.com/3046756/obama-and-his-geeks?partner=rss) ]  
 * Why I Joined the US Digital Services [ [link](https://medium.com/@USDigitalService/why-i-joined-the-u-s-digital-service-24c6682afce2) ]  
 * Five Examples of How Federal Agencies Use Big Data [ [link](http://www.businessofgovernment.org/BigData3Blog.html) ]
 * AI Initiatives in the Federal Government [ [link](https://www.whitehouse.gov/ai/ai-american-worker/) ]
-
-### Job Growth for R Skills 
-
-* Analyst Positions [ [link](https://www.indeed.com/jobs?as_and=r&as_phr=&as_any=%22data+science%22+%22statistics%22+%22analyst%22+%22government%22&as_not=&as_ttl=&as_cmp=&jt=fulltime&st=&as_src=&salary=&radius=25&l=&fromage=last&limit=10&sort=&psf=advsrch) ]  
-* Current: [ [R Users](https://www.r-users.com/) & [here](https://www.indeed.com/q-R-Programmer-jobs.html) ]  
-* Blog [ [Freelance R Programmers](https://static1.squarespace.com/static/55d9f3fbe4b001723c108c17/t/57a7f39337c58153c1866486/1470624660021/Freelance+R+Programmer+Rates.pdf) ]  
 
 
 ### Example Fellowships:
@@ -71,6 +64,13 @@ The UK Government has put together a nice overview on [data science career paths
 * Data Incubator [ [fellowship overview](https://www.thedataincubator.com/fellowship.html#apply?ref=wam9saWUuYnJlZWRlbkBDb2xvcmFkby5FRFUK) ]  
 * Data Science for the Public Good [ [link](https://www.bi.vt.edu/sdal/projects/data-science-for-the-public-good-program) ]  
 * Lazer Lab at Northwestern [ [link](http://www.lazerlab.net/) ]  
+
+
+### Job Growth for R Skills 
+
+* Analyst Positions [ [link](https://www.indeed.com/jobs?as_and=r&as_phr=&as_any=%22data+science%22+%22statistics%22+%22analyst%22+%22government%22&as_not=&as_ttl=&as_cmp=&jt=fulltime&st=&as_src=&salary=&radius=25&l=&fromage=last&limit=10&sort=&psf=advsrch) ]  
+* Current: [ [R Users](https://www.r-users.com/) & [here](https://www.indeed.com/q-R-Programmer-jobs.html) ]  
+* Blog [ [Freelance R Programmers](https://static1.squarespace.com/static/55d9f3fbe4b001723c108c17/t/57a7f39337c58153c1866486/1470624660021/Freelance+R+Programmer+Rates.pdf) ] 
 
 
 ### Example Job Boards:
@@ -83,6 +83,64 @@ The UK Government has put together a nice overview on [data science career paths
 <br>
 
 -------------
+
+
+
+
+
+## Data Science Communities
+
+R Open Science [ [link](https://ropensci.org/) ]  
+R Open Government [ [link](http://ropengov.github.io/) ]  
+R Ladies [ [link](https://rladies.org/) ]  
+Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]  
+GitHub's Government Team [ [link](https://government.github.com/) ]  
+
+
+### Professional Networks
+
+Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.org/campaigns/public-interest-tech/) ]  
+Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloomberg.org/about/) ]  
+Nonprofit Open Data Collective [ [link](www.npdata.info) ]  
+
+
+### Data Journalists, Bloggers & Civic Groups
+
+Trend CT [ [link](https://trendct.org/) ] [ [github](https://github.com/trendct-data) ] [ [style guide](https://github.com/trendct/data/tree/master/data-repo-styleguide) ]   
+Todd Schneider [ [blog](http://toddwschneider.com/) ] [ [github](https://github.com/toddwschneider) ]  
+I Quant NY [ [blog](http://iquantny.tumblr.com/) ]  
+ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/chartsnthings/) ]  
+Data for Democracy [ [link](http://datafordemocracy.org/) ] 
+
+
+### Blogs and Listservs
+
+R-Bloggers [ [link](http://www.r-bloggers.com/) ]  
+R Weekly [ [link](https://rweekly.org/) ]  
+Stack Overflow [ [link](http://stackoverflow.com/questions/tagged/r) ]  
+Flowing Data [[ link](http://flowingdata.com/) ]
+
+
+### Data Science Podcasts
+
+Data Points by GovEx [ [link](https://govex.jhu.edu/data-points-episode-0-2/) ]  
+Partial Derivative [ [link](http://partiallyderivative.com/) ]  
+DMV Nation [ [link](https://gimletmedia.com/episode/34-dmv-nation/) ]  
+Becoming a Data Scientist [ [link](http://www.becomingadatascientist.com/category/podcast/) ]  
+Data Stories [ [link](http://datastori.es/) ]  
+Talking Machines [ [link](http://www.thetalkingmachines.com/) ]  
+Not So Standard Deviations [ [link](https://soundcloud.com/nssd-podcast) ]  
+Data Skeptic [ [link](https://dataskeptic.com/) ]  
+More Or Less [ [link](http://www.bbc.co.uk/programmes/p02nrss1) ]  
+Linear Digression [ [link](http://lineardigressions.com/) ]  
+R-Podcast [ [link](https://r-podcast.org/) ]
+ 
+
+<br>
+<br>
+
+-----------------------
+
 
 
 
@@ -103,9 +161,6 @@ The UK Government has put together a nice overview on [data science career paths
 * University of Washington: [ [course](https://evansdatascience.github.io/GovernanceAnalytics/) ]  
 * Rutgers School of Communications [ [Katya Ognyanova's Courses](https://kateto.net/bio/) ]
 
-
- 
-
 ### Degree Programs 
  
 * Arizona State University: [MS in Program Evaluation and Data Analytics](https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms)  
@@ -113,10 +168,6 @@ The UK Government has put together a nice overview on [data science career paths
 * Georgetown: [Data Science and Public Policy](https://mccourt.georgetown.edu/master-in-data-science-for-public-policy)  
 * University of Chicago: [MS in Computational Science and Public Policy](https://capp.sites.uchicago.edu/)  
 * University of Southern California: [Civic Tech USC](http://www.civictechusc.org/)  
-
-
-
-
 
 ### Training Opportunities in Government
 
@@ -139,61 +190,6 @@ The UK Government has put together a nice overview on [data science career paths
 
 
 
-
-## Data Science Communities
-
-R Open Science [ [link](https://ropensci.org/) ]  
-R Open Government [ [link](http://ropengov.github.io/) ]  
-R Ladies [ [link](https://rladies.org/) ]  
-Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]  
-GitHub's Government Team [ [link](https://government.github.com/) ]  
-
-
-### Professional Networks
-
-Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.org/campaigns/public-interest-tech/) ]  
-Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloomberg.org/about/) ]  
-Nonprofit Open Data Collective [ [link](www.npdata.info) ]  
-
-
-
-### Data Journalists, Bloggers & Civic Groups
-
-Trend CT [ [link](https://trendct.org/) ] [ [github](https://github.com/trendct-data) ] [ [style guide](https://github.com/trendct/data/tree/master/data-repo-styleguide) ]   
-Todd Schneider [ [blog](http://toddwschneider.com/) ] [ [github](https://github.com/toddwschneider) ]  
-I Quant NY [ [blog](http://iquantny.tumblr.com/) ]  
-ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/chartsnthings/) ]  
-Data for Democracy [ [link](http://datafordemocracy.org/) ] 
-
-
-### Blogs and Listservs
-
-R-Bloggers [ [link](http://www.r-bloggers.com/) ]  
-R Weekly [ [link](https://rweekly.org/) ]  
-Stack Overflow [ [link](http://stackoverflow.com/questions/tagged/r) ]  
-Flowing Data [[ link](http://flowingdata.com/) ]
-
-### Data Science Podcasts
-
-Data Points by GovEx [ [link](https://govex.jhu.edu/data-points-episode-0-2/) ]  
-Partial Derivative [ [link](http://partiallyderivative.com/) ]  
-DMV Nation [ [link](https://gimletmedia.com/episode/34-dmv-nation/) ]  
-Becoming a Data Scientist [ [link](http://www.becomingadatascientist.com/category/podcast/) ]  
-Data Stories [ [link](http://datastori.es/) ]  
-Talking Machines [ [link](http://www.thetalkingmachines.com/) ]  
-Not So Standard Deviations [ [link](https://soundcloud.com/nssd-podcast) ]  
-Data Skeptic [ [link](https://dataskeptic.com/) ]  
-More Or Less [ [link](http://www.bbc.co.uk/programmes/p02nrss1) ]  
-Linear Digression [ [link](http://lineardigressions.com/) ]  
-R-Podcast [ [link](https://r-podcast.org/) ]
- 
-
-
-
-<br>
-<br>
-
------------------------
 
 
 
