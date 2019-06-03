@@ -58,22 +58,27 @@ The UK Government has put together a nice overview on [data science career paths
 * Five Examples of How Federal Agencies Use Big Data [ [link](http://www.businessofgovernment.org/BigData3Blog.html) ]
 * AI Initiatives in the Federal Government [ [link](https://www.whitehouse.gov/ai/ai-american-worker/) ]
 
+### Local Government Examples
 
-### Example Fellowships:
+* A Day in the Life of a Chief Data Officer [ [link](https://ds4ps.org/2019/06/02/day-in-life-of-chief-data-officer.html) ]  
+* Data-Driven City Management [ [MIT case study](https://github.com/DS4PS/ds4ps.github.io/raw/master/_posts/assets/Data-Driven-City-Management-MIT-Case-Study.pdf) ]
+
+
+### Graduate Student Fellowships:
 
 * Data Incubator [ [fellowship overview](https://www.thedataincubator.com/fellowship.html#apply?ref=wam9saWUuYnJlZWRlbkBDb2xvcmFkby5FRFUK) ]  
 * Data Science for the Public Good [ [link](https://www.bi.vt.edu/sdal/projects/data-science-for-the-public-good-program) ]  
 * Lazer Lab at Northwestern [ [link](http://www.lazerlab.net/) ]  
 
 
-### Job Growth for R Skills 
+### Job Growth for Data Programming 
 
 * Analyst Positions [ [link](https://www.indeed.com/jobs?as_and=r&as_phr=&as_any=%22data+science%22+%22statistics%22+%22analyst%22+%22government%22&as_not=&as_ttl=&as_cmp=&jt=fulltime&st=&as_src=&salary=&radius=25&l=&fromage=last&limit=10&sort=&psf=advsrch) ]  
 * Current: [ [R Users](https://www.r-users.com/) & [here](https://www.indeed.com/q-R-Programmer-jobs.html) ]  
 * Blog [ [Freelance R Programmers](https://static1.squarespace.com/static/55d9f3fbe4b001723c108c17/t/57a7f39337c58153c1866486/1470624660021/Freelance+R+Programmer+Rates.pdf) ] 
 
 
-### Example Job Boards:
+### Example Job Boards: 
 
 * Indeed + “R Statistics” [ [link](https://www.indeed.com/jobs?q=R+Statistics&l=&ts=1546801625888&rs=1) ]  
 * R Users [ [link](https://www.r-users.com/) ]  
