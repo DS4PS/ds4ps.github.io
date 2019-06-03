@@ -4,8 +4,9 @@ title: Careers
 permalink: /careers/
 ---
 
+<br>
 
-
+-----------------------
 
 *"A data scientist is a person who should be able to leverage existing data sources, and create new ones as needed in order to extract meaningful information and actionable insights. These insights can be used to drive business decisions and changes intended to achieve business goals... ‘The Perfect Data Scientist’ is the individual who is equally strong in business, programming, statistics, and communication."* [1]
 
@@ -18,6 +19,12 @@ permalink: /careers/
 [2] From: [Data Scientist Career Pathways in Government](https://github.com/ukgovdatascience/data_scientist_career_path/blob/master/index.md)
 
 [3] From: [Data Science: The Numbers of Our Lives, The New York Times](https://www.nytimes.com/2013/04/14/education/edlife/universities-offer-courses-in-a-hot-new-field-data-science.html)
+
+-----------------------
+
+<br>
+
+
 
 
 ## Data Science Careers in the Public & Nonprofit Sector
