@@ -8,6 +8,9 @@ permalink: /careers/
 
 -----------------------
 
+<br>
+
+
 *"A data scientist is a person who should be able to leverage existing data sources, and create new ones as needed in order to extract meaningful information and actionable insights. These insights can be used to drive business decisions and changes intended to achieve business goals... ‘The Perfect Data Scientist’ is the individual who is equally strong in business, programming, statistics, and communication."* [1]
 
 *"Data Scientists identify complex business problems whilst leveraging data value. They work as part of a multidisciplinary team with data architects, data engineers, analysts and others."* [2] 
