@@ -23,8 +23,8 @@ The challenge is not unique to the public sector [2]:
 
 For some useful case studies on data science applied to the city management context, see:
 
-1. [ Fitzgerald, M. (2016) “Data-Driven City Management,” MIT Sloan Management Review, May 2016.](assets/Data-Driven-City-Management-MIT-Case-Study.pdf) 
-2. [Kiron, D. (2017). Lessons from becoming a data-driven organization. MIT Sloan Management Review, 58(2).](Lessons-from-Becoming-a-Data-Driven-Organization.pdf)  
+1. [ Fitzgerald, M. (2016) “Data-Driven City Management,” MIT Sloan Management Review, May 2016.](https://github.com/DS4PS/ds4ps.github.io/raw/master/_posts/assets/Data-Driven-City-Management-MIT-Case-Study.pdf) 
+2. [Kiron, D. (2017). Lessons from becoming a data-driven organization. MIT Sloan Management Review, 58(2).](https://github.com/DS4PS/ds4ps.github.io/raw/master/_posts/assets/Lessons-from-Becoming-a-Data-Driven-Organization.pdf)  
 3. [Quaintance, Z. (2017). "Summit on Data-Smart Government Day Two Shows How Fast the Discipline Has Grown"  *Gov Tech: Nov 9, 2017.*](https://www.govtech.com/civic/Summit-on-Data-Smart-Government-Day-Two-Shows-How-Fast-the-Discipline-Has-Grown.html)  
 4. [Hatry, H., and Davies, E. (2011). "A Guide to Using Data‐Driven Performance Reviews." IBM Center for the Business of Government.](http://www.businessofgovernment.org/sites/default/files/A%20Guide%20to%20Data-Driven%20Performance%20Reviews.pdf)  
 
