@@ -11,21 +11,22 @@ In a [RECENT BLOG POST](https://medium.com/@samedelstein/chief-data-officer-7bfc
 
 His experience is symbolic of a lot of data science work in the public and nonprofit sectors. Every now and then there is an opportunity to create a cool predictive system, mobile app, or crowd-sourcing platform that generates notable impact. But most often data science professionals spend their time making incremental (but important!) improvements by building better databases, finding new ways to measure things, digitizing old files, "figuring out how to count stuff correctly", identifying trends, and nurturing communities of practice. 
 
-Edelstein's experience is not unique.
+Edelstein's experience is not unique. For example, an MIT case study on Data-Driven City Management [1] notes:
 
 
 
-> Many organizations have been slow in compiling, classifying, and organizing the data sitting in siloes and dark corners. It’s “a boring, boring job,” says Ger Baron, Amsterdam’s first-ever Chief Technology Officer. “But very useful!” The Netherlands’ capital **has 12,000 different datasets**, and even they can’t tell him everything about the city. For example, no one knows exactly how many bridges span Amsterdam’s famous canals, because the city’s **individual districts have not centralized their infrastructure data** (*Fitzgerald, Data-Driven City Management*).
+> Many organizations have been slow in compiling, classifying, and organizing the data sitting in siloes and dark corners. It’s “a boring, boring job,” says Ger Baron, Amsterdam’s first-ever Chief Technology Officer. “But very useful!” The Netherlands’ capital **has 12,000 different datasets**, and even they can’t tell him everything about the city. For example, no one knows exactly how many bridges span Amsterdam’s famous canals, because the city’s **individual districts have not centralized their infrastructure data**.
 
-> Organizations across the business spectrum are awakening to the transformative power of data and analytics. They are also coming to grips with the daunting difficulty of the task that lies before them. It’s tough enough for many organizations to catalog and categorize the data at their disposal and devise the rules and processes for using it. It’s even tougher to translate that data into tangible value (*Sloan Review*, [*Lessons from Becoming a Data-Driven Organization*](https://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/).
+The challenge is not unique to the public sector [2]:
+
+> Organizations across the business spectrum are awakening to the transformative power of data and analytics. They are also coming to grips with the daunting difficulty of the task that lies before them. It’s tough enough for many organizations to catalog and categorize the data at their disposal and devise the rules and processes for using it. It’s even tougher to translate that data into tangible value.
 
 For some useful case studies on data science applied to the city management context, see:
 
-[ *M. Fitzgerald, “Data-Driven City Management,” MIT Sloan Management Review, May 2016.* ](assets/Data-Driven-City-Management-MIT-Case-Study.pdf)
-
-[ *Summit on Data-Smart Government Day Two Shows How Fast the Discipline Has Grown. Quaintance, Z. for Gov Tech: Nov 9, 2017.* ](https://www.govtech.com/civic/Summit-on-Data-Smart-Government-Day-Two-Shows-How-Fast-the-Discipline-Has-Grown.html)
-
-[ *Hatry, H., and Davies, E. (2011). A Guide to Using Data‐Driven Performance Reviews. IBM Center for the Business of Government.* ](http://www.businessofgovernment.org/sites/default/files/A%20Guide%20to%20Data-Driven%20Performance%20Reviews.pdf)
+1. [ Fitzgerald, M. (2016) “Data-Driven City Management,” MIT Sloan Management Review, May 2016.](assets/Data-Driven-City-Management-MIT-Case-Study.pdf) 
+2. [Kiron, D. (2017). Lessons from becoming a data-driven organization. MIT Sloan Management Review, 58(2).](Lessons-from-Becoming-a-Data-Driven-Organization.pdf)  
+3. [Quaintance, Z. (2017). "Summit on Data-Smart Government Day Two Shows How Fast the Discipline Has Grown"  *Gov Tech: Nov 9, 2017.*](https://www.govtech.com/civic/Summit-on-Data-Smart-Government-Day-Two-Shows-How-Fast-the-Discipline-Has-Grown.html)  
+4. [Hatry, H., and Davies, E. (2011). "A Guide to Using Data‐Driven Performance Reviews." IBM Center for the Business of Government.](http://www.businessofgovernment.org/sites/default/files/A%20Guide%20to%20Data-Driven%20Performance%20Reviews.pdf)  
 
 <br>
 <br>
