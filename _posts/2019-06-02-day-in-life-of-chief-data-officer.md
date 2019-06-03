@@ -29,9 +29,6 @@ For some useful case studies on data science applied to the city management cont
 4. [Hatry, H., and Davies, E. (2011). "A Guide to Using Data‐Driven Performance Reviews." IBM Center for the Business of Government.](http://www.businessofgovernment.org/sites/default/files/A%20Guide%20to%20Data-Driven%20Performance%20Reviews.pdf)  
 
 <br>
-<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l0YDKgpAtOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br>
 
