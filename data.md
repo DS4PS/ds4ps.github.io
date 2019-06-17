@@ -53,13 +53,13 @@ In the meantime, enjoy some of these resources:
 ### Impact of Open Data
 
 * I Quant NY [ [link](http://iquantny.tumblr.com/) ]  
-* Realizing the Promise of Big Data: IBM Center for Gov.  [ [link](http://www.businessofgovernment.org/sites/default/files/Realizing%20the%20Promise%20of%20Big%20Data_0.pdf) ] 
+* Realizing the Promise of Big Data: IBM Center for Gov.  [ [link](http://www.businessofgovernment.org/sites/default/files/Realizing%20the%20Promise%20of%20Big%20Data_0.pdf) ] 
 * Data Used in 2017 Public Policy Dissertations [ [link](http://publicmanagementresearch.com/2017/12/18/data-for-dissertations-december-18-2017/) ]
 
 
 ### Guides & Best Practices
 
-* Project Open Data [ [link](https://project-open-data.cio.gov/) ]  [ [principles](https://project-open-data.cio.gov/principles/) ]  
+* Project Open Data [ [link](https://project-open-data.cio.gov/) ]  [ [principles](https://project-open-data.cio.gov/principles/) ]  
 * Open North standards [ [link](http://www.opennorth.ca/publications) ] 
 * Sunlight Foundation's Open Data Guidelines [ [link](http://sunlightfoundation.com/opendataguidelines/) ]  
 * Global Impact of Open Data Book: GovLab / O'Reilly [ [link](http://www.oreilly.com/data/free/files/the-global-impact-of-open-data.pdf) ]  
@@ -92,13 +92,13 @@ In the meantime, enjoy some of these resources:
 ### APIs
 
 * Awesome Public Datasets Page [ [GitHub](https://github.com/awesomedata/awesome-public-datasets) ]  
-* Quandl API (many data sources) [ [link](https://www.quandl.com/) ] [ [r package](https://www.quandl.com/help/r) ]  
-* Census Data API [ [acs package](http://eglenn.scripts.mit.edu/citystate/wp-content/uploads/2013/02/wpid-working_with_acs_R2.pdf) ] [ [census api](http://rstudio-pubs-static.s3.amazonaws.com/19337_2e7f827190514c569ea136db788ce850.html) ]  
-* Fun Data for Teaching [ [link](http://bartomeuslab.com/2016/01/21/fun-data-for-teaching-r/) ]   
+* Quandl API (many data sources) [ [link](https://www.quandl.com/) ] [ [r package](https://www.quandl.com/help/r) ]  
+* Census Data API [ [acs package](http://eglenn.scripts.mit.edu/citystate/wp-content/uploads/2013/02/wpid-working_with_acs_R2.pdf) ] [ [census api](http://rstudio-pubs-static.s3.amazonaws.com/19337_2e7f827190514c569ea136db788ce850.html) ]  
+* Fun Data for Teaching [ [link](http://bartomeuslab.com/2016/01/21/fun-data-for-teaching-r/) ]   
 * Forbes: 35 Open Data Sources of Note [ [link](http://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#2a8d98876796) ]  
 * 100 Interesting Datasets [ [link](http://rs.io/100-interesting-data-sets-for-statistics/) ]  
-* TwitteR Package API [ [link](http://davetang.org/muse/2013/04/06/using-the-r_twitter-package/) ]   
-* 19 Free Public Datasets (Springboard blog) [ [link](https://www.springboard.com/blog/free-public-data-sets-data-science-project/) ]  
+* TwitteR Package API [ [link](http://davetang.org/muse/2013/04/06/using-the-r_twitter-package/) ]   
+* 19 Free Public Datasets (Springboard blog) [ [link](https://www.springboard.com/blog/free-public-data-sets-data-science-project/) ]  
 * ckanr [ [github](https://github.com/ropensci/ckanr) ] [ [vignette](https://cran.r-project.org/web/packages/ckanr/vignettes/ckanr_vignette.html) ]  
 * Rsocrata [ [github](https://github.com/Chicago/RSocrata) ]  
 * censusapi Package [ [github](https://github.com/hrecht/censusapi) ] [ [slides](http://urbaninstitute.github.io/R-Trainings/accesing-census-apis/presentation/index.html#/) ] [ [tutorial](/s/CensusAPI_Package.html) ]  
@@ -166,7 +166,7 @@ Climate+Weather
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Brazilian Weather - Historical data (In Portuguese) - Data related to [...]](http://sinda.crn.inpe.br/PCD/SITE/novo/site/historico/index.php)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Canadian Meteorological Centre](http://weather.gc.ca/grib/index_e.html)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Climate Data from UEA (updated monthly)](http://www.cru.uea.ac.uk/data/)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [European Climate Assessment & Dataset](http://eca.knmi.nl/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [European Climate Assessment & Dataset](http://eca.knmi.nl/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Global Climate Data Since 1929](http://en.tutiempo.net/climate)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [NASA Global Imagery Browse Services](https://wiki.earthdata.nasa.gov/display/GIBS)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [NOAA Bering Sea Climate](http://www.beringclimate.noaa.gov/)  
@@ -182,7 +182,7 @@ Climate+Weather
 ComplexNetworks
 ---------------    
 
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/DBLP-Citation-dataset.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/DBLP-Citation-dataset.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [DIMACS Road Networks Collection](http://www.dis.uniroma1.it/challenge9/download.shtml)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [NBER Patent Citations](http://nber.org/patents/)  
 
@@ -292,7 +292,7 @@ Government
 * <i class="far fa-check-circle" style="color:lightgray"></i> [EveryPolitician - Ongoing project collating and sharing data on every [...]](http://everypolitician.org/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Federal Committee on Statistical Methodology (FCSM) (formerly FedStats)](https://nces.ed.gov/FCSM/index.asp)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Finland](https://www.opendata.fi/en)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [France](https://www.data.gouv.fr/en/datasets/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/France.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [France](https://www.data.gouv.fr/en/datasets/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/France.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Fredericton, NB, Canada](http://www.fredericton.ca/en/citygovernment/Catalogue.asp)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Gatineau, QC, Canada](http://www.gatineau.ca/donneesouvertes/default_fr.aspx)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Germany](https://www-genesis.destatis.de/genesis/online)  
@@ -305,7 +305,7 @@ Government
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Hong Kong, China](https://data.gov.hk/en/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Houston, TX, US](http://data.houstontx.gov/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Indian Government Data](https://data.gov.in/)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Indonesian Data Portal](http://data.go.id/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/Indonesian-Data-Portal.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Indonesian Data Portal](http://data.go.id/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/Indonesian-Data-Portal.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Ireland's Open Data Portal](https://data.gov.ie/data)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...]](https://www.dati.gov.it/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Japan](http://www.e-stat.go.jp/SG1/estat/eStatTopPortalE.do)  
@@ -323,7 +323,7 @@ Government
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Moncton, NB, Canada](http://open.moncton.ca/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Montreal, QC, Canada](http://donnees.ville.montreal.qc.ca/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Mountain View, California, US (GIS)](http://data-mountainview.opendata.arcgis.com/)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [NYC Open Data](https://opendata.cityofnewyork.us/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/NYC-Open-Data.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [NYC Open Data](https://opendata.cityofnewyork.us/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/NYC-Open-Data.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [NYC betanyc](http://betanyc.us/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Netherlands](https://data.overheid.nl/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [New Zealand](http://www.stats.govt.nz/browse_for_stats.aspx)  
@@ -362,11 +362,11 @@ Government
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Taiwan](http://data.gov.tw/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Tel-Aviv Open Data](https://opendata.tel-aviv.gov.il/index_en.html#/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Texas Open Data](https://data.texas.gov/)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [The World Bank](https://openknowledge.worldbank.org/handle/10986/2124)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [The World Bank](https://openknowledge.worldbank.org/handle/10986/2124)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Toronto, ON, Canada](https://portal0.cf.opendata.inter.sandbox-toronto.ca/)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Tunisia](http://www.data.gov.tn/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml)  ]
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [U.K. Government Data](http://data.gov.uk/data)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml)  ]
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [U.S. American Community Survey](https://www.census.gov/programs-surveys/acs/data.html/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Tunisia](http://www.data.gov.tn/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [U.K. Government Data](http://data.gov.uk/data)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [U.S. American Community Survey](https://www.census.gov/programs-surveys/acs/data.html/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [U.S. CDC Public Health datasets](https://www.cdc.gov/nchs/data_access/ftp_data.htm)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [U.S. Census Bureau](http://www.census.gov/data.html)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [U.S. Department of Housing and Urban Development (HUD)](http://www.huduser.gov/portal/datasets/pdrdatas.html)  
@@ -380,8 +380,8 @@ Government
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Uganda Bureau of Statistics](http://www.ubos.org/unda/index.php/catalog)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Ukraine](https://data.gov.ua/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [United Nations](http://data.un.org/)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Uruguay](https://catalogodatos.gub.uy/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml)  ]
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Valley Transportation Authority (VTA), California, US](https://data.vta.org/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/Valley-Transportation-Authority-VTA-California-US.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Uruguay](https://catalogodatos.gub.uy/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Valley Transportation Authority (VTA), California, US](https://data.vta.org/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/Valley-Transportation-Authority-VTA-California-US.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Vancouver, BC Open Data Catalog](http://data.vancouver.ca/datacatalogue/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Victoria, BC, Canada](http://opendata.victoria.ca/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Vienna, Austria](https://open.wien.gv.at/site/open-data/)  
@@ -418,19 +418,19 @@ PublicDomains
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Archive-it from Internet Archive](https://www.archive-it.org/explore?show=Collections)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [CMU JASA data archive](http://lib.stat.cmu.edu/jasadata/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [CMU StatLab collections](http://lib.stat.cmu.edu/datasets/)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Data.World](https://data.world)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml)  ]
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Data360](http://www.data360.org/index.aspx)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Data.World](https://data.world)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Data360](http://www.data360.org/index.aspx)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Enigma Public](https://public.enigma.com/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Google](http://www.google.com/publicdata/directory)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, [...]](https://www.comics.org)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Infochimps](http://www.infochimps.com/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Infochimps](http://www.infochimps.com/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [KDNuggets Data Collections](http://www.kdnuggets.com/datasets/index.html)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Microsoft Azure Data Market Free DataSets](https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Microsoft Data Science for Research](http://aka.ms/Data-Science)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Microsoft Research Open Data](https://msropendata.com/)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Numbray](http://numbrary.com/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Numbray.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Numbray](http://numbrary.com/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Numbray.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Open Library Data Dumps](https://openlibrary.org/developers/dumps)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Reddit Datasets](https://www.reddit.com/r/datasets)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Reddit Datasets](https://www.reddit.com/r/datasets)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [RevolutionAnalytics Collection](http://packages.revolutionanalytics.com/datasets/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Sample R data sets](http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [StatSci.org](http://www.statsci.org/datasets.html)  
@@ -473,7 +473,7 @@ SocialNetworks
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Google Scholar citation relations](http://www3.cs.stonybrook.edu/~leman/data/gscholar.db)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [High-Resolution Contact Networks from Wearable Sensors](http://www.sociopatterns.org/datasets/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Indie Map: social graph and crawl of top IndieWeb sites](http://www.indiemap.org/)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Mobile Social Networks from UMASS](https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Mobile-Social-Networks-from-UMASS.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Mobile Social Networks from UMASS](https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Mobile-Social-Networks-from-UMASS.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Network Twitter Data](http://snap.stanford.edu/data/higgs-twitter.html)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Reddit Comments](http://files.pushshift.io/reddit/comments/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Skytrax' Air Travel Reviews Dataset](https://github.com/quankiquanki/skytrax-reviews-dataset)  
@@ -482,7 +482,7 @@ SocialNetworks
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Twitter Data for Online Reputation Management](http://nlp.uned.es/replab2013/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Twitter Data for Sentiment Analysis](http://help.sentiment140.com/for-students/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Twitter Graph of entire Twitter site](http://an.kaist.ac.kr/traces/WWW2010.html)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Twitter Scrape Calufa May 2011](http://archive.org/details/2011-05-calufa-twitter-sql)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Scrape-Calufa-May-2011.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Twitter Scrape Calufa May 2011](http://archive.org/details/2011-05-calufa-twitter-sql)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Scrape-Calufa-May-2011.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [UNIMI/LAW Social Network Datasets](http://law.di.unimi.it/datasets.php)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Yahoo! Graph and Social Data](http://webscope.sandbox.yahoo.com/catalog.php?datatype=g)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Youtube Video Social Graph in 2007,2008](http://netsg.cs.sfu.ca/youtubedata/)  
@@ -495,7 +495,7 @@ SocialSciences
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc](http://www.systemicpeace.org/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Correlates of War Project](http://www.correlatesofwar.org/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Cryptome Conspiracy Theory Items](http://cryptome.org)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Datacards](https://www.datacards.org/login/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Datacards.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Datacards](https://www.datacards.org/login/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Datacards.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [European Social Survey](http://www.europeansocialsurvey.org/data/)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [FBI Hate Crime 2013 - aggregated data](https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Fragile States Index](http://fundforpeace.org/fsi/)  
@@ -558,7 +558,7 @@ Transportation
 * <i class="far fa-check-circle" style="color:lightgray"></i> [NYC Uber trip data April 2014 to September 2014](https://github.com/fivethirtyeight/uber-tlc-foil-response)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Open Traffic collection](https://github.com/graphhopper/open-traffic-collection)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [OpenFlights - airport, airline and route data](http://openflights.org/data.html)  
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Philadelphia Bike Share Stations (JSON)](https://www.rideindego.com/stations/json/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Philadelphia-Bike-Share-Stations-JSON.yml)  ]
+* <i class="far fa-question-circle" style="color:lightgray"></i> [Philadelphia Bike Share Stations (JSON)](https://www.rideindego.com/stations/json/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Philadelphia-Bike-Share-Stations-JSON.yml)  ]
 * <i class="far fa-check-circle" style="color:lightgray"></i> [Plane Crash Database, since 1920](http://www.planecrashinfo.com/database.htm)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [RITA Airline On-Time Performance data](http://www.transtats.bts.gov/Tables.asp?DB_ID=120)  
 * <i class="far fa-check-circle" style="color:lightgray"></i> [RITA/BTS transport data collection (TranStat)](http://www.transtats.bts.gov/DataIndex.asp)  
@@ -639,8 +639,7 @@ ul a:hover {
   list-style-type: disc !important;
   font-size:calc(0.65em + 0.25vw);
   line-height:1.2;
-  margin: 10px;
-  padding-left: 8px; 
+  margin-left: 20px;
 }  
 #markdown-toc a {
   color: black;
@@ -679,7 +678,6 @@ ul a:hover {
   overflow: hidden;
 }
 </style>
-
 
 
 
