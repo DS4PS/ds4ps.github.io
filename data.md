@@ -630,7 +630,7 @@ ul a:hover {
   font-weight: normal;
 } 
 
-#markdown-toc {
+#markdown-toc a {
   font-size:calc(0.75em + 0.25vw);
   line-height:1.2;
   font-weight: bold;
@@ -639,6 +639,7 @@ ul a:hover {
   list-style-type: disc !important;
   font-size:calc(0.65em + 0.25vw);
   line-height:1.2;
+  margin: 10px;
   padding-left: 8px; 
 }  
 #markdown-toc a {
