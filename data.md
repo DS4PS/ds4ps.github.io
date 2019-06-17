@@ -937,13 +937,13 @@ ul {
   list-style-type:none;
   margin: 0;
   padding: 0;
-  font-size:calc(0.95em + 0.25vw);
+  font-size:calc(0.75em + 0.25vw);
   line-height:1.2;
 }
 
 ul a {
   color: rgba(229,144,42,.7);
-  font-size:calc(0.95em + 0.25vw);
+  font-size:calc(0.75em + 0.25vw);
   line-height:1.2;
   font-weight: normal;
 } 
