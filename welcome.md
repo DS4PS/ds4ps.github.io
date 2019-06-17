@@ -286,12 +286,23 @@ ul {
   list-style-type: circle;
 }
 
+#markdown-toc ul {
+  font-size:calc(0.85em + 0.25vw);
+  line-height:1.2;
+  font-weight: bold;
+} 
+#markdown-toc ul li {
+  list-style-type: disc !important;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
+  margin-left: 20px;
+}  
 #markdown-toc a {
   color: black;
-  font-size:calc(0.75em + 0.25vw);
+  font-size:calc(0.65em + 0.25vw);
   line-height:1.2;
+  font-weight: normal;
 }  
-
 #markdown-toc a:hover {
     color: black;
     text-decoration: none;
