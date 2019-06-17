@@ -83,7 +83,8 @@ h1 { color: black; }
         // color: darken($brand-color, 10%);
         color: rgba(229,144,42,.7);
         text-decoration: none;
-
+        font-weight: bold;
+        
         &:hover {
             color: darken($brand-color, 10%);
             text-decoration: none;
