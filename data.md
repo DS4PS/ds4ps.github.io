@@ -631,6 +631,7 @@ ul a:hover {
 } 
 #markdown-toc a {
   color: black;
+  list-style-type: disc !important;
   font-size:calc(0.65em + 0.25vw);
   line-height:1.2;
   font-weight: normal;
