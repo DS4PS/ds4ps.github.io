@@ -942,7 +942,7 @@ ul {
 }
 
 ul a {
-  color: gray;
+  color: rgba(229,144,42,.7);
   font-size:calc(0.65em + 0.25vw);
   line-height:1.2;
 } 
