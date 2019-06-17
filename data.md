@@ -621,16 +621,19 @@ ul a {
   font-size:calc(0.65em + 0.25vw);
   line-height:1.2;
   text-decoration: none;
+  font-weight: normal;
 } 
 
 ul a:hover {
   color: #337ab7;
   text-decoration: none;
+  font-weight: normal;
 } 
 #markdown-toc a {
   color: black;
   font-size:calc(0.65em + 0.25vw);
   line-height:1.2;
+  font-weight: normal;
 }  
 
 #markdown-toc a:hover {
