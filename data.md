@@ -945,7 +945,9 @@ ul a {
   color: gray;
   font-size:calc(0.65em + 0.25vw);
   line-height:1.2;
+  font-weight: bold;
 } 
+
 ul a:hover {
   color: #337ab7;
   font-weight: bold;
