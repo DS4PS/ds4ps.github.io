@@ -629,14 +629,18 @@ ul a:hover {
   text-decoration: none;
   font-weight: normal;
 } 
+
+#markdown-toc {
+  list-style-type: disc !important;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
+}  
 #markdown-toc a {
   color: black;
-  list-style-type: disc !important;
   font-size:calc(0.65em + 0.25vw);
   line-height:1.2;
   font-weight: normal;
 }  
-
 #markdown-toc a:hover {
     color: black;
     text-decoration: none;
