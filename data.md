@@ -112,17 +112,17 @@ In the meantime, enjoy some of these resources:
 
 ### Open Data for the Nonprofit Sector
 
-* [Urban Institute's NCCS Data](https://nccs-data.urban.org/index.php)  
-* [Nonprofit Open Data Collective](https://nonprofit-open-data-collective.github.io/overview/)  
-* [Bureau of Labor Statistics Employment Data by Sector](https://www.bls.gov/bdm/nonprofits/nonprofits.htm)  
-* [Association of Religious Archives Congration Data by County 1950-2010](http://www.thearda.com/archive/browse.asp)  
+* Urban Institute's NCCS Data [ [link] ](https://nccs-data.urban.org/index.php)  
+* Nonprofit Open Data Collective [ [link] ](https://nonprofit-open-data-collective.github.io/overview/)  
+* Bureau of Labor Statistics Employment Data by Sector [ [link] ](https://www.bls.gov/bdm/nonprofits/nonprofits.htm)  
+* Association of Religious Archives Congration Data by County 1950-2010 [ [link] ](http://www.thearda.com/archive/browse.asp)  
 
 ### Poverty Action Lab Catalog of Administrative Data
 
 A guide to data sources that have been used as the basis of sampling frameworks for randomized control trials (RCTs) in the US.
 
-* [JPAL Catalog of Data](https://www.povertyactionlab.org/sites/default/files/documents/AdminDataCatalog.pdf)  
-* [JPAL Publications with Data Available](https://www.povertyactionlab.org/evaluations?f[0]=field_external_data:title:1)  
+* JPAL Catalog of Data [ [link] ](https://www.povertyactionlab.org/sites/default/files/documents/AdminDataCatalog.pdf)  
+* JPAL Publications with Data Available [ [link] ](https://www.povertyactionlab.org/evaluations?f[0]=field_external_data:title:1)  
 
 
 
