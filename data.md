@@ -7,18 +7,7 @@ permalink: /data/
 
 
 
-<br>
 
-**OPEN DATA**
-
------------------------
-
-* TOC
-{:toc}
-
------------------------
-
-<br>
 
 
 
@@ -31,6 +20,20 @@ We have gone from a relatively data poor environment in government and nonprofit
 Data is more useful when it comes with a [vignette](https://ds4ps.github.io/PROG-EVAL-III/Datasets_in_R.html) that provides some information about the nature of the data and potential uses. We will work to update the site with some helpful datasets for public affairs programs in the near future. 
 
 In the meantime, enjoy some of these resources:
+
+
+<br>
+
+**OPEN DATA**
+
+-----------------------
+
+* TOC
+{:toc}
+
+-----------------------
+
+<br>
 
 
 ### Overview
@@ -72,6 +75,10 @@ In the meantime, enjoy some of these resources:
 * Five Largest Cities Now Have Open Data Policies [ [link](http://sunlightfoundation.com/blog/2014/10/15/all-five-of-the-largest-u-s-cities-now-have-open-data-policies/) ] 
 * 40 Brilliant Open Data Projects for Smart Cities [[ link](https://carto.com/blog/forty-brilliant-open-data-projects) ]  
 
+
+### Machine Learning Training Data 
+
+* Top Sources for Machine Learning Datasets [ [link](https://vas3k.com/blog/machine_learning/) ]  
 
 <br>
 
