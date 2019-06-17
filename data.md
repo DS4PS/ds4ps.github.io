@@ -154,7 +154,7 @@ Agriculture
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Hyperspectral benchmark dataset on soil moisture](https://doi.org/10.5281/zenodo.1227837)  
         
-* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Department of Agriculture's Nutrient Database](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)  
+* <i class="fas fa-check-circle"></i> [U.S. Department of Agriculture's Nutrient Database](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)  
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Department of Agriculture's PLANTS Database](http://www.plants.usda.gov/dl_all.html)  
 
