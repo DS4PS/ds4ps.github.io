@@ -152,7 +152,7 @@ This is just a sample of some datasets that would be relevant to the public and 
 Agriculture
 -----------
         
-* <i class="far fa-check-circle"></i> [Hyperspectral benchmark dataset on soil moisture](https://doi.org/10.5281/zenodo.1227837)  
+* <i class="far fa-check-circle" style="color:gray"></i> [Hyperspectral benchmark dataset on soil moisture](https://doi.org/10.5281/zenodo.1227837)  
         
 * <i class="far fa-check-circle"></i> [U.S. Department of Agriculture's Nutrient Database](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)  
         
