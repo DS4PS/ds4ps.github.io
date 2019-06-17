@@ -630,8 +630,8 @@ ul a:hover {
   font-weight: normal;
 } 
 
-#markdown-toc a {
-  font-size:calc(0.75em + 0.25vw);
+#markdown-toc ul {
+  font-size:calc(0.85em + 0.25vw);
   line-height:1.2;
   font-weight: bold;
 } 
