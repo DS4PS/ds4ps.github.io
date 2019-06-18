@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Book - Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny
+title: Geospatial Health Data Modeling and Visualization
 tags: [epidemiology, criminology, demography, health, data-viz]
 author: Oleksiy Anokhin
 ---
