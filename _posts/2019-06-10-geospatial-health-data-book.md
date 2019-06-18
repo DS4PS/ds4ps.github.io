@@ -5,10 +5,9 @@ tags: [epidemiology, criminology, demography, health, data-viz]
 author: Oleksiy Anokhin
 ---
 
-Paula Moraga (https://paula-moraga.github.io/) has released an online book 
+Paula Moraga has released an online book 
 [**Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny**](https://paula-moraga.github.io/book-geospatial/index.html) 
-(_under development_), 
-which describes spatial and spatio-temporal statistical methods and visualization techniques to analyze georeferenced health data in R.
+(_under development_), which describes spatial and spatio-temporal statistical methods and visualization techniques to analyze georeferenced health data in R (find Paula on [github](https://paula-moraga.github.io/)).
 
 [![](https://paula-moraga.github.io/book-geospatial/img/bbimg.png)](https://paula-moraga.github.io/book-geospatial/index.html)
 
