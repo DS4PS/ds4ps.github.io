@@ -15,6 +15,6 @@ In the podcast [Against the Rules](https://atrpodcast.com/episodes/ref-you-suck-
 
 As a result, **the overall accuracy of calls has improved dramatically, and bias has basically disappeared**. 
 
-[![](https://spotlight.radiopublic.com/images/thumbnail?url=https%3A%2F%2Fstatic.megaphone.fm%2Fpodcasts%2Fa37908ea-3aac-11e9-ac9c-4b09d7d72509%2Fimage%2Fuploads_2F1551284366620-4jcgz658nl-04a44dad01fdc1c87a6e5c0957d54e97_2Flogo%252B1.jpg)](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106)
+[![](https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d9/c5/5e/d9c55ef7-f1f9-4654-732d-b7a47e3e9296/mza_2369743394241048198.jpg/600x600wp.png)](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106)
 
 After listening to the podcast one can't help but wonder, can these same sort of processes be applied to performance review in policing? With body cameras and [massive databases of policing stops](https://ds4ps.org/2019/03/14/police-stop-data.html) to serve as reference points for performance, can random samples be used to assess individual officer performance and address potential bias or improve policing tactics? 
