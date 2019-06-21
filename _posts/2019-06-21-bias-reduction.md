@@ -9,7 +9,7 @@ Michael Lewis, the famed author of books (and subsequently hit movies) like *Mon
 
 One episode will be especially interesting for those in the criminal justice and policing worlds. [Big data](https://ds4ps.org/tag/tagpage.html?id=big-data) has allowed social scientists to examine bias in policing practices using [databases of millions of police stops](https://ds4ps.org/2019/03/14/police-stop-data.html) and enforcement actions that require discretion by officers, and thus can be influenced by bias. Many police forces have tried to address these issues through training that alerts officers to implicit bias mechanisms and identifies ways to minimize their influence. 
 
-It is, however extremely difficult to overcome a lifetime of habits and social networks or organizational cultures that reinforce bias. The NBA has managed to succeed where many police forces have failed. 
+It is, however extremely difficult to overcome habits formed over a lifetime and social networks or organizational cultures that reinforce behaviors. Amazingly, the NBA has managed to succeed where many police forces have failed. 
 
 In the podcast [Against the Rules](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106) Lewis introduces us to the NBA replay center in Secaucus, N.J., a state-of-the art facility with hundreds of screens playing real-time feeds from dozens of camera angles from every live NBA game. Each call by a referee is reviewed and evaluated by experts using playback from several camera angles. They have incorporated this feed into ongoing training for referees, and each ref is assigned a score representing the accuracy of their game calls. 
 
