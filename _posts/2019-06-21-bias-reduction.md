@@ -5,7 +5,9 @@ tags: [ police, criminology, performance-management, bias ]
 author: Jesse Lecy
 ---
 
-Michael Lewis, the famed author of books (and subsequently hit movies) like *Moneyball* and *The Big Short*, has a fascinating new podcast about the special role that referees or adjudicators play in society to keep systems fair, make markets and institutions function properly, and protect vulnerable individuals from exploitation. The premise of the podcast is that this venerable duty is under attack because of rising inequality and polarization in society. 
+Michael Lewis, the famed author of books (and subsequently hit movies) like *Moneyball* and *The Big Short*, has a fascinating [new podcast](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106) about the special role that referees or adjudicators play in society to keep systems fair, make markets and institutions function properly, and protect vulnerable individuals from exploitation. The premise of the podcast is that this venerable duty is under attack because of rising inequality and polarization in society. 
+
+[![](https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d9/c5/5e/d9c55ef7-f1f9-4654-732d-b7a47e3e9296/mza_2369743394241048198.jpg/600x600wp.png)](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106)
 
 One episode will be especially interesting for those in the criminal justice and policing worlds. [Big data](https://ds4ps.org/tag/tagpage.html?id=big-data) has allowed social scientists to examine bias in policing practices using [databases of millions of police stops](https://ds4ps.org/2019/03/14/police-stop-data.html) and enforcement actions that require discretion by officers, and thus can be influenced by bias. Many police forces have tried to address these issues through training that alerts officers to implicit bias mechanisms and identifies ways to minimize their influence. 
 
@@ -14,8 +16,6 @@ It is, however extremely difficult to overcome habits formed over a lifetime and
 In the podcast [Against the Rules](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106) Lewis introduces us to the NBA replay center in Secaucus, NJ, a state-of-the art facility with a hundred screens playing real-time feeds from dozens of camera angles from every live NBA game. Each call by a referee is reviewed and evaluated by experts using playback from several camera angles. They have incorporated this feed into ongoing training for referees, and each ref is assigned a score representing the accuracy of their game calls. 
 
 As a result, **the overall accuracy of calls has improved dramatically, and bias has basically disappeared**. 
-
-[![](https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d9/c5/5e/d9c55ef7-f1f9-4654-732d-b7a47e3e9296/mza_2369743394241048198.jpg/600x600wp.png)](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106)
 
 After listening to the podcast one can't help but wonder, can these same sort of processes be applied to performance review in policing? With body cameras and [massive databases of policing stops](https://ds4ps.org/2019/03/14/police-stop-data.html) to serve as reference points for performance, can random samples be used to assess individual officer performance and address potential bias or improve policing tactics? 
 
