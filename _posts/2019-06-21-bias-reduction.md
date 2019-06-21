@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can police take a lesson from the NBA on addressing bias? 
+title: Can police take a lesson from the NBA on reducing bias? 
 tags: [ police, criminology, performance-management, bias ]
 author: Jesse Lecy
 ---
