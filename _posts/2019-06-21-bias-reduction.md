@@ -11,7 +11,7 @@ Michael Lewis, famed author of the books (and subsequent hit movies) *Moneyball*
 
 <p><img src="https://spotlight.radiopublic.com/images/thumbnail?url=https%3A%2F%2Fstatic.megaphone.fm%2Fpodcasts%2Fa37908ea-3aac-11e9-ac9c-4b09d7d72509%2Fimage%2Fuploads_2F1551284366620-4jcgz658nl-04a44dad01fdc1c87a6e5c0957d54e97_2Flogo%252B1.jpg" width="150" align="middle"></p>
 
-One episode will be especially interesting for those in the criminal justice and policing worlds. It explores a massive and expensive experiment to reduct bias in judgement. 
+One episode will be especially interesting for those in the criminal justice and policing worlds. It explores a massive experiment to reduce bias in judgement. 
 
 Bias is important in the policing world. [Big data](https://ds4ps.org/tag/tagpage.html?id=big-data) has allowed social scientists to measure bias in policing practices using [databases of millions of police stops](https://ds4ps.org/2019/03/14/police-stop-data.html) and enforcement actions that require discretion by officers. Many police forces have tried to minimize bias through training that alerts officers to implicit bias mechanisms and identifies ways to minimize their influence. It is, however extremely difficult to overcome habits formed over a lifetime and social networks or organizational cultures that reinforce behaviors. 
 
