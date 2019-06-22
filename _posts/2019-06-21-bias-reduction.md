@@ -5,16 +5,15 @@ tags: [ police, criminology, performance-management, bias ]
 author: Jesse Lecy
 ---
 
-Michael Lewis, the famed author of the books (and subsequently hit movies) *Moneyball* and *The Big Short*, has a fascinating new podcast called [Against the Rules](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106) which explores the special role of referees (and other adjudicators) in society. They keep systems fair, make markets and institutions function properly, and protect vulnerable individuals from exploitation. The premise of the podcast is that this venerable duty is under attack because of rising inequality and polarization in society. 
+Amazingly, the NBA has managed to succeed where many police forces have failed. 
 
-[<p><img src="https://spotlight.radiopublic.com/images/thumbnail?url=https%3A%2F%2Fstatic.megaphone.fm%2Fpodcasts%2Fa37908ea-3aac-11e9-ac9c-4b09d7d72509%2Fimage%2Fuploads_2F1551284366620-4jcgz658nl-04a44dad01fdc1c87a6e5c0957d54e97_2Flogo%252B1.jpg" width="150" align="middle"></p>
-](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106)
+Michael Lewis, famed author of the books (and subsequent hit movies) *Moneyball* and *The Big Short*, has a fascinating new podcast titled [Against the Rules](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106) which explores the special role of referees and other adjudicators in society. They keep systems fair, make markets and institutions function properly, and protect vulnerable individuals from exploitation. The premise of the podcast is that this venerable duty is under attack because of rising inequality and polarization in society. 
+
+<p><img src="https://spotlight.radiopublic.com/images/thumbnail?url=https%3A%2F%2Fstatic.megaphone.fm%2Fpodcasts%2Fa37908ea-3aac-11e9-ac9c-4b09d7d72509%2Fimage%2Fuploads_2F1551284366620-4jcgz658nl-04a44dad01fdc1c87a6e5c0957d54e97_2Flogo%252B1.jpg" width="150" align="middle"></p>
 
 One episode will be especially interesting for those in the criminal justice and policing worlds. It explores a massive and expensive experiment to reduct bias in judgement. 
 
-Bias is important in the policing world. [Big data](https://ds4ps.org/tag/tagpage.html?id=big-data) has allowed social scientists to measure bias in policing practices using [databases of millions of police stops](https://ds4ps.org/2019/03/14/police-stop-data.html) and enforcement actions that require discretion by officers. Many police forces have tried to minimize bias through training that alerts officers to implicit bias mechanisms and identifies ways to minimize their influence. 
-
-It is, however extremely difficult to overcome habits formed over a lifetime and social networks or organizational cultures that reinforce behaviors. Amazingly, the NBA has managed to succeed where many police forces have failed. 
+Bias is important in the policing world. [Big data](https://ds4ps.org/tag/tagpage.html?id=big-data) has allowed social scientists to measure bias in policing practices using [databases of millions of police stops](https://ds4ps.org/2019/03/14/police-stop-data.html) and enforcement actions that require discretion by officers. Many police forces have tried to minimize bias through training that alerts officers to implicit bias mechanisms and identifies ways to minimize their influence. It is, however extremely difficult to overcome habits formed over a lifetime and social networks or organizational cultures that reinforce behaviors. 
 
 In the episode ["Ref, You Suck!"](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106) Lewis introduces us to the NBA replay center in Secaucus, NJ, a state-of-the art facility with a hundred screens playing real-time feeds from dozens of camera angles from every live NBA game. Each call by a referee is reviewed and evaluated by experts using playback from several camera angles. They have incorporated this feed into ongoing training for referees, and each ref is assigned a score representing the accuracy of their game calls. 
 
