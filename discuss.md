@@ -83,7 +83,7 @@ Data Skeptic [ [link](https://dataskeptic.com/) ]
 More Or Less [ [link](http://www.bbc.co.uk/programmes/p02nrss1) ]  
 Linear Digression [ [link](http://lineardigressions.com/) ]  
 R-Podcast [ [link](https://r-podcast.org/) ]
-
+Artificial Intelligence the Podcast [ [link](https://lexfridman.com/ai/) ]
 
 
 
