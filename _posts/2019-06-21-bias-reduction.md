@@ -17,7 +17,7 @@ Bias is important in the policing world. [Big data](https://ds4ps.org/tag/tagpag
 
 In the episode ["Ref, You Suck!"](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106) Lewis introduces us to the NBA replay center in Secaucus, NJ, a state-of-the art facility with a hundred screens playing real-time feeds from dozens of camera angles from every live NBA game. Each call by a referee is reviewed and evaluated by experts using playback from several camera angles. They have incorporated this feed into ongoing training for referees, and each ref is assigned a score representing the accuracy of their game calls. 
 
-As a result, **the overall accuracy of calls has improved dramatically, and bias has basically disappeared**. 
+As a result, **the overall accuracy of calls has improved dramatically, and bias has virtually disappeared**. 
 
 After listening to the podcast one can't help but wonder, can these same sort of processes be applied to performance review in policing? With body cameras and [massive databases of policing stops](https://ds4ps.org/2019/03/14/police-stop-data.html) to serve as reference points for performance, can random samples be used to assess individual officer performance and address potential bias or improve policing tactics? 
 
