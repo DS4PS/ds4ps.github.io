@@ -5,7 +5,7 @@ tags: [ police, criminology, performance-management, bias ]
 author: Jesse Lecy
 ---
 
-Michael Lewis, the famed author of books (and subsequently hit movies) like *Moneyball* and *The Big Short*, has a fascinating [new podcast](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106) about the special role that referees or adjudicators play in society to keep systems fair, make markets and institutions function properly, and protect vulnerable individuals from exploitation. The premise of the podcast is that this venerable duty is under attack because of rising inequality and polarization in society. 
+Michael Lewis, the famed author of the books (and subsequently hit movies) *Moneyball* and *The Big Short*, has a fascinating [new podcast](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106) about the special role that referees or adjudicators play in society to keep systems fair, make markets and institutions function properly, and protect vulnerable individuals from exploitation. The premise of the podcast is that this venerable duty is under attack because of rising inequality and polarization in society. 
 
 [![](https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d9/c5/5e/d9c55ef7-f1f9-4654-732d-b7a47e3e9296/mza_2369743394241048198.jpg/600x600wp.png)](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106)
 
