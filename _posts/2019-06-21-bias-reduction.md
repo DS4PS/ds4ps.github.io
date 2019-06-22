@@ -7,7 +7,7 @@ author: Jesse Lecy
 
 Michael Lewis, the famed author of the books (and subsequently hit movies) *Moneyball* and *The Big Short*, has a fascinating new podcast called [Against the Rules](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106) which explores the special role of referees (and other adjudicators) in society. They keep systems fair, make markets and institutions function properly, and protect vulnerable individuals from exploitation. The premise of the podcast is that this venerable duty is under attack because of rising inequality and polarization in society. 
 
-[<img src="https://spotlight.radiopublic.com/images/thumbnail?url=https%3A%2F%2Fstatic.megaphone.fm%2Fpodcasts%2Fa37908ea-3aac-11e9-ac9c-4b09d7d72509%2Fimage%2Fuploads_2F1551284366620-4jcgz658nl-04a44dad01fdc1c87a6e5c0957d54e97_2Flogo%252B1.jpg" width="250" class="center">
+[<img src="https://spotlight.radiopublic.com/images/thumbnail?url=https%3A%2F%2Fstatic.megaphone.fm%2Fpodcasts%2Fa37908ea-3aac-11e9-ac9c-4b09d7d72509%2Fimage%2Fuploads_2F1551284366620-4jcgz658nl-04a44dad01fdc1c87a6e5c0957d54e97_2Flogo%252B1.jpg" width="150" class="center">
 ](https://atrpodcast.com/episodes/ref-you-suck-s1!c5106)
 
 One episode will be especially interesting for those in the criminal justice and policing worlds. It explores a massive and expensive experiment to reduct bias in judgement. 
