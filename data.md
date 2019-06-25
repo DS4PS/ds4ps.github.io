@@ -135,7 +135,8 @@ Data journalists are making their stories transparent by posting the data and co
 * LA Times [ [datadesk on GitHub](https://github.com/datadesk) ]  
 * Washington Post [ [projects on GitHub](https://github.com/washingtonpost) ]  
 * Associated Press [ [GitHub](https://github.com/associatedpress) ] [ [project template](https://github.com/associatedpress/datakit-core) ] [ [example](http://data.ap.org/projects/2017/federal-judges/processed/Federal_Judiciary_Diversity.html) ]  
-* The Economist [ [GitHub](https://github.com/TheEconomist) ]
+* The Economist [ [GitHub](https://github.com/TheEconomist) ]  
+* Center for Public Integrity [ [GitHub](https://github.com/PublicI) ] [ [Workplace Descrimination Story](https://www.buzzfeednews.com/article/lamvo/eeoc-sexual-harassment-data) ]  
 
 
 <br>
