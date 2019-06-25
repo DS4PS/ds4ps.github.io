@@ -139,6 +139,10 @@ Data journalists are making their stories transparent by posting the data and co
 * Center for Public Integrity [ [GitHub](https://github.com/PublicI) ] [ [Workplace Descrimination Story](https://www.buzzfeednews.com/article/lamvo/eeoc-sexual-harassment-data) ]  
 
 
+### Data Blogs  
+
+* Data is Plural by Jeremy Singer-Vine [ [archive](https://tinyletter.com/data-is-plural/archive) ]  
+
 <br>
 
 -----------------------
