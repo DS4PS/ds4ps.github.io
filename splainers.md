@@ -6,3 +6,6 @@ A list of resources for explaining complex topics with simple models, visualizat
 
 https://omarshehata.github.io/lda-explorable/
 
+## Machine Learning
+
+https://vas3k.com/blog/machine_learning/
