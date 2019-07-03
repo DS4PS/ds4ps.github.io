@@ -5,6 +5,8 @@ tags: [ spatial, maps, gis, data-viz ]
 author:
 ---
 
+One of my pet peeves is the use of geographic polygon maps, such as state border shapefiles, to display population data as choropleth maps. Because the brain interprets polygon size as a signal of importance, they are often more misleading than they are insightful!
+
 Marley Walker has a great [blog post](https://www.wired.com/2016/10/electoral-maps-look-little-different-heres/) discussing the use of various cartograms to display geographic of populations of people when polygon size is not proportionate to the population they represent. 
 
 <br>
