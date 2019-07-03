@@ -25,3 +25,5 @@ The Washington Post has a [nice story](https://www.washingtonpost.com/graphics/p
 
 Several packages in R allow you to create different types of cartograms. You might start with [**cartogram**](https://github.com/sjewo/cartogram),  [**eechidna**](https://www.rdocumentation.org/packages/eechidna/versions/1.3.0/topics/dorling), and [**voteogram**](https://rud.is/b/2017/05/07/plot-the-vote-making-u-s-senate-house-cartograms-in-r/).
 
+<br>
+<br>
