@@ -19,7 +19,7 @@ The Washington Post has a [nice story](https://www.washingtonpost.com/graphics/p
 
 <br>
 
-![](https://blog.datawrapper.de/img/full-180221_cartogram4.png) 
+[ ![](https://blog.datawrapper.de/img/full-180221_cartogram4.png) ](https://blog.datawrapper.de/cartograms/)
 
 <br>
 
