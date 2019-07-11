@@ -19,5 +19,6 @@ author:
 ---
 ```
 
+Please note that tags cannot contain spaces, so write them as "data-viz" instead of "data viz"!
 
 
