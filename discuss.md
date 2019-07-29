@@ -33,13 +33,13 @@ a {
 ### R Communities
 R Open Science [ [link](https://ropensci.org/) ]  
 R Open Government [ [link](http://ropengov.github.io/) ]  
-R Ladies [ [link](https://rladies.org/) ]   
+R Ladies [ [link](https://rladies.org/) ]   [nice write-up]()
 Local User Groups [ [list](https://jumpingrivers.github.io/meetingsR/r-user-groups.html#north-america) ]  
 R Studio Discussions [ [link](https://community.rstudio.com/) ]    
 Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]   
 
 
-### Professional Networks
+### Professional DS Networks in On Public and Nonprofits
 
 Nonprofit Open Data Collective [ [link](www.npdata.info) ]    
 GitHub's Government Team [ [link](https://government.github.com/) ]  
@@ -60,6 +60,13 @@ I Quant NY [ [blog](http://iquantny.tumblr.com/) ]
 ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/chartsnthings/) ]  
 Data for Democracy [ [link](http://datafordemocracy.org/) ]  
 BBC Data Viz Library [ [link](https://bbc.github.io/rcookbook/) ]  
+
+### Disaster Management
+
+Advanced Urban Disaster Resilience Analytics Lab [ [link](http://david-lallemant.com/) ] 
+Natural Hazards Center [ [link](https://hazards.colorado.edu/workshop/2019/abstract/research-highlight) ]
+NHERI Network [ [link](https://www.designsafe-ci.org/#learning) ]
+CONVERGE Center [ [link](https://podcasts.apple.com/gb/podcast/54-interdisciplinary-natural-hazards-research-lori/id1267927535?i=1000424871302) ] 
 
 
 ### Blogs and Listservs
