@@ -17,3 +17,12 @@ https://otexts.com/fpp2/
 ## R Programming
 
 https://csgillespie.github.io/efficientR/
+
+
+## Hypothesis Testing
+
+https://lindeloev.github.io/tests-as-linear/
+
+## Teach Data Science
+
+https://teachdatascience.com/
