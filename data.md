@@ -93,10 +93,7 @@ In the meantime, enjoy some of these resources:
 
 * Awesome Public Datasets Page [ [GitHub](https://github.com/awesomedata/awesome-public-datasets) ]  
 * Quandl API (many data sources) [ [link](https://www.quandl.com/) ] [ [r package](https://www.quandl.com/help/r) ]  
-* Census Data API [ [acs package](http://eglenn.scripts.mit.edu/citystate/wp-content/uploads/2013/02/wpid-working_with_acs_R2.pdf) ] [ [census api](http://rstudio-pubs-static.s3.amazonaws.com/19337_2e7f827190514c569ea136db788ce850.html) ]  
-* Fun Data for Teaching [ [link](http://bartomeuslab.com/2016/01/21/fun-data-for-teaching-r/) ]   
-* Forbes: 35 Open Data Sources of Note [ [link](http://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#2a8d98876796) ]  
-* 100 Interesting Datasets [ [link](http://rs.io/100-interesting-data-sets-for-statistics/) ]  
+* Census Data API [ [acs package](http://eglenn.scripts.mit.edu/citystate/wp-content/uploads/2013/02/wpid-working_with_acs_R2.pdf) ] [ [census api](http://rstudio-pubs-static.s3.amazonaws.com/19337_2e7f827190514c569ea136db788ce850.html) ]    
 * TwitteR Package API [ [link](http://davetang.org/muse/2013/04/06/using-the-r_twitter-package/) ]   
 * 19 Free Public Datasets (Springboard blog) [ [link](https://www.springboard.com/blog/free-public-data-sets-data-science-project/) ]  
 * ckanr [ [github](https://github.com/ropensci/ckanr) ] [ [vignette](https://cran.r-project.org/web/packages/ckanr/vignettes/ckanr_vignette.html) ]  
@@ -109,6 +106,15 @@ In the meantime, enjoy some of these resources:
 * Strava GPS Data of Athletes by City [ [blog](http://www.databrew.cc/posts/strava.html) ]
 * rtimes Package: NYTimes API for government data [ [link](https://github.com/ropengov/rtimes) ]
 * rsunlight Package: Wrapper for the Open Congress and Open States APIs [ [link](https://github.com/ropengov/rsunlight) ]
+
+### Data for Teaching 
+
+* A Little Stats [ [link](http://alittlestats.blogspot.com/p/data-sources.html) ]  
+* Fun Data for Teaching [ [link](http://bartomeuslab.com/2016/01/21/fun-data-for-teaching-r/) ]   
+* Forbes: 35 Open Data Sources of Note [ [link](http://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#2a8d98876796) ]  
+* 100 Interesting Datasets [ [link](http://rs.io/100-interesting-data-sets-for-statistics/) ]  
+* Data and Story Library [ [link](https://dasl.datadescription.com/) ]  
+
 
 ### Open Data for the Nonprofit Sector
 
