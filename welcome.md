@@ -79,7 +79,16 @@ There is a non-trivial learning curve to master some of the tools, but the good 
 
 ## Data Programming Languages
 
-Working in the field of data science requires a data programming language. R and Python are the two most common languages you will encounter. Typically if come from the field of computer science you are likely a Python programmer, and if you come from the social sciences, statistics, or engineering yoU typically use R. [There are pros and cons to each](https://github.com/matloff/R-vs.-Python-for-Data-Science), but both are powerful and flexible. This site will emphasize R-based approaches for expertise reasons only, but Python-based applications are common in the public sector as well. 
+Working in the field of data science requires a data programming language. R and Python are the two most common languages you will encounter. Typically if come from the field of computer science you are likely a Python programmer, and if you come from the social sciences, statistics, or engineering yoU typically use R. [There are pros and cons to each](https://github.com/matloff/R-vs.-Python-for-Data-Science), but both are powerful and flexible. 
+
+Hadley Wickham made the following [helpful observation](https://qz.com/1661487/hadley-wickham-on-the-future-of-r-python-and-the-tidyverse/) regarding differences between R and Python:
+
+> A pattern that I see is that the data science team in a company uses R and the data engineering team uses Python. The Python people tend to have a background in software engineering and are very confident about their programming skills. They see R and it looks very weird, and say with a lot of certainty these facts about R [not being as good].
+
+> The R users are generally not as confident in their programming skills. They really like R, but can’t argue with the engineering team, because they don’t have the language to make that argument. People using R tend to have these backgrounds in biology or marketing and they don’t have the vocabulary. R is a weird language but it is weird for good reasons, and it’s a really good fit for data science. It’s not a general purpose programming language, but there are good reasons for a lot of the things it does.
+
+
+This site will emphasize R-based approaches for expertise reasons only, but Python-based applications are common in the public sector as well. 
 
 Resources for Learning R [ [link](http://www.r-bloggers.com/how-to-learn-r-2/) ]
 
