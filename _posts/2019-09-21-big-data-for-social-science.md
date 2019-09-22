@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Great introductory text on data science and big data for the social science
-tags: [ big-data, open-data, machine-learning, learning-curve ]
+title: Great introductory text on computational skills for modern social sciences
+tags: [ learning-curve, big-data, machine-learning, government  ]
 author: Jesse Lecy
 ---
 
