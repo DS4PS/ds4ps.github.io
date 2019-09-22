@@ -7,7 +7,7 @@ author: Jesse Lecy
 
 Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter and Julia Lane have released a new free textbook on useful computational methods for social sciences: 
 
-#### [Big Data in Social Science](https://coleridge-initiative.github.io/big-data-and-social-science/)  
+### [Big Data in Social Science](https://coleridge-initiative.github.io/big-data-and-social-science/)  
 
 
 > The world has changed for empirical social scientists. The new types of “big data” have generated an entire new research field—that of data science. That world is dominated by computer scientists who have generated new ways of creating and collecting data, developed new analytical and statistical techniques, and provided new ways of visualizing and presenting information. These new sources of data and techniques have the potential to transform the way applied social science is done.
