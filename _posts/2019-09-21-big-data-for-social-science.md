@@ -5,7 +5,7 @@ tags: [ learning-curve, big-data, machine-learning, government  ]
 author: Jesse Lecy
 ---
 
-Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter and Julia Lane have released a new free textbook on useful computational methods for social sciences: 
+Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter and Julia Lane have released a free textbook on useful computational methods for social sciences: 
 
 ### [Big Data in Social Science](https://coleridge-initiative.github.io/big-data-and-social-science/)  
 
