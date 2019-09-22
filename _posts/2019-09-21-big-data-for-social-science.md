@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Great introductory text on computational skills for modern social sciences
+title: Introductory textbook on computational skills for modern social sciences
 tags: [ learning-curve, big-data, machine-learning, government  ]
 author: Jesse Lecy
 ---
