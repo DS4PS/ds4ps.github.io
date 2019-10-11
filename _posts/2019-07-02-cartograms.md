@@ -38,3 +38,18 @@ Several packages in R allow you to create different types of cartograms. You mig
 
 <br>
 <br>
+
+
+----
+
+<br>
+
+![](https://i.giphy.com/media/RJtURneNvadMoRiPWj/giphy.webp) 
+
+<br>
+
+----
+
+<br>
+<br>
+
