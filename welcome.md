@@ -87,6 +87,7 @@ Hadley Wickham made the following [helpful observation](https://qz.com/1661487/h
 
 > The R users are generally not as confident in their programming skills. They really like R, but can’t argue with the engineering team, because they don’t have the language to make that argument. People using R tend to have these backgrounds in biology or marketing and they don’t have the vocabulary. R is a weird language but it is weird for good reasons, and it’s a really good fit for data science. It’s not a general purpose programming language, but there are good reasons for a lot of the things it does.
 
+You will find that specific communities of practice will converge on one or another. McKinsey, for example, [has a preference for R](https://news.efinancialcareers.com/uk-en/3000197/want-to-work-at-bain-or-mckinsey-learn-this-programming-language).
 
 This site will emphasize R-based approaches for expertise reasons only, but Python-based applications are common in the public sector as well. 
 
