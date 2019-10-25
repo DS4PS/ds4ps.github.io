@@ -51,5 +51,11 @@ Several packages in R allow you to create different types of cartograms. You mig
 ----
 
 <br>
+
+You will find a quick and dirty tutorial [ [HERE](https://github.com/DS4PS/cpp-529-master/blob/master/data/README.md) ] and a lab [ [HERE](https://ds4ps.org/cpp-529-master/labs/lab-03-tutorial.html#identifying-neighborhood-clusters) ].
+
+![](https://github.com/DS4PS/cpp-529-master/raw/master/assets/img/phx-dorling.png)
+
+<br>
 <br>
 
