@@ -17,8 +17,7 @@ Patil said an area in Florida recently implemented a similar system. **The resul
 
 Similar results have been achieved by examining databases in homeless shelters to identify chronic cases that are not well-served by emergency services. 
 
-[ [*Gladwell, M. (2006). Million dollar Murray: Why problems of homelessness may be easier to solve than to manage. The New Yorker.*]()
-http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf ]
+[ [*Gladwell, M. (2006). Million dollar Murray: Why problems of homelessness may be easier to solve than to manage. The New Yorker.*](http://dpbh.nv.gov/uploadedFiles/A%20MillionDollarMurray.pdf) ]
 
 <br>
 
