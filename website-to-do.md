@@ -73,6 +73,9 @@ How long each step takes?
 What support is available at each stage?
 
 
+## Classes
+
+Complex Networks: https://www.barabasilab.com/course 
 
 ## Resources
 
