@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twitter Releases API for Academics
-tags: [ open-data, text, twitter ]
+tags: [ open-data, text-analysis, twitter ]
 author:
 ---
 
