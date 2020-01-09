@@ -450,12 +450,21 @@ For a great overview with examples of R code:
 
 *Wilke, C. O. (2019). Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures. O'Reilly Media.* [FREE EBOOK](https://serialmentor.com/dataviz/)
 
-## Principles of Visual Communication [ [Intro to Data Viz](http://ds4ps.org/dp4ss-textbook/p-060-intro-to-data-viz.html) ] 
+## [Principles of Visual Communication](http://ds4ps.org/dp4ss-textbook/p-060-intro-to-data-viz.html)  
 * Ground, figure, narrative (context, subject, action)
 * Tufte’s rules 
 * Visual tragedies 
 
-## Core Graphics Engine [ [Core](http://ds4ps.org/dp4ss-textbook/p-061-plot-basics.html) ] [ [Custom](http://ds4ps.org/dp4ss-textbook/p-062-customized-graphics.html) ] 
+## [Core Graphics Engine](http://ds4ps.org/dp4ss-textbook/p-061-plot-basics.html)  
+* `plot()` function 
+* Arguments:
+  - plot point types 
+  - colors 
+  - size 
+  - axis labels 
+  - plot title 
+  
+## [Customizing Graphics](http://ds4ps.org/dp4ss-textbook/p-062-customized-graphics.html) 
 * Defining a canvas: xlim, ylim
 * Adding data
 * Type (point, line, both)
@@ -488,12 +497,13 @@ For a great overview with examples of R code:
   - incorrect:  https://en.wikipedia.org/wiki/File:Smallmult.png#/media/File:Smallmult.png
 * Custom graph layouts
 
-## ggplot2  [ [Intro to the Grammar of Graphics](http://ds4ps.org/dp4ss-textbook/ch-102-ggplot2.html) ]
+## [Intro to the Grammar of Graphics and ggplot2](http://ds4ps.org/dp4ss-textbook/ch-102-ggplot2.html) 
 * Grammar of graphics concept
 * ggplot overview
 
 
 ## Animations 
+
 
 <br>
 <br>
@@ -501,23 +511,25 @@ For a great overview with examples of R code:
 
 # Dynamic Documents 
 
-## R shiny [ [overview](https://github.com/DS4PS/cpp-526-fall-2019/raw/master/lectures/shiny-widgets.pdf) ] [ [tutorial](http://rmarkdown.rstudio.com/authoring_shiny.html) ] 
+## [R shiny](https://github.com/DS4PS/cpp-526-fall-2019/raw/master/lectures/shiny-widgets.pdf) ] 
 * What makes documents dynamic? 
 * Widgets 
   - input objects
   - [Widgets Gallery](https://shiny.rstudio.com/gallery/widget-gallery.html)
 * Render functions 
-* reactive 
+* Reactive functions 
+* [ [tutorial](http://rmarkdown.rstudio.com/authoring_shiny.html) ] 
 
 
-## flexdashboards [ [overview](http://rmarkdown.rstudio.com/flexdashboard/) ] [ [demo RMD](https://shiny.rstudio.com/gallery/kmeans-example.html) ]
+## [Dashboards in R](http://rmarkdown.rstudio.com/flexdashboard/) 
 * Principles of good dashboard design 
 * Layouts 
 * Sidebars 
 * Value boxes 
-* CSS basics 
+* [ [demo RMD](https://shiny.rstudio.com/gallery/kmeans-example.html) ]
 
-
+## Customizing Styles 
+* CSS: cascading style sheets
 
 <br>
 <br>
