@@ -80,7 +80,7 @@ Jamison Crawford
 We will need three tools to manage your data science projects: a data programming language (R), a project management interfact (R Studio), and a way to create data-driven documents (R Markdown).  
  
  
-## [Core R](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html) ]   
+## [Core R](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html)  
 
 * What is R?  [ [video](https://player.vimeo.com/video/180644880) ]  
 * Packages  
@@ -90,13 +90,13 @@ We will need three tools to manage your data science projects: a data programmin
 
 
 
-## R Studio [ [CH-02](http://ds4ps.org/dp4ss-textbook/ch-020-rstudio.html) ]  
+## [R Studio](http://ds4ps.org/dp4ss-textbook/ch-020-rstudio.html)   
 
 * Installing R and R Studio  
 * Tour of R Studio  
 
 
-## Data-Driven Docs [ [CH-03](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) ]  
+## [Data-Driven Docs](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html)   
 
 * Automation & Flexibility   
 * [The Importance of Reproducibility](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)  
@@ -104,7 +104,7 @@ We will need three tools to manage your data science projects: a data programmin
 * Gallery [link](https://rmarkdown.rstudio.com/gallery.html)  
 
 
-## Markdown [ [CH-04](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html) ]  
+## [Markdown](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html)  
 
 * R Markdown Formats [overview](https://rmarkdown.rstudio.com/lesson-1.html)  
   * Headers and Chunks [link](https://ds4ps.org/docs/#how-do-data-driven-docs-work)  
@@ -122,13 +122,13 @@ We will need three tools to manage your data science projects: a data programmin
 * [Style Guides](https://jef.works/R-style-guide/)  
 
 
-## Getting Help [ [CH-08](http://ds4ps.org/dp4ss-textbook/ch-021-help.html) ]  
+## [Getting Help](http://ds4ps.org/dp4ss-textbook/ch-021-help.html)  
 * Help files   
 * Error messages   
 * Discussion boards  
 
 
-## The Learning Curve [ [CH-07](http://ds4ps.org/dp4ss-textbook/ch-032-learning_r.html) ]  
+## [The Learning Curve](http://ds4ps.org/dp4ss-textbook/ch-032-learning_r.html)   
 * Vocabular and verbs  
 * Learning to Learn R 
 
@@ -139,12 +139,12 @@ We will need three tools to manage your data science projects: a data programmin
 
 # Using R 
 
-## R as a Calculator [ [CH-05](http://ds4ps.org/dp4ss-textbook/ch-033-calculator.html) ]  
+## [R as a Calculator](http://ds4ps.org/dp4ss-textbook/ch-033-calculator.html)   
 * Mathematical Operators 
 * Assignment 
 * Objects
  
-## Functions [ [CH-06](http://ds4ps.org/dp4ss-textbook/ch-040-functions.html) ] 
+## [Functions](http://ds4ps.org/dp4ss-textbook/ch-040-functions.html)  
 * Input-Output Devices 
 * Arguments 
 * Values 
@@ -172,7 +172,7 @@ We will need three tools to manage your data science projects: a data programmin
 # One-Dimensional Datasets
 
 
-## Vectors  [ [CH-09](http://ds4ps.org/dp4ss-textbook/ch-050-vectors.html) ]  
+## [Vectors](http://ds4ps.org/dp4ss-textbook/ch-050-vectors.html)   
 * Vector Types
   - Numeric (V)
   - Character (S)
@@ -247,11 +247,24 @@ We will need three tools to manage your data science projects: a data programmin
 
 # Data IO
 
-## Navigation 
-* Navigating R (directories, paths, object lists)
-* Built-In Datasets
+Data **import** and **export** *[ input / output ]*.
 
-## Getting Data into R [ [data import](http://ds4ps.org/dp4ss-textbook/ch-100-importing.html) ] 
+## Navigation 
+* Working directories
+  - paths: windows v linux 
+  - current working directory: getwd() 
+  - change working directory: setwd() 
+  - check files in directory: dir()
+  - create new folder: dir.create( "name" )
+* Unzip files 
+* Delete files 
+
+## Built-In Datasets
+* Core R datasets 
+* Datasets in packages 
+* Packages that are data 
+
+## [Importing Data into R](http://ds4ps.org/dp4ss-textbook/ch-100-importing.html) 
 * Read options   
 * Copy and paste from Excel 
 * Using rdata format 
@@ -264,7 +277,7 @@ We will need three tools to manage your data science projects: a data programmin
 * Import from DropBox
 * [ [tutorial](https://www.datacamp.com/community/tutorials/r-data-import-tutorial) ]
 
-## Saving Data [ [exporting datasets](http://ds4ps.org/dp4ss-textbook/ch-101-exporting_files.html) ] 
+## [Exporting Data](http://ds4ps.org/dp4ss-textbook/ch-101-exporting_files.html) ] 
 * Write options 
   - CSV 
   - R Data Sets (RDS)
@@ -276,12 +289,16 @@ We will need three tools to manage your data science projects: a data programmin
 * Copy to Excel 
 * [ [tutorial](https://thomasleeper.com/Rcourse/Tutorials/savingdata.html) ]
 
-## APIs [ [using APIs in R](http://www.storybench.org/how-to-access-apis-in-r/) ] [ [Demo with DataUSA API](https://gist.github.com/lecy/0aa782a873cd174573f32d243233ca5b) ]
+## [APIs](http://www.storybench.org/how-to-access-apis-in-r/) 
 * What is an API?
 * Examples 
   - Census
   - Socrata
   - Twitter
+* [ [Demo with DataUSA API](https://gist.github.com/lecy/0aa782a873cd174573f32d243233ca5b) ] 
+
+<br>
+<br>
 
 
 <br>
@@ -502,6 +519,9 @@ For a great overview with examples of R code:
 <br>
 <br>
 <br>
+
+
+
 
 
 
