@@ -25,11 +25,14 @@ A casual introduction to data programming in R for social science audiences.
 Authors: *Jesse Lecy and Jamison Crawford*
 
 <center>
+  
 ![](https://mirrors.creativecommons.org/presskit/logos/cc.logo.large.png)
+  
 Creative Commons International License 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 </a>.
-</center>
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 </a>.
+
+</center>
 
 <br>
 <br>
