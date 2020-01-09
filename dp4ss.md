@@ -6,6 +6,137 @@ permalink: /dp4ss/
 
 
 
+
+
+
+<style>
+  
+.textbook-toc>ul {
+font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+  font-size: 18px; 
+  font-style: normal; 
+  font-variant: small-caps; 
+  font-weight: 100;
+  line-height: 26.4px;
+}
+
+.textbook-toc>h2 { 
+  font-size: 22px;  
+  color: maroon;
+}
+
+.textbook-toc>h4 { 
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+  font-weight: 100;
+  font-size: 42px;  
+  color: maroon;
+}
+
+.textbook-toc>h1 {
+  background-color: #666;
+  color: white;
+  font-size: 24px;
+  padding: 10px;
+  margin-top: 70px;
+}
+
+
+.uk-navbar-nav>li>a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    height: 80px;
+    padding: 0 15px;
+    font-size: .875rem;
+    font-family: system-ui;
+    text-decoration: none;
+}
+
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#markdown-toc ul {
+  font-size:calc(0.85em + 0.25vw);
+  line-height:1.2;
+  font-weight: bold;
+} 
+#markdown-toc ul li {
+  list-style-type: disc !important;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
+  margin-left: 20px;
+}  
+#markdown-toc a {
+  color: black;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
+  font-weight: normal;
+}  
+#markdown-toc a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+body {
+  counter-reset : h2;
+    }
+
+h2 {
+  counter-reset : h3;
+    }
+
+h3 {
+  counter-reset : h4;
+    }
+
+h4 {
+  counter-reset : h5;
+    }
+
+h5 {
+  counter-reset : h6;
+    }
+
+article h2:before {
+  content : counter(h2,decimal) ". ";
+  counter-increment : h2;
+}
+
+article h3:before {
+  content : counter(h2,decimal) "." counter(h3,decimal) ". ";
+  counter-increment : h3;
+}
+
+article h4:before {
+  content : counter(h2,decimal) "." counter(h3,decimal) "." counter(h4,decimal) ". ";
+  counter-increment : h4;
+}
+
+article h5:before {
+  content : counter(h2,decimal) "." counter(h3,decimal) "." counter(h4,decimal) "." counter(h5,decimal) ". ";
+  counter-increment : h5;
+}
+
+article h6:before {
+  content : counter(h2,decimal) "." counter(h3,decimal) "." counter(h4,decimal) "." counter(h5,decimal) "." counter(h6,decimal) ". ";
+  counter-increment : h6;
+}
+
+h2.nocount:before, h3.nocount:before, h4.nocount:before, h5.nocount:before, h6.nocount:before {
+  content : "";
+  counter-increment : none;
+}
+    
+</style>  
+
+
+
 ## Data Programming for Social Sciences
 
 Textbook and labs for teaching data programming to social science audiences. 
@@ -16,7 +147,6 @@ Textbook and labs for teaching data programming to social science audiences.
 
 -----------------------
 
-* TOC
 {:toc}
 
 -----------------------
@@ -42,6 +172,7 @@ Textbook and labs for teaching data programming to social science audiences.
 We will need three tools to manage your data science projects: a data programming language (R), a project management interfact (R Studio), and a way to create data-driven documents (R Markdown).  
 
 ## Core R [ [CH-01](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html) ]  
+
 * What is R?  [ [video](https://player.vimeo.com/video/180644880) ]  
 * Packages  
   - [CRAN Views](https://cran.r-project.org/web/views/)  
@@ -50,11 +181,13 @@ We will need three tools to manage your data science projects: a data programmin
 
 
 ## R Studio [ [CH-02](http://ds4ps.org/dp4ss-textbook/ch-020-rstudio.html) ]  
+
 * Installing R and R Studio  
 * Tour of R Studio  
 
 
 ## Data-Driven Docs [ [CH-03](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) ]  
+
 * Automation & Flexibility   
 * [The Importance of Reproducibility](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)  
 * Formats [link](https://rmarkdown.rstudio.com/formats.html)  
@@ -62,6 +195,7 @@ We will need three tools to manage your data science projects: a data programmin
 
 
 ## Markdown [ [CH-04](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html) ]  
+
 * R Markdown Formats [overview](https://rmarkdown.rstudio.com/lesson-1.html)  
   * Headers and Chunks [link](https://ds4ps.org/docs/#how-do-data-driven-docs-work)  
   * Knitting [link](https://ds4ps.org/docs/#knitting-r-markdown-files)  
@@ -197,17 +331,21 @@ We will need three tools to manage your data science projects: a data programmin
 
 
 
-# Two-Dimensional Datasets
 
-## Dataframes
-* Creating data frames from vectors
-  - rows and columns 
-* the $ operator
-* Checking and changing class types
+# Two-Dimensional Datasets  
 
-## Dataframe Subsets
-* Filter rows and select columns 
-  - the [] operator
+## Dataframes  
+
+* Creating data frames from vectors  
+  - rows and columns  
+* the $ operator 
+* Checking and changing class types 
+
+
+## Dataframe Subsets  
+
+* Filter rows and select columns  
+  - the [] operator 
   - dplyr::filter and dplyr::select 
 * Reorder rows or columns
   - sort() versus order()
@@ -436,129 +574,6 @@ For a great overview with examples of R code:
 
 
 
-<style>
-  
-.textbook-toc>ul {
-font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
-  font-size: 18px; 
-  font-style: normal; 
-  font-variant: small-caps; 
-  font-weight: 100;
-  line-height: 26.4px;
-}
-
-.textbook-toc>h2 { 
-  font-size: 22px;  
-  color: maroon;
-}
-
-.textbook-toc>h4 { 
-  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
-  font-weight: 100;
-  font-size: 42px;  
-  color: maroon;
-}
-
-.textbook-toc>h1 {
-  background-color: #666;
-  color: white;
-  font-size: 24px;
-  padding: 10px;
-  margin-top: 70px;
-}
 
 
-.uk-navbar-nav>li>a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    box-sizing: border-box;
-    height: 80px;
-    padding: 0 15px;
-    font-size: .875rem;
-    font-family: system-ui;
-    text-decoration: none;
-}
-
-
-iframe {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#markdown-toc ul {
-  font-size:calc(0.85em + 0.25vw);
-  line-height:1.2;
-  font-weight: bold;
-} 
-#markdown-toc ul li {
-  list-style-type: disc !important;
-  font-size:calc(0.65em + 0.25vw);
-  line-height:1.2;
-  margin-left: 20px;
-}  
-#markdown-toc a {
-  color: black;
-  font-size:calc(0.65em + 0.25vw);
-  line-height:1.2;
-  font-weight: normal;
-}  
-#markdown-toc a:hover {
-    color: black;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-body {
-  counter-reset : h2;
-    }
-
-h2 {
-  counter-reset : h3;
-    }
-
-h3 {
-  counter-reset : h4;
-    }
-
-h4 {
-  counter-reset : h5;
-    }
-
-h5 {
-  counter-reset : h6;
-    }
-
-article h2:before {
-  content : counter(h2,decimal) ". ";
-  counter-increment : h2;
-}
-
-article h3:before {
-  content : counter(h2,decimal) "." counter(h3,decimal) ". ";
-  counter-increment : h3;
-}
-
-article h4:before {
-  content : counter(h2,decimal) "." counter(h3,decimal) "." counter(h4,decimal) ". ";
-  counter-increment : h4;
-}
-
-article h5:before {
-  content : counter(h2,decimal) "." counter(h3,decimal) "." counter(h4,decimal) "." counter(h5,decimal) ". ";
-  counter-increment : h5;
-}
-
-article h6:before {
-  content : counter(h2,decimal) "." counter(h3,decimal) "." counter(h4,decimal) "." counter(h5,decimal) "." counter(h6,decimal) ". ";
-  counter-increment : h6;
-}
-
-h2.nocount:before, h3.nocount:before, h4.nocount:before, h5.nocount:before, h6.nocount:before {
-  content : "";
-  counter-increment : none;
-}
-    
- </style>
  
