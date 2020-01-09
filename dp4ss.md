@@ -70,8 +70,7 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   margin-left: 20px;
 }  
 
-/* hide H2 H3 etc from TOC */
-#markdown-toc ul li li {
+#markdown-toc li ul li {
   display:none;
 }  
 
