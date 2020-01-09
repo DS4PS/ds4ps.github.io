@@ -321,9 +321,9 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
 * Counting missing data: 
   - sum( is.na(x) )
 * Categorical data:  
-  - tables
+  - table( f1, f2 )
   - prop.table() and margin.table()
-* Numeric data:  min, max, mean, summary / quantile
+* Numeric data:  min, max, mean, median, summary, quantile
   - all vectors at once:  summary( data.frame )
 
 
@@ -333,7 +333,8 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
 * Functions over levels of numeric data:  tapply( v1, cut(v2) )
 * tapply( v1, INDEX=list(f1,f2)  or dplyr:: group_by() + summarise()
 * aggregate( dat, FUN, by=f1 )
-*  https://cran.r-project.org/web/packages/DescTools/vignettes/DescToolsCompanion.pdf
+* https://cran.r-project.org/web/packages/DescTools/vignettes/DescToolsCompanion.pdf
+* v1, v2 using cor() or visually with pairs() 
 
 <br>
 <br>
@@ -351,7 +352,6 @@ For a great overview with examples of R code:
 * Tufte’s rules 
 * Visual tragedies 
 
-
 ## Core Graphics Engine [ [Core](http://ds4ps.org/dp4ss-textbook/p-061-plot-basics.html) ] [ [Custom](http://ds4ps.org/dp4ss-textbook/p-062-customized-graphics.html) ] 
 * Defining a canvas: xlim, ylim
 * Adding data
@@ -365,23 +365,35 @@ For a great overview with examples of R code:
 * Adding data labels:  text()
 * Margins
 
-## Colors in R 
-* Pre-programmed pallete 
-* RGB and 
+## Colors in R
+* select by name: 
+  - pre-programmed pallete 
+  - popular packages 
+* color theory: https://www.canva.com/colors/color-wheel/ 
+  - value
+  - shade, tint, tone 
+  - hue, saturation 
+  - transparency 
+* RGB values vs Hex codes
+  - https://htmlcolorcodes.com/
+* color functions
 
 ## Advanced Features 
-* Colors and color functions
-* Custom fonts / math symbols
-* Multiple Plots (core graphics)
-  - Incorrect:  https://en.wikipedia.org/wiki/File:Smallmult.png#/media/File:Smallmult.png
+* Custom fonts 
+* Math symbols 
+* Multiple plots (core graphics)
+  - incorrect:  https://en.wikipedia.org/wiki/File:Smallmult.png#/media/File:Smallmult.png
 * Custom graph layouts
 
 ## ggplot2  [ [Intro to the Grammar of Graphics](http://ds4ps.org/dp4ss-textbook/ch-102-ggplot2.html) ]
 * Grammar of graphics concept
 * ggplot overview
 
+<br>
+<br>
 
-# Make Dynamic
+
+# Dynamic Documents 
 
 ## R shiny [ [overview](https://github.com/DS4PS/cpp-526-fall-2019/raw/master/lectures/shiny-widgets.pdf) ] [ [tutorial](http://rmarkdown.rstudio.com/authoring_shiny.html) ] 
 * What makes documents dynamic? 
