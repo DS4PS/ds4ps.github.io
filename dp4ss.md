@@ -580,7 +580,7 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     font-weight: bold;
 }
 
-pre code {
+pre, code {
   border: none;
 }
 
