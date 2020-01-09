@@ -174,9 +174,9 @@ We will need three tools to manage your data science projects: a data programmin
 
 ## [Vectors](http://ds4ps.org/dp4ss-textbook/ch-050-vectors.html)   
 * Vector Types
-  - Numeric (V)
-  - Character (S)
-  - Factor (ordered vs unordered) (F)
+  - Numeric (v)
+  - Character (s)
+  - Factor (ordered vs unordered) (f)
   - Logical (true/false) (L)
 * Checking vector types
   - data class 
@@ -212,7 +212,7 @@ We will need three tools to manage your data science projects: a data programmin
 
 * Creating data frames from vectors  
   - rows and columns  
-* the $ operator 
+* the `$` operator 
 * Checking and changing class types 
 
 
@@ -252,10 +252,10 @@ Data **import** and **export** *[ input / output ]*.
 ## Navigation 
 * Working directories
   - paths: windows v linux 
-  - current working directory: getwd() 
-  - change working directory: setwd() 
-  - check files in directory: dir()
-  - create new folder: dir.create( "name" )
+  - current working directory: `getwd()` 
+  - change working directory: `setwd()` 
+  - check files in directory: `dir()`
+  - create new folder: `dir.create( "name" )`
 * Unzip files 
 * Delete files 
 
@@ -313,7 +313,7 @@ Data wrangling is the process of preparing data for analysis, which includes rea
 
 The goal of data wrangling is to create a **rodeo dataset** (clean and well-structured) that is ready for the big show (modeling and visualization)! 
 
-## Slicing Datasets – Base R and dplyr  [ [CH-11](http://ds4ps.org/dp4ss-textbook/p-070-data-verbs.html) ]
+## [Slicing Datasets](http://ds4ps.org/dp4ss-textbook/p-070-data-verbs.html) 
 * Subset operator []
   - by position 
   - by name 
@@ -330,12 +330,12 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
   - with index 
   - order / match
 
-## Data Wrangling Recipes [ [CH-12](http://ds4ps.org/dp4ss-textbook/p-072-data-recipes.html) ]
+## [Data Wrangling Recipes](http://ds4ps.org/dp4ss-textbook/p-072-data-recipes.html) 
 * Pipe operator 
 * Window vs summary functions 
 * dplyr [cheat sheet](https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) 
 
-## Combining Datasets  [ [CH-13](http://ds4ps.org/dp4ss-textbook/p-076-merging-data.html) ]
+## [Combining Datasets](http://ds4ps.org/dp4ss-textbook/p-076-merging-data.html) 
 * merge and match
 * join in dplyr
 * inner, outer, right, left
@@ -349,24 +349,25 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
 
 ## Summarizing Vectors
 * Counting things:  
-  - sum( logical statement )
+  - `sum( logical statement )`
 * Counting missing data: 
   - sum( is.na(x) )
 * Categorical data:  
-  - table( f1, f2 )
-  - prop.table() and margin.table()
+  - `table( f1, f2 )`
+  - `prop.table()` and `margin.table()`
 * Numeric data:  min, max, mean, median, summary, quantile
-  - all vectors at once:  summary( data.frame )
+  - all vectors at once:  `summary( data.frame )`
 
 
 ## Summarizing Groups of Vectors
-* Table ( f1, f2 ), ftable( row.vars=c(“f1”,”f2”), col.vars=”f3” )
-* Function over groups:  tapply( v1, f1 )  or dplyr:: group_by() + summarise()
-* Functions over levels of numeric data:  tapply( v1, cut(v2) )
-* tapply( v1, INDEX=list(f1,f2)  or dplyr:: group_by() + summarise()
-* aggregate( dat, FUN, by=f1 )
+* `table( f1, f2 )` 
+* `ftable( row.vars=c("f1","f2"), col.vars="f3" )`
+* Function over groups:  `tapply( v1, f1 )`  or `dplyr:: group_by() + summarise()`
+* Functions over levels of numeric data:  `tapply( v1, cut(v2) )`
+* `tapply( v1, INDEX=list(f1,f2)`  or `dplyr:: group_by() + summarise()`
+* `aggregate( dat, FUN, by=f1 )`
 * https://cran.r-project.org/web/packages/DescTools/vignettes/DescToolsCompanion.pdf
-* v1, v2 using cor() or visually with pairs() 
+* v1, v2 using `cor()` or visually with `pairs()` 
 
 <br>
 <br>
@@ -376,7 +377,7 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
 
 # Efficient Analysis With Groups
 
-## Groups [ [CH-10](http://ds4ps.org/dp4ss-textbook/p-050-business-logic.html) ]  
+## [Groups](http://ds4ps.org/dp4ss-textbook/p-050-business-logic.html) 
 * Logical statements 
   - define group criteria 
   - TRUE signifies membership
@@ -389,7 +390,7 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
 * Casting logical vectors 
 
 
-## Group Structure [ [CH-14](http://ds4ps.org/dp4ss-textbook/p-073-group-structure.html) ]  
+## [Group Structure](http://ds4ps.org/dp4ss-textbook/p-073-group-structure.html) 
 * Combining factors and numeric data for analysis 
 * Faceting in plots 
 
@@ -409,22 +410,23 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
 * Group dimensionality 
   - how many unique groups are in the data? 
   - combinatorics of attributes
-  - total groups from F1 and F2 = nlevels(F1) * nlevels(F2) 
-* Latent groups 
-  - clustering  
+  - total groups from f1 and f2 `= nlevels(F1) · nlevels(F2)` 
+ 
 * Groups as problem spaces 
   - complexity theory 
   - search 
   - dimension reduction 
 
+## Latent Groups 
+  - clustering 
 
 ## Analysis with Groups   
 * Contingency tables  
-  - counts of members:  F1 * F2
+  - counts of members:  `f1 · f2`
 * Statistics by group
-  - function applied over a group: V1 ~ F1 * F2
-  - apply() functions 
-  - dplyr group_by() and summarize() functions 
+  - function applied over a group: `v1 ~ f1 · f2`
+  - `apply()` functions 
+  - dplyr `group_by()` and `summarize()` functions 
 
 
 
