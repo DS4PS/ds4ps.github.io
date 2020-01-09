@@ -229,7 +229,7 @@ We will need three tools to manage your data science projects: a data programmin
 * Building data objects: 
   - `data.frame()` vs `cbind()` and `rbind()`
 * Variable transformations in df's
-  - assignment inside a df: `dat$x_squared <- x*x`
+  - assignment inside a df: `dat$x_squared <- x·x`
   - `dplyr::mutate` vs `dplyr::transmute()`
 
 
