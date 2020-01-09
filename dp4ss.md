@@ -38,6 +38,7 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   font-size: 24px;
   padding: 10px;
   margin-top: 70px;
+  margin-bottom: 40px;
 }
 
 
@@ -106,7 +107,7 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 
 
   
-## Data Programming for Social Sciences
+#### Data Programming for Social Sciences
 
 Textbook and labs for teaching data programming to social science audiences. 
 
