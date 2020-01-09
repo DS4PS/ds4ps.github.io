@@ -58,7 +58,10 @@ Source Code</a>
 
 This textbook is being developed by adapting lecture notes and resources from a graduate-level introductory course in data science that is offered at the Watts College of Public Service at Arzona State University. 
 
-Comments and suggestions are welcome! [![button]([![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://github.com/DS4PS/dp4ss-textbook/issues/new)
+Comments and suggestions are welcome! <a rel="license" href="https://github.com/DS4PS/dp4ss-textbook/issues/new">
+<img src="https://image.flaticon.com/icons/png/512/813/813419.png" alt="new issue" style="width:50px;"></a>
+
+[![button](https://image.flaticon.com/icons/png/512/813/813419.png)](https://github.com/DS4PS/dp4ss-textbook/issues/new)
 
 
 <br>
