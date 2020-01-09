@@ -42,6 +42,9 @@ Jamison Crawford
 <br> 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution · NonCommercial · ShareAlike</a>
 
+<br>
+<br>
+<br>
 
 <a rel="license" href="https://github.com/DS4PS/dp4ss-textbook">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-logo-png-transparent.png" alt="GitHub" style="width:100px;">
