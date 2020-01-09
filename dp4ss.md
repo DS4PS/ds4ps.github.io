@@ -56,7 +56,9 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 </style>  
 
 
-
+<div class="textbook-toc">
+  
+  
 ## Data Programming for Social Sciences
 
 Textbook and labs for teaching data programming to social science audiences. 
@@ -83,7 +85,7 @@ Textbook and labs for teaching data programming to social science audiences.
 
 
 
-<div class="textbook-toc">
+
 
 
 
