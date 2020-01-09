@@ -256,9 +256,9 @@ Data **import** and **export** *[ input / output ]*.
   - current working directory: `getwd()` 
   - change working directory: `setwd()` 
   - check files in directory: `dir()`
-  - create new folder: `dir.create( "name" )`
-* Unzip files 
-* Delete files 
+  - create new folder: `dir.create("name")`
+* Unzip files `unzip("filename")`
+* Delete files [tutorial](http://theautomatic.net/2018/07/11/manipulate-files-r/)
 
 ## Built-In Datasets
 * Core R datasets 
@@ -315,18 +315,18 @@ Data wrangling is the process of preparing data for analysis, which includes rea
 The goal of data wrangling is to create a **rodeo dataset** (clean and well-structured) that is ready for the big show (modeling and visualization)! 
 
 ## [Slicing Datasets](http://ds4ps.org/dp4ss-textbook/p-070-data-verbs.html) 
-* Subset operator []
+* Subset operator `[]`
   - by position 
   - by name 
   - by logical vector 
   - with recycling
 * Selector vectors
 * Subset by row 
-  - dat[ row_selector , ]
-  - dplyr::filter( dat, row_selector )
+  - `dat[ row_selector , ]`
+  - `dplyr::filter( dat, row_selector )`
 * Subset by column
-  - dat[ , column_selector ] 
-  - dplyr::select( dat, column_selector )
+  - `dat[ , column_selector ] `
+  - `dplyr::select( dat, column_selector )`
 * Reorder 
   - with index 
   - order / match
@@ -337,8 +337,8 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
 * dplyr [cheat sheet](https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) 
 
 ## [Combining Datasets](http://ds4ps.org/dp4ss-textbook/p-076-merging-data.html) 
-* merge and match
-* join in dplyr
+* `merge()` and `match()`
+* `join()` in dplyr
 * inner, outer, right, left
 
 <br>
@@ -352,7 +352,7 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
 * Counting things:  
   - `sum( logical statement )`
 * Counting missing data: 
-  - sum( is.na(x) )
+  - `sum( is.na(x) )`
 * Categorical data:  
   - `table( f1, f2 )`
   - `prop.table()` and `margin.table()`
