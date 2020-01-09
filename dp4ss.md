@@ -147,6 +147,7 @@ Textbook and labs for teaching data programming to social science audiences.
 
 -----------------------
 
+* TOC
 {:toc}
 
 -----------------------
@@ -167,17 +168,19 @@ Textbook and labs for teaching data programming to social science audiences.
 
 
 
-# Your Data Science Toolkit
-
+# Your Data Science Toolkit  
+ 
 We will need three tools to manage your data science projects: a data programming language (R), a project management interfact (R Studio), and a way to create data-driven documents (R Markdown).  
-
-## Core R [ [CH-01](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html) ]  
+ 
+ 
+## Core R [ [CH-01](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html) ]   
 
 * What is R?  [ [video](https://player.vimeo.com/video/180644880) ]  
 * Packages  
   - [CRAN Views](https://cran.r-project.org/web/views/)  
   - [Awesome R](https://awesome-r.com/)  
   - [R Bloggers](https://www.r-bloggers.com/) 
+
 
 
 ## R Studio [ [CH-02](http://ds4ps.org/dp4ss-textbook/ch-020-rstudio.html) ]  
@@ -227,9 +230,9 @@ We will need three tools to manage your data science projects: a data programmin
 
 
 
-# Basic R
+# Basic R 
 
-## R as a Calculator [ [CH-05](http://ds4ps.org/dp4ss-textbook/ch-033-calculator.html) ]
+## R as a Calculator [ [CH-05](http://ds4ps.org/dp4ss-textbook/ch-033-calculator.html) ]  
 * Mathematical Operators 
 * Assignment 
 * Objects
@@ -261,7 +264,8 @@ We will need three tools to manage your data science projects: a data programmin
 
 # One-Dimensional Datasets
 
-## Vectors  [ [CH-09](http://ds4ps.org/dp4ss-textbook/ch-050-vectors.html) ]
+
+## Vectors  [ [CH-09](http://ds4ps.org/dp4ss-textbook/ch-050-vectors.html) ]  
 * Vector Types
   - Numeric (V)
   - Character (S)
@@ -271,14 +275,16 @@ We will need three tools to manage your data science projects: a data programmin
   - data class 
   - data mode 
 
-## Converting Data Type 
+## Converting Data Type   
 * Casting  
   - explicit casting 
   - implicit casting (coercion)
 * Information loss 
 * Care with factors  
 
-## Transformations 
+
+
+## Transformations   
 * Linear transformations 
   - vectorized functions 
   - recycling rules 
@@ -287,7 +293,9 @@ We will need three tools to manage your data science projects: a data programmin
   - recoding factors 
 * Floors and ceilings 
 
-## Groups [ [CH-10](http://ds4ps.org/dp4ss-textbook/p-050-business-logic.html) ]
+
+
+## Groups [ [CH-10](http://ds4ps.org/dp4ss-textbook/p-050-business-logic.html) ]  
 * Boolean groups
   - defining groups with logical statements 
 * Logical statements 
@@ -299,7 +307,9 @@ We will need three tools to manage your data science projects: a data programmin
 * Compound logical statements:  AND and OR
 * Casting logical vectors 
 
-## Counting Group Members 
+
+
+## Counting Group Members  
 * Mathematical operators with logical vectors
   - counts of members: sum( L1 )
   - proportions of members: mean( L1 )
@@ -307,7 +317,8 @@ We will need three tools to manage your data science projects: a data programmin
   - subset then tabulate 
   - logical statement in numerator and demoninator 
  
-## The Mathematics of Groups
+ 
+## The Mathematics of Groups  
 * Group structure 
   - generalizing logical statements 
 * Group dimensionality 
@@ -321,7 +332,8 @@ We will need three tools to manage your data science projects: a data programmin
   - search 
   - dimension reduction 
 
-## Analysis with Groups  
+
+## Analysis with Groups   
 * Contingency tables  
   - counts of members:  F1 * F2
 * Statistics by group
@@ -349,21 +361,22 @@ We will need three tools to manage your data science projects: a data programmin
   - dplyr::filter and dplyr::select 
 * Reorder rows or columns
   - sort() versus order()
-  - dplyr::arrange
+  - dplyr::arrange 
 
-## Dataframe Constructors 
+## Dataframe Constructors   
 * Building data objects: 
   - data.frame() vs cbind() and rbind()
 * Variable transformations in df's
   - assignment inside a df: dat$x_squared <- x*x
   - dplyr::mutate vs dplyr::transmute()
 
-## Matrices and Lists
-* Matrix
-* Lists
-* Conversions:
-- matrix to df
-- list to df
+
+## Matrices and Lists 
+* Matrix 
+* Lists 
+* Conversions: 
+  - matrix to df 
+  - list to df 
 
 <br>
 <br>
