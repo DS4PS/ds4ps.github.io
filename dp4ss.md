@@ -11,7 +11,7 @@ permalink: /dp4ss/
 
 <style>
   
-.article>ul {
+.post-content>ul {
 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
   font-size: 18px; 
   font-style: normal; 
@@ -20,19 +20,19 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   line-height: 26.4px;
 }
 
-.article>h2 { 
+.post-content>h2 { 
   font-size: 22px;  
   color: maroon;
 }
 
-.article>h4 { 
+.post-content>h4 { 
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
   font-weight: 100;
   font-size: 42px;  
   color: maroon;
 }
 
-.article>h1 {
+.post-content>h1 {
   background-color: #666;
   color: white;
   font-size: 24px;
