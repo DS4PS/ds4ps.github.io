@@ -181,8 +181,8 @@ We will need three tools to manage your data science projects: a data programmin
 # Getting Started 
 
 ## Starting to Code  
-* [Style Guides](https://jef.works/R-style-guide/)   
 * [RMD File Styles and Knitting Tips](https://ds4ps.org/cpp-526-fall-2019/labs/r-markdown-files.html)  
+* [Style Guides](https://jef.works/R-style-guide/)  
 
 
 ## Getting Help [ [CH-08](http://ds4ps.org/dp4ss-textbook/ch-021-help.html) ]  
@@ -200,7 +200,7 @@ We will need three tools to manage your data science projects: a data programmin
 
 
 
-# Basic R 
+# Using R 
 
 ## R as a Calculator [ [CH-05](http://ds4ps.org/dp4ss-textbook/ch-033-calculator.html) ]  
 * Mathematical Operators 
@@ -263,53 +263,8 @@ We will need three tools to manage your data science projects: a data programmin
   - recoding factors 
 * Floors and ceilings 
 
-
-
-## Groups [ [CH-10](http://ds4ps.org/dp4ss-textbook/p-050-business-logic.html) ]  
-* Boolean groups
-  - defining groups with logical statements 
-* Logical statements 
-* Group constructors 
-  - from categorical variables
-  - from numeric variables
-  - from strings 
-  - from missing values 
-* Compound logical statements:  AND and OR
-* Casting logical vectors 
-
-
-
-## Counting Group Members  
-* Mathematical operators with logical vectors
-  - counts of members: sum( L1 )
-  - proportions of members: mean( L1 )
-* Conditional proportions 
-  - subset then tabulate 
-  - logical statement in numerator and demoninator 
- 
- 
-## The Mathematics of Groups  
-* Group structure 
-  - generalizing logical statements 
-* Group dimensionality 
-  - how many unique groups are in the data? 
-  - combinatorics of attributes
-  - total groups from F1 and F2 = nlevels(F1) * nlevels(F2) 
-* Latent groups 
-  - clustering  
-* Groups as problem spaces 
-  - complexity theory 
-  - search 
-  - dimension reduction 
-
-
-## Analysis with Groups   
-* Contingency tables  
-  - counts of members:  F1 * F2
-* Statistics by group
-  - function applied over a group: V1 ~ F1 * F2
-  - apply() functions 
-  - dplyr group_by() and summarize() functions 
+<br>
+<br>
 
 
 
@@ -396,6 +351,8 @@ We will need three tools to manage your data science projects: a data programmin
 <br>
 
 
+
+
 # Data Wrangling (dplyr)
 
 Data wrangling is the process of preparing data for analysis, which includes reading data into R from a variety of formats, cleaning data, tidying datasets, creating subsets and filters, transforming variables, grouping data, and joining multiple datasets. 
@@ -436,11 +393,6 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
 
 # Explore and Describe
 
-## Group Structure [ [CH-14](http://ds4ps.org/dp4ss-textbook/p-073-group-structure.html) ]  
-* Combining factors and numeric data for analysis 
-* Faceting in plots 
-
-
 ## Summarizing Vectors
 * Counting things:  
   - sum( logical statement )
@@ -467,7 +419,75 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
 
 
 
-# Visualize 
+
+# Efficient Analysis With Groups
+
+## Groups [ [CH-10](http://ds4ps.org/dp4ss-textbook/p-050-business-logic.html) ]  
+* Logical statements 
+  - define group criteria 
+  - TRUE signifies membership
+* Group constructors 
+  - from categorical variables
+  - from numeric variables
+  - from strings 
+  - from missing values 
+* Compound logical statements:  AND and OR
+* Casting logical vectors 
+
+
+## Group Structure [ [CH-14](http://ds4ps.org/dp4ss-textbook/p-073-group-structure.html) ]  
+* Combining factors and numeric data for analysis 
+* Faceting in plots 
+
+
+## Counting Group Members  
+* Mathematical operators with logical vectors
+  - counts of members: sum( L1 )
+  - proportions of members: mean( L1 )
+* Conditional proportions 
+  - subset then tabulate 
+  - logical statement in numerator and demoninator 
+ 
+ 
+## The Mathematics of Groups  
+* Group structure 
+  - generalizing logical statements 
+* Group dimensionality 
+  - how many unique groups are in the data? 
+  - combinatorics of attributes
+  - total groups from F1 and F2 = nlevels(F1) * nlevels(F2) 
+* Latent groups 
+  - clustering  
+* Groups as problem spaces 
+  - complexity theory 
+  - search 
+  - dimension reduction 
+
+
+## Analysis with Groups   
+* Contingency tables  
+  - counts of members:  F1 * F2
+* Statistics by group
+  - function applied over a group: V1 ~ F1 * F2
+  - apply() functions 
+  - dplyr group_by() and summarize() functions 
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+# Visualization 
 
 For a great overview with examples of R code: 
 
@@ -504,7 +524,7 @@ For a great overview with examples of R code:
   - https://htmlcolorcodes.com/
 * color functions
 
-## Advanced Features 
+## Advanced Plot Features 
 * Custom fonts 
 * Math symbols 
 * Multiple plots (core graphics)
@@ -514,6 +534,9 @@ For a great overview with examples of R code:
 ## ggplot2  [ [Intro to the Grammar of Graphics](http://ds4ps.org/dp4ss-textbook/ch-102-ggplot2.html) ]
 * Grammar of graphics concept
 * ggplot overview
+
+
+## Animations 
 
 <br>
 <br>
