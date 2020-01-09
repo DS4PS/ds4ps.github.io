@@ -28,8 +28,9 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 .post-content>h4 { 
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
   font-weight: 100;
-  font-size: 42px;  
+  font-size: 48px;  
   color: maroon;
+  line-height: 1.1em;
 }
 
 .post-content>h1 {
@@ -107,12 +108,14 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 
 
   
-#### Data Programming for Social Sciences
-
-Textbook and labs for teaching data programming to social science audiences. 
-
+#### DP4SS: Data Programming for the Social Sciences
 
 <br>
+
+A casual introduction to data programming with R for social science audiences. 
+
+<br>
+
 **CONTENTS:**
 
 -----------------------
