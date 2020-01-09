@@ -160,7 +160,7 @@ We will need three tools to manage your data science projects: a data programmin
 * Values 
 * Returns 
 
-## Logical Operators
+## [Logical Operators](http://ds4ps.org/dp4ss-textbook/p-050-business-logic.html)
 * Logical operators 
   - equal
   - not equal 
