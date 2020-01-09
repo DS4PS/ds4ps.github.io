@@ -29,11 +29,14 @@ in R for social science audiences.
 
 <br> <br> 
 
-*Jesse Lecy* <br> 
-*&* <br> 
-*Jamison Crawford*
+Jesse Lecy <br> 
+& <br> 
+Jamison Crawford
 
-<br> <br> 
+<br> 
+<br> 
+<br> 
+<br> 
 
 <img src="https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/assets/img/cc.logo.png" alt="CC License" style="width:200px;">
 <br> 
@@ -43,6 +46,8 @@ in R for social science audiences.
 
 <br>
 <br>
+<br>
+
 
 
 **CONTENTS:**
