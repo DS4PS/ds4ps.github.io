@@ -16,13 +16,16 @@ permalink: /dp4ss/
 <br>
 <br>
 
-<center>
+
   
 #### DP4SS: Data Programming for the Social Sciences
 
 <br>
 
-A gentle introduction to data programming in R for social science audiences. 
+<center>
+  
+A gentle introduction to data programming 
+in R for social science audiences. 
 
 *Jesse Lecy* 
 *&* 
@@ -30,7 +33,7 @@ A gentle introduction to data programming in R for social science audiences.
 
 <img src="https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/assets/img/cc.logo.png" alt="CC License" style="width:200px;">
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 </a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution · NonCommercial · ShareAlike 4.0 </a>.
 
 </center>
 
