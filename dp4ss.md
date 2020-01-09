@@ -55,6 +55,12 @@ Source Code</a>
 
 <br>
 <br>
+
+This textbook is being developed by adapting lecture notes and resources from a graduate-level introductory course in data science that is offered at the Watts College of Public Service at Arzona State University. 
+
+Comments and suggestions are welcome! [![button]([![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://github.com/DS4PS/dp4ss-textbook/issues/new)
+
+
 <br>
 
 
