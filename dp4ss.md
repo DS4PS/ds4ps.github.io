@@ -575,6 +575,10 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     font-weight: bold;
 }
 
+pre code {
+  border: none;
+}
+
 .collapsible {
   background-color: #fff;
   color: #444;
