@@ -9,110 +9,7 @@ permalink: /dp4ss/
 
 
 
-<style>
-  
-.post-content>ul {
-font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
-  font-size: 18px; 
-  font-style: normal; 
-  font-variant: small-caps; 
-  font-weight: 100;
-  line-height: 26.4px;
-}
 
-.post-content>h2 { 
-  font-size: 22px;  
-  color: maroon;
-}
-
-.post-content>h4 { 
-  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
-  font-weight: 100;
-  font-size: 48px;  
-  color: maroon;
-  line-height: 1.1em;
-}
-
-.post-content>h1 {
-  background-color: #666;
-  color: white;
-  font-size: 24px;
-  padding: 10px;
-  margin-top: 70px;
-  margin-bottom: 40px;
-}
-
-.post-content>a {
-  color: maroon;
-  font-weight: normal;
-} 
-
-.navbar-nav>li>a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    box-sizing: border-box;
-    height: 80px;
-    padding: 0 15px;
-    font-size: .875rem;
-    font-family: system-ui;
-    text-decoration: none;
-}
-
-#markdown-toc ul {
-  font-size:calc(0.85em + 0.25vw);
-  line-height:1.2;
-  font-weight: bold;
-} 
-#markdown-toc ul li {
-  list-style-type: disc !important;
-  font-size:calc(0.65em + 0.25vw);
-  line-height:1.2;
-  margin-left: 20px;
-}  
-
-#markdown-toc li ul li {
-  display:none;
-}  
-
-#markdown-toc a {
-  color: black;
-  font-size:calc(0.65em + 0.25vw);
-  line-height:1.2;
-  font-weight: normal;
-}  
-#markdown-toc a:hover {
-    color: black;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.collapsible {
-  background-color: #fff;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 20%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
-
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
-
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
-
-.content {
-  display: none;
-  overflow: hidden;
-}
-
-</style>  
 
 
 
@@ -307,18 +204,18 @@ We will need three tools to manage your data science projects: a data programmin
 ## Dataframe Subsets  
 
 * Filter rows and select columns  
-  - the [] operator 
-  - dplyr::filter and dplyr::select 
+  - the `[]` operator 
+  - `dplyr::filter` and `dplyr::select` 
 * Reorder rows or columns
-  - sort() versus order()
-  - dplyr::arrange 
+  - `sort()` versus `order()`
+  - `dplyr::arrange` 
 
 ## Dataframe Constructors   
 * Building data objects: 
-  - data.frame() vs cbind() and rbind()
+  - `data.frame()` vs `cbind()` and `rbind()`
 * Variable transformations in df's
-  - assignment inside a df: dat$x_squared <- x*x
-  - dplyr::mutate vs dplyr::transmute()
+  - assignment inside a df: `dat$x_squared <- x*x`
+  - `dplyr::mutate` vs `dplyr::transmute()`
 
 
 ## Matrices and Lists 
@@ -593,7 +490,111 @@ For a great overview with examples of R code:
 
 
 
+<style>
+  
+.post-content>ul {
+font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+  font-size: 18px; 
+  font-style: normal; 
+  font-variant: small-caps; 
+  font-weight: 100;
+  line-height: 26.4px;
+}
 
+.post-content>h2 { 
+  font-size: 22px;  
+  color: maroon;
+}
+
+.post-content>h4 { 
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+  font-weight: 100;
+  font-size: 48px;  
+  color: maroon;
+  line-height: 1.1em;
+}
+
+.post-content>h1 {
+  background-color: #666;
+  color: white;
+  font-size: 24px;
+  padding: 10px;
+  margin-top: 70px;
+  margin-bottom: 40px;
+}
+
+.post-content>a {
+  color: maroon;
+  font-weight: normal;
+} 
+
+.navbar-nav>li>a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    height: 80px;
+    padding: 0 15px;
+    font-size: .875rem;
+    font-family: system-ui;
+    text-decoration: none;
+}
+
+#markdown-toc ul {
+  font-size:calc(0.85em + 0.25vw);
+  line-height:1.2;
+  font-weight: bold;
+} 
+#markdown-toc ul li {
+  list-style-type: disc !important;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
+  margin-left: 20px;
+}  
+
+
+/* #markdown-toc li ul li { */
+/*   display:none; */
+/* }   */
+
+#markdown-toc a {
+  color: black;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
+  font-weight: normal;
+}  
+#markdown-toc a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.collapsible {
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 20%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.content {
+  display: none;
+  overflow: hidden;
+}
+
+</style>  
 
 
 
