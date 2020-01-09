@@ -584,6 +584,17 @@ pre, code {
   border: none;
 }
 
+code {
+    font-size: 1.2em;
+    font-family: "Andale Mono", AndaleMono, monospace;
+    padding: 0px 1px;
+    padding-top: 0px;
+    padding-right: 1px;
+    padding-bottom: 0px;
+    padding-left: 1px;
+    border-radius: 0px;
+}
+
 .collapsible {
   background-color: #fff;
   color: #444;
