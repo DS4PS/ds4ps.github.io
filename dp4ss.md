@@ -80,7 +80,7 @@ Jamison Crawford
 We will need three tools to manage your data science projects: a data programming language (R), a project management interfact (R Studio), and a way to create data-driven documents (R Markdown).  
  
  
-## Core R [ [CH-01](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html) ]   
+## [Core R](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html) ]   
 
 * What is R?  [ [video](https://player.vimeo.com/video/180644880) ]  
 * Packages  
@@ -519,6 +519,7 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 .post-content>h2 { 
   font-size: 22px;  
   color: maroon;
+  font-weight: normal;
 }
 
 .post-content>h4 { 
@@ -538,14 +539,10 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   margin-bottom: 40px;
 }
 
-.post-content>a {
-  color: maroon;
-  font-weight: normal;
-} 
 
 .post-content a {
   color: maroon;
-  font-weight: normal;
+  font-weight: bold;
 } 
 
 .navbar-nav>li>a {
