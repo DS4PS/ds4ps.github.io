@@ -26,7 +26,10 @@ Authors: *Jesse Lecy and Jamison Crawford*
 
 <center>
   
-![](https://mirrors.creativecommons.org/presskit/logos/cc.logo.large.png)
+![](https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/assets/img/cc.logo.png) 
+
+![](assets/img/cc.logo.png) 
+  
   
 Creative Commons International License 
 
