@@ -47,7 +47,7 @@ Jamison Crawford
 <br>
 
 <a rel="license" href="https://github.com/DS4PS/dp4ss-textbook">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-logo-png-transparent.png" alt="GitHub" style="width:100px;">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-logo-png-transparent.png" alt="GitHub" style="width:50px;">
 <br> 
 Source Code</a>
 <br>
