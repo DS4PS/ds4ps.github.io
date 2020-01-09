@@ -151,8 +151,8 @@ We will need three tools to manage your data science projects: a data programmin
 
 ## [R as a Calculator](http://ds4ps.org/dp4ss-textbook/ch-033-calculator.html)   
 * Mathematical Operators 
-* Assignment 
 * Objects
+* Assignment 
  
 ## [Functions](http://ds4ps.org/dp4ss-textbook/ch-040-functions.html)  
 * Input-Output Devices 
@@ -181,6 +181,7 @@ We will need three tools to manage your data science projects: a data programmin
 
 # One-Dimensional Datasets
 
+Vectors are the building blocks of analysis in R. Vectors come in a variety of flavors - we cover the four most salient data types here: numbers, characters, categories, and logical or boolean. 
 
 ## [Vectors](http://ds4ps.org/dp4ss-textbook/ch-050-vectors.html)   
 * Vector Types
@@ -200,8 +201,7 @@ We will need three tools to manage your data science projects: a data programmin
 * Care with factors  
 
 
-
-## Transformations   
+## Variable Transformations   
 * Linear transformations 
   - vectorized functions 
   - recycling rules 
@@ -217,6 +217,8 @@ We will need three tools to manage your data science projects: a data programmin
 
 
 # Two-Dimensional Datasets  
+
+Vectors typically represent individual variables in the social science context. A dataset contains IDs for individuals, and multiple measures from each individual. Typically data is organized so that columns represent distinct variables and rows represent individuals in the dataset. This spreadsheet representation of data is operationalized as **data frames** in R. Here you learn how to construct and manipulate data frames. 
 
 ## Dataframes  
 
@@ -241,7 +243,6 @@ We will need three tools to manage your data science projects: a data programmin
 * Variable transformations in df's
   - assignment inside a df: `dat$x_squared <- x·x`
   - `dplyr::mutate` vs `dplyr::transmute()`
-
 
 ## Matrices and Lists 
 * Matrix 
@@ -357,6 +358,8 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
 
 # Explore and Describe
 
+The first step in the data science process is to get to know your data through descriptive analysis and exploratory analysis that searches for useful patterns or trends. We accomplish this through summary statistics, and in the next section visualization. 
+
 ## Summarizing Vectors
 * Counting things:  
   - `sum( logical statement )`
@@ -386,6 +389,8 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
 
 
 # Efficient Analysis With Groups
+
+As you become proficient with descriptive analysis you will want to find ways to be more efficient. Unless you learn how to scale data exploration and modeling you will not be able to quickly identify patterns in your data. The most efficient way to scale your analysis is to understand the dimensionality or internal problem space in your data, and use **apply** functions in R to replicate analysis over many groups at once. 
 
 ## [Groups](http://ds4ps.org/dp4ss-textbook/p-050-business-logic.html) 
 * Logical statements 
@@ -421,7 +426,6 @@ The goal of data wrangling is to create a **rodeo dataset** (clean and well-stru
   - how many unique groups are in the data? 
   - combinatorics of attributes
   - total groups from f1 and f2 `= nlevels(F1) · nlevels(F2)` 
- 
 * Groups as problem spaces 
   - complexity theory 
   - search 
@@ -488,16 +492,16 @@ For a great overview with examples of R code:
 
 ## Colors in R
 * select by name: 
-  - pre-programmed pallete 
-  - popular packages 
-* color theory: https://www.canva.com/colors/color-wheel/ 
+  - [pre-programmed pallete](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) 
+  - [popular packages](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/) 
+* [color theory](https://www.canva.com/colors/color-wheel/)
   - value
   - shade, tint, tone 
   - hue, saturation 
   - transparency 
-* RGB values vs Hex codes
-  - https://htmlcolorcodes.com/
-* color functions
+* color values 
+  - [RGB codes vs Hex codes](https://htmlcolorcodes.com/)
+* [color functions](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
 
 ## Advanced Plot Features 
 * Custom fonts 
