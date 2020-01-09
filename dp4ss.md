@@ -594,7 +594,7 @@ pre, code {
 }
 
 code {
-    font-size: 0.9em;
+    font-size: 1.1em;
     font-family: "Andale Mono", AndaleMono, monospace;
     padding: 0px 1px;
     padding-top: 0px;
