@@ -127,6 +127,8 @@ We will need three tools to manage your data science projects: a data programmin
  
 # Getting Started 
 
+These are some useful resources and guides for learning how to program if you are new to R or data programming. 
+
 ## Starting to Code  
 * [RMD File Styles and Knitting Tips](https://ds4ps.org/cpp-526-fall-2019/labs/r-markdown-files.html)  
 * [Style Guides](https://jef.works/R-style-guide/)  
@@ -149,6 +151,8 @@ We will need three tools to manage your data science projects: a data programmin
 
 # Using R 
 
+Functions, variables, and operators are the core components of any functional programming language. These first chapters are foundational for everything moving forward. 
+
 ## [R as a Calculator](http://ds4ps.org/dp4ss-textbook/ch-033-calculator.html)   
 * Mathematical Operators 
 * Objects
@@ -166,13 +170,13 @@ We will need three tools to manage your data science projects: a data programmin
   - not equal 
   - greater than or less than 
   - opposite of
-* Special operators 
-  - Maximum 
-  - Minimum 
+
+## Special Operators 
   - Unique values 
   - Duplicates 
   - Missing values (NA)
-
+  - Maximum 
+  - Minimum 
 
 <br>
 <br>
