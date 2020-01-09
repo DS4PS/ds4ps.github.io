@@ -39,49 +39,54 @@ Textbook and labs for teaching data programming to social science audiences.
 
 # Your Data Science Toolkit
 
-We will need three tools to manage your data science projects: a data programming language (R), a project management interfact (R Studio), and a way to create data-driven documents (R Markdown).
+We will need three tools to manage your data science projects: a data programming language (R), a project management interfact (R Studio), and a way to create data-driven documents (R Markdown).  
 
-## Core R [ [CH-01](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html) ]
-* What is R?  [ [video](https://player.vimeo.com/video/180644880) ]
-* Packages 
-  - [CRAN Views](https://cran.r-project.org/web/views/) 
-  - [Awesome R](https://awesome-r.com/) 
-  - [R Bloggers](https://www.r-bloggers.com/)
+## Core R [ [CH-01](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html) ]  
+* What is R?  [ [video](https://player.vimeo.com/video/180644880) ]  
+* Packages  
+  - [CRAN Views](https://cran.r-project.org/web/views/)  
+  - [Awesome R](https://awesome-r.com/)  
+  - [R Bloggers](https://www.r-bloggers.com/) 
 
-## R Studio [ [CH-02](http://ds4ps.org/dp4ss-textbook/ch-020-rstudio.html) ]
-* Installing R and R Studio
-* Tour of R Studio 
 
-## Data-Driven Docs [ [CH-03](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) ]
-* Automation & Flexibility 
-* [The Importance of Reproducibility](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970) 
-* Formats [link](https://rmarkdown.rstudio.com/formats.html)
-* Gallery [link](https://rmarkdown.rstudio.com/gallery.html)
+## R Studio [ [CH-02](http://ds4ps.org/dp4ss-textbook/ch-020-rstudio.html) ]  
+* Installing R and R Studio  
+* Tour of R Studio  
 
-## Markdown [ [CH-04](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html) ]
-* R Markdown Formats [overview](https://rmarkdown.rstudio.com/lesson-1.html)
-  * Headers and Chunks [link](https://ds4ps.org/docs/#how-do-data-driven-docs-work)
-  * Knitting [link](https://ds4ps.org/docs/#knitting-r-markdown-files)
-  * [Customization](https://holtzy.github.io/Pimp-my-rmd/)
+
+## Data-Driven Docs [ [CH-03](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) ]  
+* Automation & Flexibility   
+* [The Importance of Reproducibility](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)  
+* Formats [link](https://rmarkdown.rstudio.com/formats.html)  
+* Gallery [link](https://rmarkdown.rstudio.com/gallery.html)  
+
+
+## Markdown [ [CH-04](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html) ]  
+* R Markdown Formats [overview](https://rmarkdown.rstudio.com/lesson-1.html)  
+  * Headers and Chunks [link](https://ds4ps.org/docs/#how-do-data-driven-docs-work)  
+  * Knitting [link](https://ds4ps.org/docs/#knitting-r-markdown-files)  
+  * [Customization](https://holtzy.github.io/Pimp-my-rmd/) 
  
 <br>
 <br>
 
  
-# Getting Started
+# Getting Started 
 
-## Starting to Code 
-* [Style Guides](https://jef.works/R-style-guide/) 
-* [RMD File Styles and Knitting Tips](https://ds4ps.org/cpp-526-fall-2019/labs/r-markdown-files.html)
+## Starting to Code  
+* [Style Guides](https://jef.works/R-style-guide/)   
+* [RMD File Styles and Knitting Tips](https://ds4ps.org/cpp-526-fall-2019/labs/r-markdown-files.html)  
 
-## Getting Help [ [CH-08](http://ds4ps.org/dp4ss-textbook/ch-021-help.html) ]
-* Help files 
-* Error messages 
-* Discussion boards 
 
-## The Learning Curve [ [CH-07](http://ds4ps.org/dp4ss-textbook/ch-032-learning_r.html) ]
-* Vocabular and verbs 
-* Learning to Learn R
+## Getting Help [ [CH-08](http://ds4ps.org/dp4ss-textbook/ch-021-help.html) ]  
+* Help files   
+* Error messages   
+* Discussion boards  
+
+
+## The Learning Curve [ [CH-07](http://ds4ps.org/dp4ss-textbook/ch-032-learning_r.html) ]  
+* Vocabular and verbs  
+* Learning to Learn R 
 
 <br>
 <br>
