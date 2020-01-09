@@ -11,7 +11,7 @@ permalink: /dp4ss/
 
 <style>
   
-ul {
+.article>ul {
 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
   font-size: 18px; 
   font-style: normal; 
@@ -20,19 +20,19 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   line-height: 26.4px;
 }
 
-h2 { 
+.article>h2 { 
   font-size: 22px;  
   color: maroon;
 }
 
-h4 { 
+.article>h4 { 
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
   font-weight: 100;
   font-size: 42px;  
   color: maroon;
 }
 
-h1 {
+.article>h1 {
   background-color: #666;
   color: white;
   font-size: 24px;
@@ -52,7 +52,55 @@ h1 {
     font-family: system-ui;
     text-decoration: none;
 }
-    
+
+#markdown-toc ul {
+  font-size:calc(0.85em + 0.25vw);
+  line-height:1.2;
+  font-weight: bold;
+} 
+#markdown-toc ul li {
+  list-style-type: disc !important;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
+  margin-left: 20px;
+}  
+#markdown-toc a {
+  color: black;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
+  font-weight: normal;
+}  
+#markdown-toc a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.collapsible {
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 20%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.content {
+  display: none;
+  overflow: hidden;
+}
+
 </style>  
 
 
