@@ -69,6 +69,12 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   line-height:1.2;
   margin-left: 20px;
 }  
+
+/* hide H2 H3 etc from TOC */
+#markdown-toc ul li li {
+  display:none;
+}  
+
 #markdown-toc a {
   color: black;
   font-size:calc(0.65em + 0.25vw);
