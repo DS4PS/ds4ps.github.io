@@ -534,6 +534,11 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   font-weight: normal;
 } 
 
+.post-content a {
+  color: maroon;
+  font-weight: normal;
+} 
+
 .navbar-nav>li>a {
     display: flex;
     justify-content: center;
