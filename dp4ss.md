@@ -15,23 +15,20 @@ permalink: /dp4ss/
 
 <br>
 <br>
+
+<center>
   
 #### DP4SS: Data Programming for the Social Sciences
 
 <br>
 
-A casual introduction to data programming in R for social science audiences. 
+A gentle introduction to data programming in R for social science audiences. 
 
-Authors: *Jesse Lecy and Jamison Crawford*
+*Jesse Lecy* 
+*&* 
+*Jamison Crawford*
 
-<center>
-
-<img src="assets/img/cc.logo.png" alt="Girl in a jacket" style="width:300px;">
-
-<img src="https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/assets/img/cc.logo.png" alt="Girl in a jacket" style="width:300px;">
-
-  
-Creative Commons International License 
+<img src="https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/assets/img/cc.logo.png" alt="CC License" style="width:200px;">
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 </a>.
 
