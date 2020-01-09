@@ -11,7 +11,7 @@ permalink: /dp4ss/
 
 <style>
   
-.textbook-toc>ul {
+ul {
 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
   font-size: 18px; 
   font-style: normal; 
@@ -20,19 +20,19 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   line-height: 26.4px;
 }
 
-.textbook-toc>h2 { 
+h2 { 
   font-size: 22px;  
   color: maroon;
 }
 
-.textbook-toc>h4 { 
+h4 { 
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
   font-weight: 100;
   font-size: 42px;  
   color: maroon;
 }
 
-.textbook-toc>h1 {
+h1 {
   background-color: #666;
   color: white;
   font-size: 24px;
@@ -41,7 +41,7 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
 
-.uk-navbar-nav>li>a {
+.navbar-nav>li>a {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -56,8 +56,7 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 </style>  
 
 
-<div class="textbook-toc">
-  
+
   
 ## Data Programming for Social Sciences
 
@@ -495,7 +494,7 @@ For a great overview with examples of R code:
 <br>
 <br>
 
-</div>
+
 
 
 
