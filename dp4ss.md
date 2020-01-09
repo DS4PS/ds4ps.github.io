@@ -25,11 +25,11 @@ A casual introduction to data programming in R for social science audiences.
 Authors: *Jesse Lecy and Jamison Crawford*
 
 <center>
-  
-![](https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/assets/img/cc.logo.png) 
 
-![](assets/img/cc.logo.png) 
-  
+<img src="assets/img/cc.logo.png" alt="Girl in a jacket" style="width:300px;">
+
+<img src="https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/assets/img/cc.logo.png" alt="Girl in a jacket" style="width:300px;">
+
   
 Creative Commons International License 
 
