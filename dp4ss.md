@@ -278,7 +278,7 @@ Data **import** and **export** *[ input / output ]*.
 * Import from DropBox
 * [ [tutorial](https://www.datacamp.com/community/tutorials/r-data-import-tutorial) ]
 
-## [Exporting Data](http://ds4ps.org/dp4ss-textbook/ch-101-exporting_files.html) ] 
+## [Exporting Data](http://ds4ps.org/dp4ss-textbook/ch-101-exporting_files.html) 
 * Write options 
   - CSV 
   - R Data Sets (RDS)
@@ -497,7 +497,7 @@ For a great overview with examples of R code:
   - incorrect:  https://en.wikipedia.org/wiki/File:Smallmult.png#/media/File:Smallmult.png
 * Custom graph layouts
 
-## [Intro to the Grammar of Graphics and ggplot2](http://ds4ps.org/dp4ss-textbook/ch-102-ggplot2.html) 
+## [Grammar of Graphics and ggplot2](http://ds4ps.org/dp4ss-textbook/ch-102-ggplot2.html) 
 * Grammar of graphics concept
 * ggplot overview
 
@@ -511,7 +511,7 @@ For a great overview with examples of R code:
 
 # Dynamic Documents 
 
-## [R shiny](https://github.com/DS4PS/cpp-526-fall-2019/raw/master/lectures/shiny-widgets.pdf) ] 
+## [R shiny](https://github.com/DS4PS/cpp-526-fall-2019/raw/master/lectures/shiny-widgets.pdf) 
 * What makes documents dynamic? 
 * Widgets 
   - input objects
