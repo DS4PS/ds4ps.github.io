@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Resources
-permalink: /resources/
+title: Program Evaluation Resources
+permalink: /prog-eval-resources/
 ---
 
 
 
-## Data Science Resources
+## Resources for Program Evaluation Classes in R 
 
 Resources for those that want to leverage data science tools for work in government and nonprofits.
 
