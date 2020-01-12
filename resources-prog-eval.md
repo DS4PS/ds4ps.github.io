@@ -56,9 +56,9 @@ _**Program Evaluation for Public Service**_ resources for those teaching or cond
 
 ## Creating Nice Tables in RMD
 
-* [stargazer cheatsheet](https://www.jakeruss.com/cheatsheets/stargazer/)
-* [xtable gallery](https://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf) 
-* [adding equations](https://datalorax.github.io/equatiomatic/)  
+* stargazer cheatsheet [[tutorial](https://www.jakeruss.com/cheatsheets/stargazer/)]
+* xtable gallery [[pdf](https://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf)]
+* equatiomatic package: turn models objects into markdown equations [[vignette](https://datalorax.github.io/equatiomatic/)]  
 
 
 ## Useful R Packages
