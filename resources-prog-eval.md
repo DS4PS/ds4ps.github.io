@@ -6,9 +6,9 @@ permalink: /prog-eval-resources/
 
 
 
-## Resources for Program Evaluation Classes in R 
+## PE4PS
 
-Resources for those that want to leverage data science tools for work in government and nonprofits.
+_**Program Evaluation for Public Service**_ resources for those teaching or conducting evaluations in R. 
 
 <br>
 **CONTENTS:**
