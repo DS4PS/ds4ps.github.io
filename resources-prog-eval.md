@@ -6,30 +6,15 @@ permalink: /prog-eval-resources/
 
 
 
-## PE4PS
+## PE4PS: Prog Eval 4 Public Service
 
-_**Program Evaluation for Public Service**_ resources for those teaching or conducting evaluations in R. 
-
-<br>
-**CONTENTS:**
-
------------------------
-
-* TOC
-{:toc}
-
------------------------
-
-<br>
-
- 
-
+Program evaluation resources for those teaching or conducting evaluations in R. 
 
 
 
 <br><br>
 
-## Handouts 
+## Lecture Handouts 
 
 * Regression Review Assessment  [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Regression-Review-Self-Test.pdf) ]
 * Common Statistics Notation [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Common-Statistics-Notation.pdf) ] 
@@ -41,7 +26,7 @@ _**Program Evaluation for Public Service**_ resources for those teaching or cond
 * A Taxonomy of Control Variables [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/taxonomy-of-control-variables.pdf) ]  
 
 
-## Regression Tutorial for R
+## Regression Tutorials in R
 
 * UC Business Analytics [ [link](https://uc-r.github.io/linear_regression) ]
 * By Manny Gimond [ [link](http://mgimond.github.io/Stats-in-R/regression.html) ]
@@ -61,17 +46,17 @@ _**Program Evaluation for Public Service**_ resources for those teaching or cond
 * equatiomatic package: turn models objects into markdown equations [[vignette](https://datalorax.github.io/equatiomatic/)]  
 
 
-## Useful R Packages
+## Useful R Packages for Regression
 
+* stargazer: nice regression tables 
 * plm: panel linear models 
 * coefplot: create coefficient plots 
 * dplyr: data wrangling 
-* stargazer: nice regression tables 
 * pander: formatting tables 
 * xtable: formatting tables 
 
 
-## Reference Books
+## Reference Texts
 
 * OpenIntro Statistics Textbook [[pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/pubs/openintro-statistics-sample.pdf)]
   - CH-08 Intro to Regression 
