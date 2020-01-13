@@ -445,8 +445,6 @@ As you become proficient with descriptive analysis you will want to find ways to
   - search 
   - dimension reduction 
 
-## Latent Groups 
-  - clustering 
 
 ## Analysis with Groups   
 * Contingency tables  
@@ -457,6 +455,9 @@ As you become proficient with descriptive analysis you will want to find ways to
   - dplyr `group_by()` and `summarize()` functions 
 
 
+## Latent Groups 
+  - clustering 
+  - unsupervised learning approaches 
 
 <br>
 <br>
