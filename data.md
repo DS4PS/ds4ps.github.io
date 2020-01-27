@@ -149,6 +149,14 @@ Data journalists are making their stories transparent by posting the data and co
 
 SHELDUS Database [ [link](https://cemhs.asu.edu/node/7) ]  
 
+
+### Police Data Initiative
+
+The Police Data Initiative is a law enforcement community of practice that includes leading law enforcement agencies, technologists, and researchers committed to engaging their communities in a partnership to improve public safety that is built on a foundation of trust, accountability and innovation. The PDI represents the great work and leadership of more than 130 law enforcement agencies who have released more than 200 datasets to date, and originated as a result of several recommendations in the Task Force on 21st Century Policing that focused on technology and transparency.
+
+[Available Datasets](https://www.policedatainitiative.org/datasets/) 
+
+
 ### Data Blogs  
 
 * Data is Plural by Jeremy Singer-Vine [ [archive](https://tinyletter.com/data-is-plural/archive) ]  
