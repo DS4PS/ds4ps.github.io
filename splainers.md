@@ -26,3 +26,16 @@ https://lindeloev.github.io/tests-as-linear/
 ## Teach Data Science
 
 https://teachdatascience.com/
+
+
+
+## Course Content
+
+https://allisonhorst.github.io/
+
+ESM 206: Introduction to environmental data analysis & stats in R
+
+Stats illustrations: 
+
+https://github.com/allisonhorst/stats-illustrations
+
