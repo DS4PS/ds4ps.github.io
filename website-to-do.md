@@ -73,6 +73,12 @@ How long each step takes?
 What support is available at each stage?
 
 
+## Open Science 
+
+https://www.openscapes.org/champions/
+
+
+
 ## Classes
 
 Complex Networks: https://www.barabasilab.com/course 
