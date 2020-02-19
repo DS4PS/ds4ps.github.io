@@ -1,6 +1,9 @@
 A list of resources for explaining complex topics with simple models, visualizations, widgets, or metaphors. 
 
 
+## Web Scraping
+
+https://www.gastonsanchez.com/
 
 ## Linear Discriminant Analysis
 
