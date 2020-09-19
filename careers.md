@@ -92,8 +92,10 @@ The UK Government has put together a nice overview on [data science career paths
 
 ### Example Job Boards: 
 
+* Tech Jobs for Good  [ [link](https://techjobsforgood.com/) ]   
 * Indeed + “R Statistics” [ [link](https://www.indeed.com/jobs?q=R+Statistics&l=&ts=1546801625888&rs=1) ]  
 * R Users [ [link](https://www.r-users.com/) ]  
+* Idealist.org [ [link]()https://www.idealist.org/en/ ]  
 * Zip Recruiter [ [link](https://www.ziprecruiter.com/Jobs/R-Programmer) ]
 
 <br>
