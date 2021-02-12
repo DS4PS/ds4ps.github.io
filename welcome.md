@@ -79,7 +79,7 @@ There is a non-trivial learning curve to master some of the tools, but the good 
 
 ## Data Programming Languages
 
-Working in the field of data science requires a data programming language. R and Python are the two most common languages you will encounter. Typically if come from the field of computer science you are likely a Python programmer, and if you come from the social sciences, statistics, or engineering yoU typically use R. [There are pros and cons to each](https://github.com/matloff/R-vs.-Python-for-Data-Science), but both are powerful and flexible. 
+Working in the field of data science requires a data programming language. R and Python are the two most common languages you will encounter. Typically if come from the field of computer science you are likely a Python programmer, and if you come from the social sciences or statistics you typically use R. [There are pros and cons to each](https://github.com/matloff/R-vs.-Python-for-Data-Science), but both are powerful and flexible. 
 
 Hadley Wickham made the following [helpful observation](https://qz.com/1661487/hadley-wickham-on-the-future-of-r-python-and-the-tidyverse/) regarding differences between R and Python:
 
