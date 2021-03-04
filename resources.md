@@ -80,7 +80,7 @@ Resources for those that want to leverage data science tools for work in governm
 ### Examples of Good Local Government Portals
 
 * Washington DC [ [site](http://opendata.dc.gov/) ] [ [shapefiles on github](https://github.com/benbalter/dc-maps) ] [ [data community dc](https://github.com/datacommunitydc) ]  
-* Chattanooga Tableau Site [[link](https://performance.chattanooga.gov/dashboard/y4sb-89dw#stronger_neighborhoods) ]
+* Chattanooga Tableau Site [[link](https://www.chattadata.org/) ]
 
 
 
