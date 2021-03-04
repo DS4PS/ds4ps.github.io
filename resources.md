@@ -104,6 +104,7 @@ Examples of how to make your research transparent and extensible.
 
 Suparna Chaudhry and Andrew Heiss [ [paper1](https://stats.andrewheiss.com/donors-ngo-restrictions/index.html) ] [ [paper2](https://stats.andrewheiss.com/ngo-crackdowns-philanthropy/index.html) ] [ [paper3](https://stats.andrewheiss.com/why-donors-donate/index.html) ]  
 
+Lecy, Ashley & Santamarina [ [paper](http://www.lecy.info/s/Lecy-Ashley-Santamarina-PPMR-2019.pdf) ] [ [replication files](https://lecy.github.io/political-ideology-of-nonprofits/) ]
 
 <br><br>
 
