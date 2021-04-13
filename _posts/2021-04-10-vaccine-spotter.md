@@ -23,4 +23,4 @@ Nick Muerdter put his programming expertise to use to help communities get vacci
 
 See his site, [Vaccine Spotter](https://www.vaccinespotter.org/) at www.vaccinespotter.org. 
 
-![](img/covid-vaccine-spotter.png)
+![](https://github.com/DS4PS/ds4ps.github.io/blob/master/_posts/img/covid-vaccine-spotter.png)
