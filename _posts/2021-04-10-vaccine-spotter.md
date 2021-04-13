@@ -21,6 +21,6 @@ Nick Muerdter put his programming expertise to use to help communities get vacci
 > 
 > "This just really sort of tried to automate what you would have to do if you were to go the websites and enter every single zip code or ... check every single store in your area," he said.
 
-See his site, ]Vaccine Spotter](https://www.vaccinespotter.org/) at www.vaccinespotter.org. 
+See his site, [Vaccine Spotter](https://www.vaccinespotter.org/) at www.vaccinespotter.org. 
 
-![](covid-vaccine-spotter.png)
+![](img/covid-vaccine-spotter.png)
