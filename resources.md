@@ -85,7 +85,7 @@ Resources for those that want to leverage data science tools for work in governm
 
 ### Free Tools for Nonprofits
 
-* A curated digital toolkit for nonprofits [ [link] ](https://www.websiteplanet.com/blog/best-tools-non-profits/)
+* A curated digital toolkit for nonprofits [ [link](https://www.websiteplanet.com/blog/best-tools-non-profits/) ]
 
 ### Data Science Vignettes
 
