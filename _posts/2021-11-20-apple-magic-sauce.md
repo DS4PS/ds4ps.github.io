@@ -8,7 +8,7 @@ author: Jesse Lecy
 
 Ever wonder how big data firms are using your social media data? 
 
-The [Psychometrics Center at the University of Cambridge](https://applymagicsauce.com/about-us) (not to be confused with Cambridge Analytica) is promoting awareness of how
+The [Psychometrics Center at the University of Cambridge](https://applymagicsauce.com/about-us) (not to be confused with Cambridge Analytica) is promoting awareness of how your social media data can be used against you: 
 
 > Apply Magic Sauce is a non-profit academic research project coordinated by the University of Cambridge Psychometrics Centre. The demos and platforms available here are a **modest attempt to reverse the trend in Big Data and empower citizens to not only retain control of their data but also derive meaningful insight from it**.
 >
