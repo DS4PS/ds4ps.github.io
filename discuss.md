@@ -66,10 +66,16 @@ ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/cha
 Data for Democracy [ [link](http://datafordemocracy.org/) ]  
 BBC Data Viz Library [ [link](https://bbc.github.io/rcookbook/) ]  
 
+### Public Health  
+
+R Epidemics Consortium (RECON) [ [link](https://www.repidemicsconsortium.org/) ]   
+[R for Epidemiology  [ [link](https://www.r4epi.com/) ]   
+[The Epidemiologist R Handbook](https://www.epirhandbook.com/en/)     
+
+
 ### Disaster Management
 
 Advanced Urban Disaster Resilience Analytics Lab [ [link](http://david-lallemant.com/) ]  
-R Epidemics Consortium (RECON) [ [link](https://www.repidemicsconsortium.org/) ]
 Natural Hazards Center [ [link](https://hazards.colorado.edu/workshop/2019/abstract/research-highlight) ]  
 NHERI Network [ [link](https://www.designsafe-ci.org/#learning) ]  
 CONVERGE Center [ [link](https://podcasts.apple.com/gb/podcast/54-interdisciplinary-natural-hazards-research-lori/id1267927535?i=1000424871302) ]  
