@@ -51,6 +51,11 @@ Data Science for Social Good (U Chicago) [ [link](https://dssg.uchicago.edu/) ]
 DataKind [ [link](https://www.datakind.org/) ]  
 
 
+### Education Policy
+
+OpenSDP [ [tools](https://opensdp.github.io/) ], part of the [Strategic Data Project](https://sdp.cepr.harvard.edu/) at Harvard  
+
+
 ### Data Journalists, Bloggers & Civic Groups
 
 Open Journalism on GitHub (over a dozen newspapers) [ [link](https://github.com/collections/open-journalism) ]  
