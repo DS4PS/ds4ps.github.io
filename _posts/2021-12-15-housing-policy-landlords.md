@@ -5,6 +5,8 @@ tags: [ spatial, open-data, urban ]
 author:
 ---
 
+Data scientists at the Urban Institute develop a methodology for identifying problematic landlords from public data sources. 
+
 > Researchers, housing advocates, and politicians aiming to promote equitable housing and economic recovery are concerned that the growth of speculative investment in single-family homes will exacerbate racial inequity in the housing market for both homeowners and tenants. 
 > 
 > The Urban Institute team partnered with organizations in the Twin Cities to conduct research that would support their agendas for informed and equitable housing policy decisionmaking. The Twin Cities already has the country’s largest racial homeownership gap and a rental market that is unaffordable for low-income renters and renters of color.
