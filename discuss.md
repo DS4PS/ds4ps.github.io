@@ -49,6 +49,8 @@ ARNOVAs Data and Analytics Section [ [link](https://nonprofit-open-data-collecti
 Data Science for Social Good (Georgia Tech) [ [link](https://ds4sg.gatech.edu/) ]  
 Data Science for Social Good (U Chicago) [ [link](https://dssg.uchicago.edu/) ]    
 DataKind [ [link](https://www.datakind.org/) ]  
+Technology Association of Grantmakers (TAG) [ [link](https://www.tagtech.org/) ]  
+The Association of Public Data Users (APDU) [ [link](https://www.apdu.org/) ]  
 
 
 ### Education Policy
