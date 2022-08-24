@@ -149,6 +149,7 @@ Pedestrian & Routes in US Cities Visualized [ [link](http://flowingdata.com/2014
 Winners of Infographic Awards [ [link](https://iguacel.github.io/malofiej/index.html) ]  
 Visual Essays [ [link](https://pudding.cool/) ]
 538 Blog Year in Graphics 2020 [ [link](https://fivethirtyeight.com/features/the-40-weirdest-and-best-charts-we-made-in-2020/) ]  
+Map Mania Blog [ [link](https://googlemapsmania.blogspot.com/) ]  
 
 ### Bad Graphs
 
