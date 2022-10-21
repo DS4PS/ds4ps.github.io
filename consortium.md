@@ -10,9 +10,9 @@ permalink: /consortium/
 
 Information about the emerging Data Science for Public Service Consortium in public affairs. 
 
-<center>
+
 ![](https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/assets/img/public-sector-blue2.jpg)
-</center>
+
 
 
 <br>
@@ -39,17 +39,17 @@ The DS4PS Consortium is an effort to bring together schools of public affairs to
  
  [Overview PowerPoint](assets/ds4ps-overview-ppt)
  
- ## Support 
+## Support 
  
- [About Public Interest Technology](https://www.newamerica.org/pit/blog/what-public-interest-technology-revisiting-term-defines-our-work/)
+[About Public Interest Technology](https://www.newamerica.org/pit/blog/what-public-interest-technology-revisiting-term-defines-our-work/)
  
- [Public Interest Technology University Network Grants](https://news.gsu.edu/2021/11/05/andrew-young-school-public-interest-technology-new-america-data-science-public-service/)
- 
- 
- ## Resources
+[Public Interest Technology University Network Grants](https://news.gsu.edu/2021/11/05/andrew-young-school-public-interest-technology-new-america-data-science-public-service/)
  
  
- ## Contact
+## Resources
+ 
+ 
+## Contact
  
  
  
