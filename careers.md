@@ -62,6 +62,9 @@ Nonprofits, governments, foundations, and think-tanks are actively seeking peopl
 
 The UK Government has put together a nice overview on [data science career paths in government](https://github.com/ukgovdatascience/data_scientist_career_path/blob/master/index.md). 
 
+A new section of USA Jobs highlights data science career paths in the US Federal Government:
+
+[Data Science Roles in Federal Government](https://usajobs.github.io/microsite-data-science/)
 
 ### Federal Government Examples
 
