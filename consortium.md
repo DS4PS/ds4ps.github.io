@@ -34,9 +34,7 @@ Schools of public affairs are increasingly incorporating data science into the c
 
 The DS4PS Consortium is an effort to bring together schools of public affairs to build a community of data science professionals and identify opportunities for improving educational resources that support data science career pathways within our field. 
 
- [Overview](assets/ds4ps-overview.pdf)
- 
- [Overview PowerPoint](assets/ds4ps-overview-ppt)
+ [Overview](assets/ds4ps-overview.pdf) [PowerPoint](assets/ds4ps-overview-ppt.pdf)
  
 ## About
 
@@ -49,9 +47,12 @@ This work is part of the larger movement to define and support [Public Interest 
  
 ## Resources
 
-* Helpful guides like data science competencies. 
-* Open source courses 
-* Program benchmarking 
+* [Data Science Competencies](assets/data-science-competencies.pdf)  
+* [Open source courses](https://github.com/DS4PS)
+  - [Intro to Data Science](https://github.com/DS4PS/intro-data-science-TEMPLATE)  
+  - [Program Evaluation - Andrew Heiss](https://evalf22.classes.andrewheiss.com/)  
+  - [Data Visualization - Andrew Heiss](https://datavizs22.classes.andrewheiss.com/) 
+* [Helpful Program Benchmarking (summer 2022)](assets/naspaa-course-map.pdf) 
  
 ## Contact
 
