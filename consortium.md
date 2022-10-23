@@ -42,7 +42,7 @@ The DS4PS Consortium is an effort to bring together schools of public affairs to
 
 The DS4PS Consortium began as a collaboration between colleagues at Syracuse University, Georgia State University, Arizona State University, and University of Chicago Illinois ([press release](https://news.gsu.edu/2019/09/11/andrew-young-school-data-science-public-service-workshop/)).
  
-Formalization of the idea has been supported by [Public Interest Technology University Network Grants](https://news.gsu.edu/2021/11/05/andrew-young-school-public-interest-technology-new-america-data-science-public-service/) through the New America Foundation. 
+Formalization of the idea as a resource for all of public affairs has been supported by [Public Interest Technology University Network Grants](https://news.gsu.edu/2021/11/05/andrew-young-school-public-interest-technology-new-america-data-science-public-service/) through the New America Foundation. 
 
 This work is part of the larger movement to define and support [Public Interest Technology](https://www.newamerica.org/pit/blog/what-public-interest-technology-revisiting-term-defines-our-work/) at an important historical period of rapid technological change. 
  
