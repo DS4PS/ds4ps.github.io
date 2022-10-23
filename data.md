@@ -54,7 +54,7 @@ In the meantime, enjoy some of these resources:
 
 * I Quant NY [ [budget error](https://iquantny.tumblr.com/post/147446103684/open-data-reveals-791-million-error-in-newly) ] [ [metro fares](https://iquantny.tumblr.com/post/114470101209/i-quant-a-victory-mta-adds-new-button-for) ] [ [parking tickets](https://gizmodo.com/justice-the-fire-hydrant-that-earned-nyc-33-000-a-yea-1585633742) ] 
 * Realizing the Promise of Big Data: IBM Center for Gov.  [ [link](http://www.businessofgovernment.org/sites/default/files/Realizing%20the%20Promise%20of%20Big%20Data_0.pdf) ] 
-* Data Used in 2017 Public Policy Dissertations [ [link](http://publicmanagementresearch.com/2017/12/18/data-for-dissertations-december-18-2017/) ]
+* Data Used in 2017 Public Policy Dissertations [ [link](https://ds4ps.org/2019/03/20/data-for-policy-dissertations.html) ][ [broken link](http://publicmanagementresearch.com/2017/12/18/data-for-dissertations-december-18-2017/) ]
 
 
 ### Guides & Best Practices
