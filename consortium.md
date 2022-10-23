@@ -30,9 +30,15 @@ Information about the emerging Data Science for Public Service Consortium in pub
  
 ## Overview 
  
-Schools of public affairs are increasingly incorporating data science into the curriculum to meet the demand for these skills. Effective managers are often required to leverage data in problem-solving and manage the process of creating and integrating new technologies. Employers in the public and nonprofit sectors seek graduates with the ability to both manage and deploy data as an asset that creates value for organizations and citizens. Evidence-based practices requires ensuring data can be liberated from silos so that it can be used effectively in evaluation or performance systems. All of these skills require updates to the traditional MPA/MPP curriculum. 
+Schools of public affairs are increasingly incorporating data science into the curriculum to meet the demand for these skills: 
 
-The DS4PS Consortium is an effort to bring together schools of public affairs to build a community of data science professionals and identify opportunities for improving educational resources that support data science career pathways within our field. 
+* Modern managers are often required to leverage data in problem-solving and manage the process of creating and integrating new technologies.
+* Employers in the public and nonprofit sectors seek graduates with the ability to both manage and deploy data as an asset that creates value for organizations and citizens. 
+* Evidence-based practices requires ensuring data can be liberated from silos so that it can be used effectively in evaluation or performance systems. 
+
+All of these skills require updates to the traditional MPA/MPP curriculum. 
+
+**The DS4PS Consortium is an effort to bring together schools of public affairs to build a community of data science professionals and identify opportunities for improving educational resources that support data science career pathways within our field.** 
 
  [Overview](assets/ds4ps-overview.pdf) [PowerPoint](assets/ds4ps-overview-ppt.pdf)
  
