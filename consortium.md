@@ -8,11 +8,10 @@ permalink: /consortium/
 
 ## The Consortium
 
-Information about the emerging Data Science for Public Service Consortium in public affairs. 
-
 
 ![](https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/assets/img/public-sector-blue2.jpg)
 
+Information about the emerging Data Science for Public Service Consortium in public affairs. 
 
 
 <br>
