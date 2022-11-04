@@ -52,6 +52,7 @@ DataKind [ [link](https://www.datakind.org/) ]
 Technology Association of Grantmakers (TAG) [ [link](https://www.tagtech.org/) ]  
 The Association of Public Data Users (APDU) [ [link](https://www.apdu.org/) ]  
 GovLab [ [link](https://thegovlab.org/) ]  
+GovEx [ [link](https://govex.jhu.edu/) ]
 
 
 ### Education Policy
