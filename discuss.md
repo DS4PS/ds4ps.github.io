@@ -39,7 +39,7 @@ R Studio Discussions [ [link](https://community.rstudio.com/) ]
 Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]   
 
 
-### Professional DS Networks in On Public and Nonprofits
+### Professional DS Networks on Government and Nonprofits
 
 Nonprofit Open Data Collective [ [link](www.npdata.info) ]    
 GitHub's Government Team [ [link](https://government.github.com/) ]  
@@ -51,6 +51,7 @@ Data Science for Social Good (U Chicago) [ [link](https://dssg.uchicago.edu/) ]
 DataKind [ [link](https://www.datakind.org/) ]  
 Technology Association of Grantmakers (TAG) [ [link](https://www.tagtech.org/) ]  
 The Association of Public Data Users (APDU) [ [link](https://www.apdu.org/) ]  
+GovLab [ [link](https://thegovlab.org/) ]  
 
 
 ### Education Policy
