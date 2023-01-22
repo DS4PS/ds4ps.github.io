@@ -29,17 +29,17 @@ What are other ways that AI might help cities change the way they approach polic
 
 ---------
 
-![](/img/street-transform-04.png)
+![](https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/_posts/img/street-transform-04.png)
 
 ---------
 
-![](street-transform-03.png)
+![](https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/_posts/img/street-transform-03.png)
 
 ---------
 
-![]([img/street-transform-02.png](https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/_posts/img/street-transform-04.png))
+![](https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/_posts/img/street-transform-02.png)
 
 ---------
 
-![](../img/street-transform-01.png)
+![](https://raw.githubusercontent.com/DS4PS/ds4ps.github.io/master/_posts/img/street-transform-01.png)
 
