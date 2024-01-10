@@ -18,7 +18,7 @@ permalink: /dp4ss/
 
 
   
-#### DP4SS: Data Programming for the Social Sciences
+#### Data Programming for the Social Sciences (DP4SS)
 
 <br>
 
@@ -608,7 +608,7 @@ font-family: monospace;
 .post-content a {
   color: maroon;
   font-weight: normal;
-  text-decoration: underline skyblue;
+  text-decoration: underline gray;
 } 
 
 #markdown-toc a {
