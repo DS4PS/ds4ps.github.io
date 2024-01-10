@@ -608,9 +608,13 @@ font-family: monospace;
 .post-content a {
   color: maroon;
   font-weight: normal;
-  text-decoration: underline gray;
+  text-decoration: underline royalblue;
 } 
 
+.post-content>ul a {
+  font-weight: bold;
+}
+  
 #markdown-toc a {
     color: black;
     font-size: calc(0.75em + 0.25vw);
