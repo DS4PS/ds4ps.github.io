@@ -607,6 +607,7 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 .post-content a {
   color: maroon;
   font-weight: bold;
+  text-decoration: underline dotted red;
 } 
 
 .navbar-nav>li>a {
@@ -618,7 +619,6 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     padding: 0 15px;
     font-size: .875rem;
     font-family: system-ui;
-    text-decoration: underline dotted red;
 }
 
 #markdown-toc ul {
