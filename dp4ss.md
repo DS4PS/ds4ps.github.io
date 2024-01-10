@@ -595,11 +595,12 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 
 .post-content>h1 {
 /*   background-color: #666; */
-  color: #666;
-  font-size: 28px;
-  padding: 10px;
+  color: black;
+  font-size: 30px !important;
+  padding: 0px;
   margin-top: 70px;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
+  font-weight: normal !important;
 }
 
 
