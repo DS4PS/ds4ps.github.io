@@ -607,7 +607,7 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 .post-content a {
   color: maroon;
   font-weight: normal;
-  text-decoration: underline;
+  text-decoration: underline skyblue;
 } 
 
 #markdown-toc a {
