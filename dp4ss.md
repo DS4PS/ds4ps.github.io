@@ -595,8 +595,8 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 
 .post-content>h1 {
 /*   background-color: #666; */
-  color: black;
-  font-size: 30px !important;
+  color: #2c0c0c;
+  font-size: 48px !important;
   padding: 0px;
   margin-top: 70px;
   margin-bottom: 10px;
@@ -606,10 +606,18 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 
 .post-content a {
   color: maroon;
-  font-weight: bold;
-  text-decoration: underline dotted red;
+  font-weight: normal;
+  text-decoration: underline;
 } 
 
+#markdown-toc a {
+    color: black;
+    font-size: calc(0.65em + 0.25vw);
+    line-height: 1.2;
+    font-weight: normal;
+    text-decoration: none;
+}
+  
 .navbar-nav>li>a {
     display: flex;
     justify-content: center;
