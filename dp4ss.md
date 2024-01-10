@@ -594,9 +594,9 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
 .post-content>h1 {
-  background-color: #666;
-  color: white;
-  font-size: 24px;
+/*   background-color: #666; */
+  color: #666;
+  font-size: 28px;
   padding: 10px;
   margin-top: 70px;
   margin-bottom: 40px;
@@ -617,7 +617,7 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     padding: 0 15px;
     font-size: .875rem;
     font-family: system-ui;
-    text-decoration: none;
+    text-decoration: underline dotted red;
 }
 
 #markdown-toc ul {
