@@ -572,11 +572,11 @@ For a great overview with examples of R code:
   
 .post-content>ul {
 font-family: monospace; 
-  font-size: 18px; 
+  font-size: 16px; 
   font-style: normal; 
   font-variant: none; 
   font-weight: 100;
-  line-height: 24px;
+  line-height: 30px;
 }
 
 .post-content>h2 { 
@@ -587,7 +587,7 @@ font-family: monospace;
 
 .post-content>h4 { 
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
-  font-weight: 100;
+  font-weight: bold;
   font-size: 48px;  
   color: maroon;
   line-height: 1.1em;
@@ -601,14 +601,13 @@ font-family: monospace;
   padding: 0px;
   margin-top: 70px;
   margin-bottom: 10px;
-  font-weight: normal !important;
 }
 
 
 .post-content a {
   color: maroon;
   font-weight: normal;
-  text-decoration: underline royalblue;
+  text-decoration: underline steelblue;
 } 
 
 .post-content>ul a {
