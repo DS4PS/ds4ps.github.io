@@ -571,16 +571,16 @@ For a great overview with examples of R code:
 <style>
   
 .post-content>ul {
-font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+font-family: monospace; 
   font-size: 18px; 
   font-style: normal; 
-  font-variant: small-caps; 
+  font-variant: none; 
   font-weight: 100;
-  line-height: 26.4px;
+  line-height: 24px;
 }
 
 .post-content>h2 { 
-  font-size: 22px;  
+  font-size: 20px;  
   color: maroon;
   font-weight: normal;
 }
@@ -596,6 +596,7 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 .post-content>h1 {
 /*   background-color: #666; */
   color: #2c0c0c;
+  font-weight: bold;
   font-size: 48px !important;
   padding: 0px;
   margin-top: 70px;
@@ -612,7 +613,7 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 
 #markdown-toc a {
     color: black;
-    font-size: calc(0.65em + 0.25vw);
+    font-size: calc(0.75em + 0.25vw);
     line-height: 1.2;
     font-weight: normal;
     text-decoration: none;
