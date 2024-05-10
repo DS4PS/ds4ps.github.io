@@ -57,7 +57,8 @@ This work is part of the larger movement to define and support [Public Interest 
 * [Open source courses](https://github.com/DS4PS)
   - [Intro to Data Science](https://github.com/DS4PS/intro-data-science-TEMPLATE)  
   - [Program Evaluation - Andrew Heiss](https://evalf22.classes.andrewheiss.com/)  
-  - [Data Visualization - Andrew Heiss](https://datavizs22.classes.andrewheiss.com/) 
+  - [Data Visualization - Andrew Heiss](https://datavizs22.classes.andrewheiss.com/)
+  - [Big Data for Public Good - Cynthia Searcy](https://aysps.github.io/bigdata4publicgood/)
 * [Helpful Program Benchmarking (summer 2022)](assets/naspaa-course-map.pdf) 
  
 ## Contact
